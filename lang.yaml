@@ -29,3 +29,7 @@
 - lang: ko
   name: 한국어 (KO)
   pdf-source: /ko/printable/index.html?pdf=true
+
+- lang: ar
+  name: العربية (AR)
+  pdf-source: /ar/printable/index.html?pdf=true

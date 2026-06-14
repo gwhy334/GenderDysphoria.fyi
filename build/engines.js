@@ -32,6 +32,7 @@ const str2locale = {
   'ru': dateFNSLocales.ru,
   'tw': dateFNSLocales.zhTW,
   'zh': dateFNSLocales.zhCN,
+  'ar': dateFNSLocales.ar,
 };
 
 const markdownEngines = {
