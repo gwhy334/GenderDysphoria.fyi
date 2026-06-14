@@ -26,19 +26,31 @@ tweets:
 {!{
 <div class="gutter" dir="rtl" style="text-align: right;">
   <blockquote>
-    <strong>الجندر (Gender)</strong> - <em>اسم</em><br>
+    <strong>الجندر (Gender) أو النوع</strong> - <em>اسم</em><br>
     مجموعمة من الخصائص المتعلقة بـ وتفرق بين الأنوثة والذكورة. حسب السياق قد تتكون هذه الخصائص من الجنس البيولوجي، أو الدور الاجتماعي، أو الهوية الجندرية (الهوية الشخصية والإحساس بالذات).
   </blockquote>
 </div>
 }!}
 
-If you trace the etymology of the word to its Latin roots, gender simply means "type". The Norman French term **gendre** was in use in the 12th century to describe "the quality of being male or female."
+<div dir="rtl" style="text-align: right;">
 
-Many people attribute the term to psychologist John Money, who proposed using "gender" in 1955 to differentiate mental sex from physical sex. However, Money was not the first to do so. Cultural anthropologist [Margaret Mead](https://en.wikipedia.org/wiki/Margaret_Mead) used the term in 1949 in her book *Male and Female* to distinguish gendered behaviors and roles from biological sex. The American Journal of Psychology ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) described the book thusly:
+الجندر بالعربية هو **االنوع**، بالتحديد **النوع الاجتماعي** كما يطلق عليه أحيانًا النوع الجنسي. أما كلمة جندر فهي الكلمة الانجليزية ذات الأصل اللاتيني، وتعني حرفيًا نفس الكلمة (النوع أو الصنف) باللاتينية. وصل الانجليزية عن طريق اللغة الفرنسية النورماندية في القرن الثاني عشر (gendre) والتي كانت تصف خصائص أن تكون ذكر أو أنثى. في هذه الصفحة سيتم استخدام مصطلح "الجندر" وأحيانًا قد يستبدل بكلمة "النوع" أو "النوع الاجتماعي"
+
+ينسب الكثيرون هذا المصطلح إلى عالم النفس جون موني، الذي اقترح استعمال الجندر في 1955 للتفرقة بين الجنس العقلي والجنس الجسدي. ومع ذلك، لم يكن موني أول من فعل هذا فقد استخدمت عالمة الأنثروبولوجيا الثقافية [مارغريت ميد](https://en.wikipedia.org/wiki/Margaret_Mead) هذا المصطلح في عام 1949 في كتابها *الذكر والأنثى (Male and Female)* للتفرقة بين السلوك والأدوار بناء على النوع وبين نوع الجنس البيولوجي وقد وصفت المجلة الأمريكية في الطب النفسي ([vol. 63, no. 2, 1950, pp. 312](https://www.jstor.org/stable/1418948)) الكتاب كما يلي:
+
+</div>
 
 > A book, moreover, which gives beyond its premise; for it informs the reader upon **'gender' as well as upon 'sex,'** upon masculine and feminine roles as well as upon male and female and their reproductive functions.
 >
 > Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
+
+<div dir="rtl" style="text-align: right;">
+
+> كتابٌ، علاوة على ذلك، يقدم ما هو أبعد من فرضيته الأساسية؛ فهو يُطلع القارئ على **'الجندر' فضلاً عن 'الجنس'،** وعلى الأدوار الذكورية والأنثوية فضلاً عن الذكر والأنثى ووظائفهما الإنجابية.
+>
+> تنتقل مارغريت ميد من الوصف الدقيق إلى المقارنة الأكثر عمومية بين الذكر والأنثى في عدة مجتمعات، لتصل أخيراً إلى تحليل للأنماط الجنسية في أوساطنا وفي عصرنا الحالي.
+
+</div>
 
 {!{
 <div class="gutter">
@@ -49,19 +61,23 @@ Many people attribute the term to psychologist John Money, who proposed using "g
 </div>
 }!}
 
+<div dir="rtl" style="text-align: right;">
+
+الجنس البشري (الاسم وليس الفعل) ينقسم إلى ثلاثة فئات:
+
 Human Sex (the adjective, not the verb) is broken down into three categories:
 
-- **[Genotype](https://en.wikipedia.org/wiki/Genotype)**: The genetically-defined chromosomal kareotype of an organism (XX, XY, [and all variants thereof](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
-- **[Phenotype](https://en.wikipedia.org/wiki/Phenotype)**: The observable primary and secondary sexual characteristics (genitals, fat and muscle distribution, bone structure, etc.)
-- **[Gender](https://en.wikipedia.org/wiki/Gender)**: The **un**observable sexual characteristics, the internal mental model of a person's own sex, and the way that they express it.
+- **[النمط الجيني (Genotype)](https://en.wikipedia.org/wiki/Genotype)**: الكروموسومات المحددة في الجينات الموجودة في نواة الخلية ومجموع هذه الكروموسومات (الكاريوتايب kareotype) (XX, XY, [وكل الاختلافات الأخرى](https://twitter.com/sciencevet2/status/1035250518870900737?lang=en))
+- **[النمط الظاهري (Phenotype)](https://en.wikipedia.org/wiki/Phenotype)**: الخصائيص الجنسية الأساسية والثانوية اللتي يمكن ملاحظتها (الأعضاء التناسلية، توزيع الدهون والعضلات، تركيب العظام، إلخ.)
+- **[الجندر أو النوع الاجتماعي](https://en.wikipedia.org/wiki/Gender)**: الخصائص الجنسية التي لا يمكن ملاحظتها من الخارج، والشعور العقلي الداخلي للشخص حول جنسه، والطريقة التي يعبر بها عن ذلك. وقد يتضمن شعور الشخص بهويته أو بالإنتماء لفئة ما.
 
-Any of these three aspects can fall into a position on a range of values. Your elementary school health class probably taught you that genotype is binary, either female (XX) or male (XY), when the reality is that there are a dozen other permutations that can occur within human beings.
+أي من هذه المواضيع الثلاث قد تقع في أي مكان داخل طيف واسع من الخصائص. قد تكون تعلمت في المدرسة أن النمط الجيني ثنائي أي له شكلان اثنان، اما ذكر (XY) أو أنثى (XX)، لكن في الحقيقة يوجد عدة حالات أخرى ممكنة الحدوث عند بعض البشر.
+
+وبالمثل في النمط الظاهري، اعترف علم الأحياء لسنوات طويلة أنه عندما تقوم برسم بياني لجميع الخصائص الجنسية عبر جموعة سكانية فإنك ستحصل على على توزيع ثنائي المنوال (bimodal distribution) حيث تقع غالبية السكان ضمن شريحة مئوية لمجموعتين. هذا يعني طبيعيًا سيقع بعض الأشخاص خارج هاتان المجموعتين. ويقع العديد من الأشخاص في المنتصف بخصائص من كلا الجنسين وفي هذه الحالة قد يستخدم مصطلح انترسكس أو بَيْنِيّ الجنس (intersex).
 
 {!{ {{import '~/img' images.bimodal className="card borderless center span34 print-right print-span3"}} }!}
 
-Likewise, many people believe that phenotype is also binary, but biology has recognized for hundreds of years that, when you plot out all sexual characteristics across a population, you actually end up with a bimodal distribution where the majority of the population falls within a percentile of two groups. This means that some people will, simply by nature of how life works, fall outside of the typical two piles. Many people fall in the middle, with characteristics of both sexes.
-
-Gender, however, is a lot more... esoteric. There are a lot of different ways in which people have attempted to illustrate the gender spectrum, but none have quite thoroughly captured it because the spectrum is itself a very abstract concept.
+أما بالنسبة للجندر فالأمر مختلف نوعًا ما. حاول الكثيرون تصوير الطيف الجندري، لكن لا يوجد طريقة صحيحة تصوره بشكل كامل حيث أن الطيف نفسه مفهوم مجرد يختلف تعريفه من شخص لآخر.
 
 {!{
 <div class="">
@@ -81,37 +97,48 @@ Gender, however, is a lot more... esoteric. There are a lot of different ways in
 </div>
 }!}
 
-The short of it is: some people are very male, some people are very female. Some people feel no gender at all, some people feel both. Some are smack in the middle, some land along the edges. Some people oscillate all over the spectrum in unpredictable ways, changing like the wind. Only an individual can identify their own gender; no one else can dictate it for them.
+لكن بإختصار، بعض الأشخاص رجال، بعض الأشخاص نساء، بعض الأشخاص لا يشعرون أن لديهم هوية جندرية، بعض الأشخاص يشعرون بالإثنين (أي ينتمون للمجموعتين)، بعض الأشخاص يشعرون أنهم في المنتصف، بعض الأشخاص يشعرون أنهم على حافة الطيف (أي أنهم ينتمون لجندرٍ معين لكنن ليس بشكل كامل)، بعض الأشخاص تتغير هويتهم وإنتماؤهم بشكل مستمر. فقط الشخص نفسه هو من يمكنه تحديد هويته الجندرية ولا يمكن لأحد أخر أن يفرضها عليه.
 
-Gender is part social construct, part learned behaviors, and part biological processes which form very early in a person's life.
+الجندر هو جزئيًا بناء (مفهوم مجرد) اجتماعي، وجزئيًا سلوكيات مكتسبة، وجزء آخر عمليات بيولوجية تتشكل في مرحلة مبكرة جدًا من حياة الإنسان.
 
-Present evidence seems to suggest that a person's gender is established during gestation while the cerebral cortex of the brain is forming (more about that in the Causes of Gender Dysphoria section). This mental model then informs, at a subconscious level, what aspects of the gender spectrum a person will lean towards. It affects behavior, perceptions of the world, the way we experience attraction (separate from sexual orientation and hormonal influences) and how we bond with other people.
+الأدلة الحالية تشير إلى أن جندر الشخص يتأسس أثناء فترة التكوين الجنيني في الوقت الذي تتشكل فيه القشرة الدماغية (المزيد حول ذلك في قسم أسباب الانزعاج الجندري). يقوم هذا النموذج العقلي بعد ذلك بتحديد، على مستوى اللاوعي، الجوانب التي سيميل إليها الشخص من الطيف الجندري. فهو يؤثر على السلوك، وتصوراتنا للعالم، والطريقة التي نختبر بها الانجذاب (بشكل منفصل عن التوجه الجنسي والتأثيرات الهرمونية)، وكيفية ترابطنا مع الأشخاص الآخرين.
 
-Gender also affects the expectations that the brain has for the environment it resides in (your body), and when that environment does not meet those expectations, the brain sends up warning alarms in the form of depression, depersonalization, derealization, and dissociation. These are the brain's subconscious ways of informing us that something is very wrong.
+كما يؤثر الجندر على التوقعات التي يضعها الدماغ للبيئة التي يسكن فيها (جسدك)، وعندما لا تلبي تلك البيئة هذه التوقعات، يطلق الدماغ إنذارات تحذيرية في شكل اكتئاب، وتبدد الشخصية، والغربة عن الواقع، والانفصال أو التفارق. هذه هي طرق الدماغ اللاواعية لإعلامنا بأن هناك أمراً خاطئاً بشدة.ss
+
+</div>
 
 {!{
-<div class="gutter"><blockquote>
-  <strong>Hab·i·tus</strong> - <em>Noun</em><br>
-  Socially ingrained habits, skills, and dispositions. The way a person perceives and reacts to the world.
+<div class="gutter" dir="rtl" style="text-align: right;"><blockquote>
+  <strong>الخلقة أو السلوك المدمج أو التطبع أو هابيتوس (Habitus)</strong> - <em>اسم</em><br>
+  مجموعة من العادات والمهارات والمواقف المزروعة التي تحدد كيف يرى الشخص ويتفاعل مع العالم من حوله. وهي أيضًا مجموعة من التصرفات المستفادة اجتماعيا، والمهارات وطرق العمل، التي غالبا ما تتخذ من المسلمات، والتي يتم الحصول عليها من خلال أنشطة وتجارب الحياة اليومية.
 </blockquote></div>
 }!}
 
-On the social side, gender involves our [habitus](https://en.wikipedia.org/wiki/Habitus_(sociology)): our presentation, our mannerisms and behaviors, how we communicate, how we react, what our expectations are from life, and the roles that we fulfill as we walk through life. The author Susan Stryker described habitus it in her book *[Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X)*:
+<div dir="rtl" style="text-align: right;">
+
+من الناحية الاجتماعية يتمحور الجندر حول [خلقتنا](https://en.wikipedia.org/wiki/Habitus_(sociology)): الطريقة التي نظهر بها أنفسنا، تصرفاتنا وأفعالنا، الطريقة التي نتواصل بها، رد فعلنا، توقعاتنا من الحياة، الأدوار التي نملؤها في حياتنا. وصفت الكاتبة سوسان ستريكر الخلقة في كتابها تاريخ الترانسجندر *[Transgender History](https://smile.amazon.com/Transgender-History-second-Todays-Revolution/dp/158005689X)*:
+
+</div>
 
 > A lot of habitus involves manipulating our secondary sex characteristics to communicate to others our own sense of who we feel we are---whether we sway our hips, talk with our hands, bulk up at the gym, grow out our hair, wearclothing with a neckline that emphasizes our cleavage, shave our armpits, allow stubble to be visible on our faces, or speak with a rising or falling inflection at the end of sentences. Often these ways of moving and styling have become so internalized that we think of them as natural even though---given that they are all things we've learned through observation and practice---they can be better understood as culturally acquired "second nature."
+<div dir="rtl" style="text-align: right;">
 
-Indeed, these are all cultural factors: things which have developed within the population over time. Regardless of being essentially "made up", they are still strongly gendered and a person tends to connect to the gendered habitus of their internal self without even realizing they are doing it. When we are denied access to those social aspects, this results in discomfort with one's social position in life.
+> يتضمن الكثير من الخلقة أو التطبع (Habitus) تعديل خصائصنا الجنسية الثانوية لننقل للآخرين إحساسنا بمن نشعر أننا عليه — سواء كنا نتمايل بخصورنا، أو نتحدث بأيدينا، أو نبني عضلاتنا في صالة الألعاب الرياضية، أو نطيل شعرنا، أو نرتدي ملابس بياقة تبرز الصدر، أو نحلق إبطينا، أو نترك لحيتنا الخفيفة ظاهرة على وجوهنا، أو نتحدث بنبرة صاعدة أو هابطة في نهاية الجمل. غالباً ما تصبح طرق الحركة والتأنق هذه متأصلة بداخلنا لدرجة أننا نعتبرها طبيعية، على الرغم من أنه — بالنظر إلى أنها جميعاً أشياء تعلمناها من خلال الملاحظة والممارسة — يمكن فهمها بشكل أفضل على أنها "طبيعة ثانية" مكتسبة ثقافياً.
 
-John Money's experiments attempted to confirm his belief that gender is entirely a social construct, and that any child can be raised to believe themselves to be whatever they were taught to be. His experiment was a massive failure (see the Biochemical Dysphoria section). Gender does not change; every human is the same gender at 40 that they were at 4. What changes is our own personal understanding of our gender as we mature as individuals.
+بالفعل، كل هذه عوامل ثقافية: أشياء تطورت داخل المجتمع بمرور الوقت. وبغض النظر عن كونها "مُختلقة" في الأساس، إلا أنها لا تزال تحمل طابعًا جندريًا قويًا، ويميل الشخص إلى الارتباط بالخلقة الجندرية (Habitus) لهويته الداخلية دون حتى أن يدرك أنه يفعل ذلك. وعندما نُحرم من الوصول إلى تلك الجوانب الاجتماعية، فإن هذا يؤدي إلى الشعور بعدم الارتياح تجاه الوضع الاجتماعي للمرء في الحياة.
 
-These negative symptoms (depression, derealization, social discomfort) are the symptoms of Gender Dysphoria.
+حاولت تجارب جون موني تأكيد اعتقاده بأن الجندر هو بالكامل بناء اجتماعي، وأنه يمكن تربية أي طفل ليعتقد أنه يمتلك أي جندر يُلقن إياه. ولكن تجربته كانت فشلاً ذريعاً (انظر قسم الانزعاج الكيميائي الحيوي (البيولوجي)). الجندر لا يتغير؛ فكل إنسان يمتلك نفس الجندر في سن الأربعين كما كان في سن الرابعة. ما يتغير هو فهمنا الشخصي لجندرنا كلما نضجنا كأفراد.
 
-What **Gender is *not*** is sexual orientation. We describe orientation using terms relative to one's gender (homosexual/heterosexual/bisexual, etc), but gender itself does not affect sexuality and sexuality has no role in gender.
+هذه الأعراض السلبية (الاكتئاب، الغربة عن الواقع، الانزعاج الاجتماعي) هي أعراض الانزعاج الجندري.
 
-## What does it mean to be Non-binary?
+ما **هو *ليس* الجندر** هو التوجه الجنسي. قد يتوم وصف التوجه الجنسي بالنسبة لجندر الشخص نفسه (مثلي جنسيًا، أو مغاير جنسيًا، أو ثنائي جنسيًا، إلخ)، لكن الجندر ليس له تأثير أو علاقة بالميول الجنسية والعكس أيضًا.
 
-Non-binary can basically be simplified as a lack of exclusive affinity to male or female. This may be a lack of affinity to either identity ([agender](https://gender.wikia.org/wiki/Agender)), a total affinity to both ([bi-gender](https://gender.wikia.org/wiki/Bigender)/), a balanced affinity to both ([androgyne](https://gender.fandom.com/wiki/Androgyne)), an affinity that changes from day to day ([genderfluid](https://gender.wikia.org/wiki/Genderfluid)), a partial affinity ([demigender](https://gender.wikia.org/wiki/Demigender)), or even an affinity to the entire gender spectrum at once ([pangender](https://gender.wikia.org/wiki/Pangender)).
+## ما معنى أن تكون غير ثنائي جندريًا؟
 
-It could be an affinity to some aspects of a gender but not others. For example, a [demigirl](https://gender.wikia.org/wiki/Demigirl) could be someone assigned female at birth who only feels a partial connection to womanhood and femininity, or may be a male-assigned individual who is taking hormone therapy to relieve physical dysphoria, and has a female phenotype, but does not experience a strong connection to the social aspects of womanhood.
+الغير ثنائية (non-binary) يمكن تعريفها بإختصار على أنها غياب الانتماء الحصري للذكر أو الأنثى. قد يكون هذا غيابًا كاملًا للانتماء الجندري (عديم الجندر أو لاجندري [agender](https://gender.wikia.org/wiki/Agender))، أو انتماء كامل للاثنين معًا (ثنائي الجندر [bi-gender](https://gender.wikia.org/wiki/Bigender))، أو انتماء متوازن بين الاثنين (زنمردة أو بيني الجندر أو أندروجيني [androgyne](https://gender.fandom.com/wiki/Androgyne))، أو انتماء يتغير من وقت لآخر (مرن الجندر [genderfluid](https://gender.wikia.org/wiki/Genderfluid))، أو انتماء جزئي فقط (نصف جندري أو ديمي [demigender](https://gender.wikia.org/wiki/Demigender))، أو حتى انتماء للطيف بأكمله وكل ما سبق في وقت واحد (شامل الجندر [pangender](https://gender.wikia.org/wiki/Pangender)).
 
-In generalist terms, this book will be describing gender in a sense of binary identities (male/female) vs non-binary identities, but this is purely for the sake of writing simplicity. Please know that the depth of gender experience and expression is far, far more complicated than this simple breakdown.
+قد يكون ذلك ارتباطًا ببعض جوانب جندر معين دون غيرها. على سبيل المثال، قد تكون الـ [نصف فتاة](https://gender.wikia.org/wiki/Demigirl) شخصاً حُدد كأنثى عند الولادة ولكنه لا يشعر سوى بانتماء جزئي لكينونة المرأة والأنوثة، أو قد يكون شخصاً حُدد كذكر ولكنه يتلقى علاجًا هرمونيًا للتخفيف من الانزعاج الجسدي، ويمتلك نمطًا ظاهريًا أنثويًا، ولكنه لا يشعر بانتماءٍ قويٍ للجوانب الاجتماعية لكينونة المرأة.
+
+بعبارات عامة، سيصف هذا الكتاب الجندر من منظور الهويات الثنائية (ذكر/أنثى) مقابل الهويات الغير ثنائية (آخرى)، ولكن هذا يُستخدم بشكل بحت من أجل تبسيط الكتابة. يرجى العلم أن عمق التجربة والتعبير الجندري أكثر تعقيداً بكثير، بكثير، من هذا التقسيم المبسط.
+
+</div>
