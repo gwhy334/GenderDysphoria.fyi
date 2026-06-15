@@ -1,62 +1,76 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "A Brief History of Gender Dysphoria"
-linkTitle: "The History of Gender Dysphoria"
-description: "The origins of Gender Dysphoria and the current meaning today."
+title: "ملخص تاريخ الانزعاج الجندري"
+linkTitle: "تاريخ الانزعاج الجندري"
+description: "أتاريخ الانزعاج الجندري وأصله والمعنى الحالي اليوم."
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/what-is-gender
-  prevCaption: What Is Gender?
-  next: /en/euphoria
-  nextCaption: Gender Euphoria
+  prev: /ar/what-is-gender
+  prevCaption: ما هو الجندر؟
+  next: /ar/euphoria
+  nextCaption: البهجة الجندرية
 ---
 
-# A Brief History of Gender Dysphoria
 
-In 1948, noted sexologist Dr. Alfred Kinsey (yes, [*that* Kinsey](https://en.wikipedia.org/wiki/Alfred_Kinsey)) was contacted by a woman whose male child adamantly insisted that they were in fact a girl, and that something had gone very wrong. The mother, rather than trying to suppress her daughter, wished to help her become who she knew herself to be. Kinsey reached out to a German endocrinologist named [Dr. Harry Benjamin](https://en.wikipedia.org/wiki/Harry_Benjamin) to see if he could help the child. Dr. Benjamin then developed a protocol of estrogen therapy for the teen, and worked with the family to find surgical help.
+<div dir="rtl" style="text-align: right;">
 
-Benjamin then went on to refine his protocol and treated thousands of patients with similar feelings over the course of his career. He refused to take payment for his work, instead taking satisfaction from the relief he granted these patients, and using their treatment to further his understanding of the condition. He coined a term for this feeling of incongruence in 1973: **gender dysphoria**. Unfortunately, this term would not be used in the United States until 2013, with the American Psychiatric Association opting for the term "gender identity disorder" instead.
+# ملخص تاريخ الانزعاج الجندري
+
+في عام 1948، تواصلت امرأة مع عالم الجنس البارز الدكتور ألفريد كينزي (نعم، [*ذلك* الكينزي](https://en.wikipedia.org/wiki/Alfred_Kinsey)) لأن طفلها الذكر كان يصر بشكل قاطع على أنه في الحقيقة فتاة، وأن أمراً خاطئا بشدة قد وقع. وبدلاً من أن تحاول الأم قمع ابنتها، رغبت في مساعدتها لتصبح حقيقتها. تواصل كينزي مع طبيب غدد صماء ألماني يُدعى [الدكتور هاري بنجامين](https://en.wikipedia.org/wiki/Harry_Benjamin) ليرى ما إذا كان بإمكانه مساعدة الطفلة. ثم قام الدكتور بنجامين بتطوير بروتوكول للعلاج بالإستروجين للمراهقة، وعمل مع الأسرة لإيجاد مساعدة جراحية.
+
+استمر بنجامين بعد ذلك في تحسين بروتوكوله، وعالج آلاف المرضى الذين راودتهم مشاعر مماثلة على مدار مسيرته المهنية. لقد رفض تقاضي أجر مقابل عمله، مستحصلًا رضاه بدلاً من ذلك من الراحة التي منحها لهؤلاء المرضى، واستخدم مسار علاجهم لتعميق فهمه للحالة. وفي عام 1973، صاغ مصطلحاً لهذا الشعور بعدم التطابق: **الانزعاج الجندري**. لسوء الحظ، لم يُستخدم هذا المصطلح في الولايات المتحدة حتى عام 2013، حيث فضلت الجمعية الأمريكية للطب النفسي استخدام مصطلح "اضطراب الهوية الجندرية" (gender identity disorder) بدلاً من ذلك.
+
+</div>
 
 {!{
-<div class="gutter print-inline">
+<div class="gutter print-inline" dir="rtl" style="text-align: right;">
   {{import '~/img' images.hbscale
     className="card print-span34 print-center"
-    caption="Harry Benjamin Diagnostic Scale"
+    caption="نموذج بنجامين للتشخيص"
   }}
 </div>
 }!}
 
-If you are a trans person reading this, you may have heard the name Harry Benjamin before, but probably not in a favorable context. In 1979 his name was used (with permission) in the forming of the Harry Benjamin International Gender Dysphoria Association (HBIGDA), which released a Standards of Care (SoC) for transgender people. This SoC came to be known as the Harry Benjamin Rules, and were infamously limiting in regards to how gender dysphoria could be diagnosed. Patients were placed within a six tier scale based upon their level of misery and sexual dysfunction. If you did not land at Tier 5 or higher, classified as a "True Transsexual", you were usually rejected for treatment.
+<div dir="rtl" style="text-align: right;">
 
-The problem was that Tiers 5 and 6 required that you had to be exclusively attracted to your own birth sex. Transition *had* to be making you straight, not gay, and bisexuals were not allowed. You also had to be experiencing severe distress with your body and genitals and already be living as your true gender without treatment. Many trans people got around these limitations through community coaching and performative presentations, but for many people (myself included) it was believed that, if you did not fit all the criteria, you were not trans enough to transition.
+إذا كنت شخصًا عابرًا تقرأ هذا، فربما تكون قد سمعت باسم هاري بنجامين من قبل، ولكن على الأرجح ليس في سياق إيجابي. في عام 1979، استُخدم اسمه (بإذن منه) في تأسيس جمعية هاري بنجامين الدولية للانزعاج الجندري (HBIGDA)، والتي أصدرت معايير الرعاية (SoC) للأشخاص العابرين جندرياً. أصبحت معايير الرعاية هذه تعرف باسم "قواعد هاري بنجامين"، وكانت مقيدة بشكل سيء السمعة فيما يتعلق بكيفية تشخيص الانزعاج الجندري. كان يتم وضع المرضى ضمن مقياس مكون من ستة مستويات بناءً على مستوى بؤسهم والخلل الوظيفي الجنسي. إذا لم تقع في المستوى الخامس أو أعلى، والمصنف على أنه "ترانسكشوال حقيقي" (True Transsexual)، فغالباً ما كان يتم رفض تقديم العلاج لك.
 
-In 2011, the HBIGDA reorganized itself to respond to mounting pressures in trans understanding and acceptance, taking on the new name World Professional Association for Transgender Health (WPATH). Under guidance by actual transgender people (a first for the organization), WPATH then proceeded to release an entirely new Standards of Care (SoC, version 7, the first in ten years) which abandoned the Benjamin Scale, focusing on specific individual symptoms and disconnecting gender from sexuality entirely. Two years later, in 2013, the American Psychiatric Association changed their diagnostic criteria to match the WPATH SoC in their Diagnostic and Statistical Manual of Mental Disorders (DSM) version 5, replacing Gender Identity Disorder with Gender Dysphoria. With this change, medical transition became available to all trans people in the United States.
+كانت المشكلة هي أن المستويين الخامس والسادس تطلبا أن تكون منجذبًا حصريًا لنفس جنسك عند الولادة. كان *يجب* أن يجعلك العبور الجندري مغايرًا جنسيًا (Straight)، وليس مثليًا، ولم يكن يُسمح بالمزدوجين جنسيًا (Bisexuals). كان عليك أيضًا أن تعاني من ضيق شديد تجاه جسدك وأعضائك التناسلية، وأن تكون بالفعل تعيش بجندرك الحقيقي دون علاج. تحايل العديد من الأشخاص العابرين على هذه القيود من خلال التوجيه المجتمعي والظهور الأدائي، ولكن بالنسبة للعديد من الأشخاص (ومنهم كاتب هذه المقالة)، ساد الاعتقاد بأنه إذا لم تستوفِ جميع المعايير، فأنت لست عابراً بما يكفي للقيام بالعبور.
 
-This is why trans presence across the world has suddenly exploded in the last decade. With easier access comes larger numbers, with larger numbers comes more visibility, with more visibility comes more awareness, and with more awareness comes more people accessing treatment. [A study conducted in 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) showed 0.6% of adults and 0.7% of youth in the United States identified as transgender, [a study conducted in 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) showed 1.8% of high school age students identified as transgender, and [a survey conducted by GLAAD in 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) showed a whopping 12% of respondents 18 to 34 did not identify as cisgender.
+في عام 2011، أعادت جمعية HBIGDA تنظيم نفسها للاستجابة للضغوط المتزايدة فيما يتعلق بفهم وتقبل الأشخاص العابرين، واتخذت اسمًا جديدًا وهو الرابطة العالمية المهنية لصحة العابرين جندريًا (WPATH). بتوجيه من أشخاص عابرين فعليين (في سابقة هي الأولى من نوعها للمنظمة)، شرعت WPATH في إصدار معايير رعاية جديدة كلياً (SoC، الإصدار السابع، وهو الأول منذ عشر سنوات) والتي تخلت عن مقياس بنجامين، وركزت بدلاً من ذلك على الأعراض الفردية المحددة، وفصلت الجندر عن التوجه الجنسي تمامًا. بعد عامين، في عام 2013، غيرت الجمعية الأمريكية للطب النفسي معاييرها التشخيصية لتتطابق مع معايير رعاية WPATH في الإصدار الخامس من الدليل التشخيصي والإحصائي للاضطرابات النفسية (DSM)، حيث استبدلت "اضطراب الهوية الجندرية" بـ "الانزعاج الجندري". ومع هذا التغيير، أصبح العبور الطبي متاحًا لجميع الأشخاص العابرين في الولايات المتحدة.
 
-Transgender people are coming out of the woodwork; we are everywhere.
+هذا هو السبب في أن التواجد العابر جندريًا في جميع أنحاء العالم قد تزايد بشكل ملحوظ في العقد الماضي. فمع سهولة الوصول تأتي أعداد أكبر، ومع الأعداد الأكبر يأتي ظهور أكثر، ومع الظهور الأكبر يأتي وعي أكبر، ومع الوعي الأكبر يأتي المزيد من الأشخاص الذين يحصلون على العلاج. أظهرت [دراسة أُجريت عام 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/TransAgeReport.pdf) أن 0.6% من البالغين و0.7% من الشباب في الولايات المتحدة يعرّفون أنفسهم كعابرين جندريًا، وأظهرت [دراسة أُجريت عام 2016](https://www.cdc.gov/mmwr/volumes/68/wr/mm6803a3.htm) أن 1.8% من الطلاب في سن المدرسة الثانوية يعرّفون أنفسهم كعابرين جندريًا، وأظهر [استطلاع أجرته GLAAD في عام 2017](https://www.glaad.org/files/aa/2017_GLAAD_Accelerating_Acceptance.pdf) أن نسبة هائلة بلغت 12% من المستجيبين الذين تتراوح أعمارهم بين 18 و34 عاماً لم يعرّفوا أنفسهم كمتوافقين جندريًا (Cisgender).
 
-## So What Is Gender Dysphoria?
+الأشخاص العابرون جندريًا يظهرون في كل مكان؛ نحن في كل مكان.
+
+ينبغي التنويه بأن زيادة الأعداد ليست لأن حالات الانزعاج الجندري ازدادت أو أنه أصبح هناك عابرون أكثر، لكن مع زيادة الوعي والأدوات المتاحة لهؤلاء الأشخاص أصبح هنالك أعداد أكبر قادرة على فهم حالتها والتعبير عن نفسها بدأ رحلة العبور سواءً اجتماعيًا أو طبيًا.
+
+## إذن ما هو الانزعاج الجندري؟
+
+</div>
 
 {!{
-<div class="gutter print-span4">
+<div class="gutter print-span4" dir="rtl" style="text-align: right;">
   <blockquote>
-    <strong>Dys·pho·ri·a</strong> - <em>Noun</em><br>
-    A state of unease or generalized dissatisfaction with life. The opposite of euphoria.
+    <strong>الانزعاج النفسي (Dysphoria)</strong> - <em>اسم</em><br>
+    هي حالة من عدم الارتياح الشديد مع الواقع أو الحياة، وقد تأتي مصحوبةً بالاكتئاب أو القلق أو الغضب. وهي عكس النشوة والبهجة.
   </blockquote>
   {{import '~/img' images.glue className="card print-span4"}}
 </div>
 }!}
 
-There is a common misconception among both cisgender and transgender people that gender dysphoria refers exclusively to a physical discomfort with ones own body. However, this belief that body discomfort is central to gender dysphoria is in fact a misconception, and is not even a majority component of a gender dysphoria diagnosis. Gender dysphoria crosses a large number of all aspects of life, including how you interact with others, how others interact with you, how you dress, how you behave, how you fit into society, how you perceive the world around you, and, yes, how you relate to your own body. Consequently, proponents of the WPATH SoC 7 and the DSM-5 have taken to a habit of saying that you do not have to have dysphoria to be transgender. This statement is often repeated like a mantra, as it informs people who do not feel significant body discomfort that they may also be transgender.
+<div dir="rtl" style="text-align: right;">
 
-In principle, gender dysphoria is a feeling of wrongness intrinsic to the self. There is no logical backing to this wrongness; there is nothing which explains it, and you can not describe why you feel this way; it is just there. Things in your existence are incorrect, and even knowing which things *are* incorrect can be hard to properly identify.
+هناك اعتقاد خاطئ شائع بين كل من الأشخاص المتوافقين جندريًا والعابرين جندريًا بأن الانزعاج الجندري يشير حصريًا إلى الانزعاج الجسدي من جسد المرء. ومع ذلك، فإن هذا الاعتقاد بأن الانزعاج الجسدي أمر مركزي في الانزعاج الجندري هو في الواقع اعتقاد خاطئ، ولا يمثل حتى المكون الأغلب في تشخيص الانزعاج الجندري. يتقاطع الانزعاج الجندري مع عدد كبير من كافة جوانب الحياة، بما في ذلك كيفية تفاعلك مع الآخرين، وكيفية تفاعل الآخرين معك، وكيف ترتدي ملابسك، وكيف تتصرف، وكيف تندمج في المجتمع، وكيف تدرك العالم من حولك، ونعم، كيف ترتبط بجسدك. ونتيجة لذلك، اعتاد مؤيدو الإصدار السابع من معايير الرعاية لمنظمة WPATH والإصدار الخامس من الدليل التشخيصي والإحصائي للاضطرابات النفسية (DSM-5) على القول بأنه ليس من الضروري أن تعاني من الانزعاج (الديسفوريا) لتكون عابرًا جندريًا. غالبًا ما تُردد هذه العبارة كشعار ثابت، لأنها تُعلم الأشخاص الذين لا يشعرون بانزعاج جسدي كبير أنهم قد يكونون أيضًا عابرين جندريًا، فللعبور أشكال وصور كثيرة.
 
-The way I used to describe it is like wearing an adult's glove when you are a child. You can put your hand into the glove, and your fingers feed into the digits of the glove, but your dexterity with the glove is severely hindered. You might be able to pick something up, but you can not manipulate it like an adult could. Things just aren't quite right.
+من حيث المبدأ، الانزعاج الجندري هو شعور متأصل في الذات بوجود خطأ ما. لا يوجد أساس منطقي لهذا الخطأ؛ لا يوجد شيء يفسره، ولا يمكنك وصف سبب شعورك بهذه الطريقة؛ فإنه موجود وحسب. هناك أشياء في وجودك غير صحيحة، وحتى معرفة *ما هي* هذه الأشياء غير الصحيحة قد يكون من الصعب تحديده بدقة.
 
-Evey Winters described it this way [in her Dysphoria post](https://eveywinters.com/on-dysphoria-before-enduring-and-after/).
+الطريقة التي اعتدت أن أصفه بها هي وكأنك ترتدي قفاز شخص بالغ وأنت طفل. يمكنك إدخال يدك في القفاز، وتنزلق أصابعك في خانات أصابع القفاز، لكن براعتك وحركتك باستخدام القفاز تكون معاقة بشدة. قد تكون قادراً على التقاط شيء ما، لكن لا يمكنك التحكم فيه كما يفعل الشخص البالغ. الأشياء ببساطة ليست على ما يرام.
+
+وصفت إيفي وينترز (Evey Winters) الأمر على هذا النحو [في مقالها عن الانزعاج](https://eveywinters.com/on-dysphoria-before-enduring-and-after/):
 
 > Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
 >
@@ -66,16 +80,26 @@ Evey Winters described it this way [in her Dysphoria post](https://eveywinters.c
 >
 > It is knowing that something is wrong and not being able to do a damn thing about it.
 
-Gender dysphoria is, at its core, simply emotional reactions to the brain knowing that something does not fit. This incongruence is so deep inside the brain's subsystems that there is no obvious message of what the problem is. The only way we have to identify it is via the emotions that it triggers. Our consciousness receives either positive (euphoria) or negative (dysphoria) feedback according to how well our current environment aligns with our internal sense of self. Part of transition is learning to recognize those signals.
+> هل جلست يوماً في مكان عام أو رسمي وفجأة شعرت بحكة في أسفل قدمك؟ لا يمكنك خلع حذائك هناك وحكها، لذا تتحمل الشعور بالموت من الداخل بينما تتزايد هذه الحكة وتتزايد حتى تصبح مستعداً لقتل الشخص التالي الذي يتحدث إليك.
+>
+> أو عندما كنت أصغر سناً، كنت أعتاد مشاهدة التلفزيون الكبلي (الكابل) في الصباح قبل المدرسة. ولأنه كان تلفزيوناً كبلياً في ريف ولاية فرجينيا الغربية (WV) في أوائل التسعينيات، كنت بين الحين والآخر أشغل قناتي المفضلة لمشاهدة برامجي بينما أتناول دقيق الشوفان بشراب القيقب، وكنت أرى مسلسل "باور رينجرز" (Power Rangers) — لكن الصوت كان من محطة أخرى (عادة ما تكون قناة الطقس). كانت الصورة جيدة. وكان الصوت جيداً. لكن عدم التطابق بينهما؟ هذا هو نوع الإحباط الذي يلازمك طوال اليوم كطفل.
+>
+> إنه الشعور الذي ينتابك عندما تطلب مشروب دايت كوك (Diet Coke) منعشاً ولذيذاً، فيقول لك النادل: "هل بيبسي (Pepsi) يفي بالغرض؟"
+>
+> إنه إدراكك بأن هناك خطأ ما وعدم قدرتك على فعل أي شيء حياله.
 
-Cisgender people receive them as well, but since the signals usually align with their environment, they take them for granted. There have been a few notable occasions, however, when a cisgender person has been [put into a situation](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) where they experience gender dysphoria. Attempts to raise cisgender children [as the opposite sex](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (Content warning: suicide) have always met with failure when the child inevitably declares themselves differently.
+الانزعاج الجندري، في جوهره، هو ببساطة ردود فعل عاطفية ناتجة عن إدراك الدماغ بأن هناك شيئًا لا يتطابق. عدم التطابق (أو التنافر) هذا عميق جدًا داخل الأنظمة الفرعية للدماغ لدرجة أنه لا توجد رسالة واضحة تخبرنا بماهية المشكلة. الطريقة الوحيدة المتاحة لنا لتحديده هي عبر المشاعر التي يثيرها. يتلقى وعينا ردود فعل إما إيجابية (النشوة/Euphoria) أو سلبية (الانزعاج/Dysphoria) وفقاً لمدى توافق بيئتنا الحالية مع إحساسنا الداخلي بالذات. جزء من العبور الجندري هو تعلم التعرف على تلك الإشارات.
 
-These impulses of euphoria and dysphoria, arousal and aversion — they all manifest in many different ways: some obvious, some much more subtle. Dysphoria changes over time as well, taking on new shapes as one moves from pre-awareness into understanding and through transition. The goal of this book is to break down these manifestations into their distinct categories and describe them so that others may learn to recognize them.
+يتلقى الأشخاص المتوافقون جندريًا (Cisgender) هذه الإشارات أيضًا، ولكن نظرًا لأنها تتوافق عادةً مع بيئتهم، فإنهم يعتبرونها أمرًا مفروغًا منه. ومع ذلك، كانت هناك بعض المناسبات البارزة التي [وُضع فيها](https://www.teenvogue.com/story/maisie-williams-arya-stark-game-of-thrones-affected-her-body-image) شخص متوافق جندريًا في موقف جعله يختبر الانزعاج الجندري. إن محاولات تربية أطفال متوافقين جندريًا [كأفراد من الجنس الآخر](https://www.nytimes.com/2004/05/12/us/david-reimer-38-subject-of-the-john-joan-case.html) (تحذير محتوى: انتحار) لطالما باءت بالفشل عندما يعلن الطفل حتماً عن نفسه بشكل مختلف.
 
-However, first I must stress something very important, so important that I am putting it into big bold letters:
+هذه الدوافع من النشوة والانزعاج، والتحفيز والنفور — تتجلى جميعها بعدة طرق مختلفة: بعضها واضح، وبعضها الآخر خفيّ أكثر بكثير. كما يتغير الانزعاج بمرور الوقت، متخذًا أشكالاً جديدة مع انتقال المرء من مرحلة ما قبل الوعي إلى الفهم وصولاً إلى العبور الجندري. الهدف من هذا الكتاب هو تقسيم هذه التجليات إلى فئاتها المميزة ووصفها حتى يتمكن الآخرون من تعلم كيفية التعرف عليها.
 
-**EVERY SINGLE TRANS PERSON EXPERIENCES A DIFFERENT SET OF DYSPHORIA SOURCES AND INTENSITIES**
+ومع ذلك، يجب عليّ أولاً أن أؤكد على شيء في غاية الأهمية، شيء بالغ الأهمية لدرجة أنني سأكتبه بخط عريض وكبير:
 
-There is no one single trans experience; there is no standard set of feelings and discomforts; there *is no one true trans narrative*. Every trans person experiences dysphoria in their own way to their own degree, and what bothers one person may not bother another.
+***كل شخص عابر جندريًا يختبر مجموعة مختلفة من مصادر الانزعاج وبدرجات حدة متفاوتة***
 
-Okay, with that disclaimer out of the way, let's get to the meat and potatoes.
+لا توجد تجربة عبور جندري واحدة؛ ولا توجد مجموعة قياسية من المشاعر وحالات عدم الارتياح؛ *ولا توجد سردية عبور واحدة حقيقية*. كل شخص عابر يختبر الانزعاج بطريقته الخاصة وبدرجته الخاصة، وما يزعج شخصاً ما قد لا يزعج شخصاً آخر.
+
+حسناً، بعد أن انتهينا من هذا التنويه، دعونا ننتقل إلى صلب الموضوع.
+
+</div>
