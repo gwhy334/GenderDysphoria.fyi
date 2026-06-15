@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Social Dysphoria"
-linkTitle: "Social Dysphoria"
-description: "Pronouns and Deadnames and Gendering, oh my."
+title: "طرق تجسد الانزعاج: الانزعاج الاجتماعي"
+linkTitle: "الانزعاج الاجتماعي"
+description: "الاشارات الجندرية ونظرة الآحرين."
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/biochemical-dysphoria
-  prevCaption: Biochemical Dysphoria
-  next: /en/societal-dysphoria
-  nextCaption: Societal Dysphoria
+  prev: /ar/biochemical-dysphoria
+  prevCaption: الانزعاج البيولوجي
+  next: /ar/societal-dysphoria
+  nextCaption: الانزعاج المجتمعي
 classes:
   - gdb
 tweets:
@@ -22,7 +23,13 @@ tweets:
   - '1137185510793678848'
 ---
 
-# Social Dysphoria
+<div dir="rtl" style="text-align: right;">
+
+# الانزعاج الاجتماعي
+
+يدور الانزعاج الجندري الاجتماعي في فلك سؤال محوري واحد: "كيف يراني الناس؟" الأمر يتعلق بنظرة العالم الخارجي لك، وكيف يخاطبونك، وما يتوقعونه منك. وتختلف هذه التجربة جذريًا بين مرحلة التخبط (قبل إدراك الشخص لحقيقته الجندرية)، ومرحلة ما بعد الصحوة (أو ما يُعرف مجازًا بـ "كسر القوقعة").
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215718003310039040'
@@ -33,47 +40,57 @@ tweets:
   '1215731319973523456'
 ] tweets=meta.tweets className="oneblock" }} </div> }!}
 
-All social gender dysphoria orbits around one central concept: "What gender do people believe me to be?" Social dysphoria is about how the outside world perceives you, how others address you, and how you are expected to address them. This applies differently prior to the trans person becoming self-aware of their own gender versus how social dysphoria is experienced after a trans awakening (cracking one's shell).
+<div dir="rtl" style="text-align: right;">
 
-While still in the dark, the only awareness is that something seems off about the way you interact with your interactions with other people. People of your assigned gender seem to interact with each other in ways that do not feel natural to you. Their behaviors and mannerisms feel strange and surprising, where interactions with individuals of your true gender feel easier. You relate to people closer to your own truth.
+أثناء البقاء في الظلام وقبل إدراك الحقيقة، يكون الوعي الوحيد هو إحساس خفي بأن هناك شيئًا غير طبيعي في تفاعلاتك مع الآخرين. تشعر وكأن الأشخاص الذين يشاركونك الجندر الذي حُدد لك عند الولادة يتواصلون بطرق لا تناسبك؛ فتصرفاتهم وطباعهم تبدو لك غريبة ومفاجئة. في المقابل، تجد أن التعامل مع الأشخاص الذين ينتمون لجندرك الحقيقي يبدو أسهل وأكثر سلاسة، حيث تشعر بانتماء أكبر لمن يشبهون حقيقتك.
 
-For example, an AMAB trans person may find themselves very uncomfortable in groups of men. They may feel out of place and struggle to fit in among their male peers. Masculine social interactions don't come naturally to them, and trying to emulate their male friends feels awkward. They may feel themselves drawn more to friendships with women, but become frustrated at the social and heterosexual dynamics that come into play between men and women, preventing them from forming platonic relationships. This is if women are willing to form friendships at all. They may find themselves deeply hurt when women shy away from them on principle.
+على سبيل المثال، قد يجد الشخص الذي حُدد كذكر عند الولادة نفسه في غاية عدم الارتياح وسط التجمعات الذكورية. قد يشعر بأنه غريب ويكافح للاندماج مع أقرانه. التفاعلات الاجتماعية الذكورية المعتادة لا تصدر منه بتلقائية، ومحاولة تقليد أصدقائه تبدو متكلفة. قد يجد نفسه منجذبًا أكثر لتكوين صداقات مع الفتيات، لكنه يصطدم بالتعقيدات الاجتماعية التي تُفرض عادةً على العلاقات بين الرجال والنساء، مما يمنعه من تكوين صداقات بريئة وعميقة، هذا إن تقبلت الفتيات فكرة الصداقة أصلًا. وقد يشعر بجرح عميق عندما تتجنبه النساء بناءً على هذه الحواجز المجتمعية.
 
-This feeling of wrongness intensifies as the person becomes more and more aware of their own incongruence, and upon realizing who they really are it takes on a new shape. For binary trans people this often may be about the intense need to be seen as your true gender, be it male or female. Some non-binary people experience this more as euphoria at being seen as neither male or female and thus only being referred to in ungendered ways, or from being read as different genders by different people in the same setting. Some experience intense euphoria when people are incapable of reading their gender and become confused.
+يزداد هذا الإحساس بالاغتراب كلما أصبح الشخص أكثر وعيًا بعدم تطابقه الجندري، وبمجرد أن يدرك حقيقته، يتخذ هذا الانزعاج شكلًا جديدًا. بالنسبة للأشخاص العابرين نحو الثنائية (ذكر أو أنثى)، غالبًا ما يترجم هذا إلى حاجة ماسة لأن يراهم المجتمع على حقيقتهم. أما بعض الأشخاص غير الثنائيين (الذين لا يصنفون أنفسهم كذكور أو إناث حصريًا)، فقد يختبرون شعورًا بالبهجة والنشوة عندما يتم التعامل معهم بطرق لا تفرض عليهم أي قوالب جندرية، أو عندما يُشار إليهم بصيغ مختلفة من قبل أشخاص مختلفين في نفس المكان. بل إن البعض يشعر بنشوة عارمة عندما يعجز الناس عن تصنيفهم جندريًا ويصابون بالحيرة.
 
-Social dysphoria is where pronouns and misgendering come into play; being addressed with a gendered pronoun such as she, he, him, or her which is not the pronoun that aligns with our gender is extremely discomforting. Granted, this is true for *all* people, including cisgender people, but where a cis person may be insulted by being misgendered, a trans person will feel hurt. It's like nails on a chalkboard, or steel wool across skin. Hearing the wrong pronoun is a reminder that the person you are talking to does not recognize you for the gender that you are.
+هنا يأتي دور الضمائر ومخاطبة الشخص بالجندر الخاطئ؛ فأن تُخاطب بضمير لا يعكس حقيقتك (مثل استخدام صيغة المذكر مع أنثى أو العكس) هو أمر في غاية القسوة. صحيح أن أي شخص قد يتضايق إذا خوطب بضمير خاطئ، لكن بينما قد يعتبرها الشخص غير العابر مجرد إهانة، فإنها تترك جرحًا غائرًا لدى الشخص العابر. الإحساس يشبه قشعريرة مزعجة تسري في الجسد، أو احتكاكًا خشنًا على الجلد. سماع الضمير الخاطئ هو تذكير مؤلم بأن من تتحدث إليه لا يراك على حقيقتك ولا يعترف بوجودك الفعلي.
 
-Gender-neutral pronouns can also be unsettling for binary trans people if used in a way that make it clear the person is avoiding the pronoun that matches them. This often is an indication that a person has been read as being transgender, and the person addressing them doesn't know what pronouns they use. Asking their pronouns can resolve this situation immediately, but the paradox is that even in that scenario, having their pronouns asked may itself induce dysphoria around having been recognized as being trans. It is sort of a catch-22.
+يمكن أن يكون استخدام صيغ المخاطبة المحايدة أو التهرب من ذكر الضمير مزعجًا أيضًا للأشخاص العابرين (ذكورًا وإناثًا) إذا استُخدمت بطريقة توحي بأن المتحدث يتهرب من استخدام الضمير الصحيح. غالبًا ما يكون هذا مؤشرًا على أن الشخص الذي أمامهم قد أدرك أنهم عابرون ولا يعرف كيف يخاطبهم. ورغم أن سؤالهم ببساطة عن الضمير الذي يفضلونه يحل المشكلة فورًا، إلا أن المفارقة هنا (وهي أشبه بحلقة مفرغة) هي أن مجرد طرح هذا السؤال قد يثير الانزعاج، لأنه يعني ضمنًا أن مظهرهم لم يكن كافيًا ليعرفهم الناس بجندرهم الحقيقي دون الحاجة للسؤال.
 
-Singular they can also be used maliciously when a transphobic individual refuses to use the correct pronoun, but knows they will get in trouble for using the wrong pronouns. Tone and intent matter a lot.
+في بعض الأحيان، يتم التلاعب باللغة والضمائر بشكل متعمد وخبيث من قبل أشخاص معادين للعبور الجندري؛ فهم يرفضون استخدام الضمير الصحيح، لكنهم يتلاعبون بالكلام لتجنب الوقوع في مشكلة. في هذه الحالات، النبرة والنية تفضحان الغرض وتزيدان من حدة الأذى.
 
-The same also applies to names. Being called by one's given name (deadname) instead of their chosen name can feel invalidating when done ignorantly, and downright dismissive when done intentionally.
+ينطبق الأمر ذاته على الأسماء. مناداة الشخص باسمه القديم (الذي تبرأ منه) بدلًا من اسمه الذي اختاره لنفسه، قد يشعره بالتهميش وإنكار وجوده إذا حدث ذلك عن جهل، ويتحول إلى إهانة مقصودة ورفض قاطع إذا تم عن عمد.
 
-It may also manifest as joy or embarrassment at being labeled as your true gender while still living as your assigned gender. Examples:
+وأخيرًا، قد يتجلى الانزعاج الاجتماعي أيضًا في صورة مزيج من الفرح أو الخجل عندما يتم تصنيف الشخص بجندره الحقيقي بالصدفة، حتى وهو لا يزال يعيش بشخصيته القديمة المحددة له. أمثلة على ذلك:
 
-- An AMAB person being labeled a girl, intending insult, but it causing them to blush rather than get angry.
-- An AFAB person being called Sir, and feeling better for it.
+- شخص (حُدد كذكر عند الولادة) ينعته أحدهم بـ "الفتاة" على سبيل السخرية، لكنه بدلًا من أن يغضب، يجد نفسه يحمر خجلًا ويشعر برضا داخلي خفي.
+- شخص (حُدد كأنثى عند الولادة) يخاطبه أحدهم بالخطأ قائلًا "يا أستاذ" أو "يا سيدي"، فيشعر بارتياح وسعادة غامرة.
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219968711681040384'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-The discomfort caused by social dysphoria can pressure a trans person to act and present in an exaggerated manner in order to try to convince the rest of the world that they really are who they say they are. Transfeminine people may concentrate on makeup and feminine clothes, and become quieter in order to seem more demure, speaking in a higher voice. Transmasculine people will lean on masculine clothing styles, stand taller, suppress displays of emotion, start speaking louder, and make their voices intentionally deeper.
+<div dir="rtl" style="text-align: right;">
 
-### Physical vs Social Dysphoria
+يمكن أن يولد الانزعاج الاجتماعي ضغطًا هائلًا يدفع الشخص العابر إلى التصرف والظهور بشكل مبالغ فيه في محاولة يائسة لإقناع العالم بأنه ينتمي حقًا للجندر الذي يعبر عنه. فقد تركز العابرات نحو الأنوثة بشكل مكثف على مساحيق التجميل والملابس الأنثوية، ويمِلن إلى الهدوء الشديد ليَبدُون أكثر رقة، ويتحدثن بطبقة صوت أعلى. في المقابل، يميل العابرون نحو الذكورية إلى الاعتماد على الملابس ذات الطابع الذكوري البحت، ومحاولة الوقوف بقامة أطول، وكبت مشاعرهم، والتحدث بصوت أعلى، وتعمد تضخيم أصواتهم.
 
-Some physical traits which may cause discomfort all the time for some trans people may only manifest as a social dysphoria for others. For example, some people may only be self conscious about their physical appearance when it causes them to be misgendered or clocked (read as being trans), and feel completely comfortable when interacting in environments where they are always seen and treated as their true gender.
+### الانزعاج الجسدي مقابل الانزعاج الاجتماعي
 
-I, myself, have no direct physical dysphoria around my voice; I actually really enjoy singing in my natal baritone, and when I am home with just my family I let my voice relax. When out in public, however, being able to speak in a feminine voice plays a critical role in my being seen as a woman by strangers, so I put a lot of effort into training it into a feminine sound. My feminine voice turns on the instant I answer the phone or leave the house, it isn't even a conscious thing.
+بعض الصفات الجسدية التي قد تسبب انزعاجًا دائمًا لبعض الأشخاص العابرين، قد لا تظهر إلا كشكل من أشكال الانزعاج الاجتماعي لدى آخرين. على سبيل المثال، قد يشعر البعض بالقلق والوعي المفرط تجاه مظهرهم الجسدي فقط عندما يتسبب ذلك في الإشارة إليهم بجندر خاطئ أو عندما يُفتضح أمرهم (أي يُعرفون كعابرين من قبل محيطهم)، لكنهم يشعرون براحة تامة عند التواجد في بيئات يُنظر إليهم فيها دائمًا ويُعاملون بناءً على جندرهم الحقيقي.
 
-### "One of us!"
+أنا شخصيًا لا أعاني من انزعاج جسدي مباشر تجاه صوتي؛ ففي الواقع، أستمتع كثيرًا بالغناء بطبقة صوتي العميقة الأصلية (الباريتون)، وعندما أكون في المنزل مع عائلتي فقط، أترك صوتي على سجيته دون تكلف. ومع ذلك، عندما أكون في الخارج، يلعب التحدث بصوت أنثوي دورًا حاسمًا في جعل الغرباء يرونني كامرأة، لذا أبذل جهدًا كبيرًا في تدريب صوتي ليبدو أنثويًا. يتحول صوتي إلى النبرة الأنثوية بمجرد أن أرد على الهاتف أو أغادر المنزل، ويحدث ذلك بتلقائية تامة دون حتى أن أفكر في الأمر.
 
-A very curious and surprisingly common phenomenon is that closeted trans people have a tendency to find each other without ever knowing they've done it. There's a funny pattern that I have heard duplicated over and over where one person in a friend group realizes they are transgender, starts to transition, and that inspires other members of the group to also realize they are trans and come out as well.
+### "واحد منّا!"
+
+من الظواهر المثيرة للاهتمام والشائعة بشكل مدهش، أن الأشخاص العابرين الذين لم يفصحوا عن هويتهم بعد (أو من هم في "الخزانة") يميلون إلى العثور على بعضهم البعض والانجذاب لبعضهم دون أن يدركوا ذلك أبدًا. هناك نمط طريف سمعت عن تكراره مرارًا وتكرارًا؛ حيث يدرك شخص واحد في مجموعة من الأصدقاء أنه عابر جندريًا، ويبدأ في خطوات العبور، مما يلهم أعضاء آخرين في المجموعة لإدراك حقيقتهم كعابرين أيضًا والإفصاح عن هويتهم.
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1137185510793678848'
 ] tweets=meta.tweets className="" }} </div> }!}
 
-Trans people subconsciously tend to gravitate towards each other's friendships, both out of a need for peers who think and act the same as us without judgments, and due to a kinship of social ostracization. This is not exclusive to trans people, of course, and occurs with all types of queer people, but the way it has a rippling effect is quite powerful. It's very similar to the way an entire friend group will get married and have kids all in response to one member of the group initiating.
+<div dir="rtl" style="text-align: right;">
 
-Trans people often continue to self-select their groups post-transition as well, as we simply understand each other better than cis people can. There is an energy that occurs when a group of trans people get together in a location, the room becomes charged with camaraderie and commiseration. We all have so much in common in our histories, so many shared experiences, that (short of personality conflicts) we instantly bond together.
+يميل الأشخاص العابرون لاشعوريًا إلى الانجذاب نحو تكوين صداقات مع بعضهم البعض، سواء كان ذلك بدافع الحاجة إلى أقران يفكرون ويتصرفون مثلهم دون إطلاق أحكام مسبقة، أو بسبب شعور عميق بالتضامن والقرابة النابع من تجربة النبذ الاجتماعي المشتركة. بالطبع، هذا لا يقتصر على الأشخاص العابرين فحسب، بل يحدث مع مختلف أطياف مجتمع الميم-عين (الكوير)، لكن الطريقة التي يخلق بها هذا التجمع تأثيرًا ممتدًا ومعديًا تكون قوية للغاية. يشبه الأمر إلى حد كبير كيف قد تتزوج مجموعة أصدقاء بأكملها وتنجب أطفالًا بمجرد أن يأخذ أحد أفراد المجموعة المبادرة الأولى.
+
+غالبًا ما يستمر الأشخاص العابرون في اختيار دوائرهم الاجتماعية وانتقائها بعناية حتى بعد إتمام العبور الجندري، لأننا ببساطة نفهم بعضنا البعض بشكل أعمق بكثير مما يمكن للأشخاص غير العابرين (المتوافقين جندريًا) أن يفهمونا به. هناك طاقة فريدة تتولد عندما تجتمع مجموعة من الأشخاص العابرين في مكان واحد؛ حيث يمتلئ المكان بشحنة دافئة من الألفة والتعاضد والمواساة المتبادلة. يجمعنا الكثير من القواسم المشتركة في ماضينا وتجاربنا، لدرجة أننا (باستثناء حالات التعارض الجذري في الشخصيات) نرتبط ببعضنا البعض فوريًا.
+
+</div>

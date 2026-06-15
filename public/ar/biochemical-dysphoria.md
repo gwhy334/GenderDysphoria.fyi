@@ -1,9 +1,10 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Biochemical Dysphoria"
-linkTitle: "Biochemical Dysphoria"
-description: "The very real and biological factors of gender dysphoria that cause mental disturbance."
+title: "طرق تجسد الانزعاج: الانزعاج البيولوجي"
+linkTitle: "الانزعاج البيولوجي"
+description: "العوامل البيولوجية الحقيقية في الانزعاج الجندري التي تسبب التأثير العقلي."
 preBody: '_disclaimer'
+lang: ar
 classes:
   - gdb
 tweets:
@@ -19,10 +20,10 @@ tweets:
   - '1222743360034758656'
   - '1222743749920464896'
 siblings:
-  prev: /en/physical-dysphoria
-  prevCaption: Physical Dysphoria
-  next: /en/social-dysphoria
-  nextCaption: Social Dysphoria
+  prev: /ar/physical-dysphoria
+  prevCaption: الانزعاج الجسدي
+  next: /ar/social-dysphoria
+  nextCaption: الانزعاج الاجتماعي
 ---
 
 <div dir="rtl" style="text-align: right;">
