@@ -72,6 +72,8 @@ siblings:
 
 وصفت إيفي وينترز (Evey Winters) الأمر على هذا النحو [في مقالها عن الانزعاج](https://eveywinters.com/on-dysphoria-before-enduring-and-after/):
 
+</div>
+
 > Have you ever been sitting somewhere in a public or a formal place and all of a sudden the bottom of your foot itches? It’s not like you can remove your shoes right there and scratch it, so you endure the feeling of dying inside while this itch grows and grows until you are ready to murder the next person that speaks to you.
 >
 > Or when I was younger I used to watch cable TV in the mornings before school. Because it was cable TV in rural WV in the early 90’s, every so often I’d turn on my favorite channel to watch my shows while I ate my maple oatmeal and I’d be seeing Power Rangers — but the audio would be from another station (usually the weather channel). The video was fine. The audio was fine. But the mismatch between them? That’s the kind of frustration that sits with you all day as a child.
@@ -79,6 +81,8 @@ siblings:
 > It’s the feeling you get when you ask for a crisp refreshing Diet Coke and the server says, “Is Pepsi ok?”
 >
 > It is knowing that something is wrong and not being able to do a damn thing about it.
+
+<div dir="rtl" style="text-align: right;">
 
 > هل جلست يوماً في مكان عام أو رسمي وفجأة شعرت بحكة في أسفل قدمك؟ لا يمكنك خلع حذائك هناك وحكها، لذا تتحمل الشعور بالموت من الداخل بينما تتزايد هذه الحكة وتتزايد حتى تصبح مستعداً لقتل الشخص التالي الذي يتحدث إليك.
 >
