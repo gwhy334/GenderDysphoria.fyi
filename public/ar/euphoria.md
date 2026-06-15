@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Euphoria"
-linkTitle: "Gender Euphoria"
-description: "In order for there to be shadow there must be light."
+title: "طرق تجسد الانزعاج: النشوة"
+linkTitle: "البهجة الجندرية"
+description: "لتواجد الظلام لابد من الضوء."
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/history
-  prevCaption: The History of Gender Dysphoria
-  next: /en/physical-dysphoria
-  nextCaption: Physical Dysphoria
+  prev: /ar/history
+  prevCaption: تاريخ الانزعاج الجندري
+  next: /ar/physical-dysphoria
+  nextCaption: الانزعاج الجسدي
 classes:
   - gdb
 tweets:
@@ -18,35 +19,48 @@ tweets:
   - https://twitter.com/ErinInTheMorn/status/1228165767264256003
 ---
 
-# Gender Euphoria
+<div dir="rtl" style="text-align: right;">
+
+# النشوة الجندرية
+
+</div>
 
 {!{
-<div class="gutter"><blockquote>
-  <strong>Eu·pho·ri·a</strong> - <em>Noun</em><br>
-  A feeling or state of intense excitement and happiness. Elation, joy, glee.
+<div class="gutter" dir="rtl" style="text-align: right;"><blockquote>
+  <strong>النشوة (Euphoria)</strong> - <em>اسم</em><br>
+  شعور أو حالة من والسعادة والإثارة العارمة. ابتهاج، وفرح، وبهجة.
 </blockquote></div>
 }!}
 
+<div dir="rtl" style="text-align: right;">
 
-Before I can talk about discomfort, I have to talk about relief. Gender euphoria is itself a sign of gender dysphoria. You might be asking yourself, "how can happiness be sadness?" The answer to that is simple.
+*ملحوظة: سيتم استخدام كلمتي النشوة والبهجة بشكل متبادل في هذه الصفحة لكن المقصد واحد.*
 
-Imagine a person who was born in a cave, who spent their entire life living underground, with their only source of illumination being candles and oil lamps. Imagine they've never been above ground; they don't even know the surface exists. Then, one day, a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later, they return to the opening, and, as the person's eyes adjust, they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed.
+قبل أن أتمكن من التحدث عن الانزعاج، يجب أن أتحدث عن الراحة. النشوة الجندرية في حد ذاتها هي علامة على الانزعاج الجندري. قد تسأل نفسك: "كيف يمكن للسعادة أن تكون حزناً؟" الإجابة على ذلك بسيطة.
 
-That world is scary, huge, and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually, they peek out more and more frequently, and further and further from the opening. They start to want that light; they find reasons to visit it more often.
+تخيل شخصاً وُلد في كهف، وأمضى حياته بأكملها يعيش تحت الأرض، حيث كان مصدر إضاءته الوحيد هو الشموع ومصابيح الزيت. تخيل أنه لم يخرج قط إلى سطح الأرض؛ بل إنه لا يعرف حتى بوجود السطح. ثم في أحد الأيام، يحدث انهيار في نفق جانبي، ليكشف عن فتحة تؤدي إلى السطح. يتدفق ضوء الشمس إلى الفتحة، وفي البداية يكون ساطعًا يعمي البصر فيهرب الشخص خوفًا. لاحقًا، يعود إلى الفتحة، ومع تكيف عينيه، ينظر من خلال الثقب ليرى عالمًا ساطعًا ورائعًا مليئًا بألوان لم يكن يعرف حتى بوجودها.
 
-Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, and they want to stay here. Going back into the hole feels wrong; it starts to hurt to be in the dark so much.
+هذا العالم مخيف، وضخم، ومليء بالمجهولات، لذا يعودون زحفًا إلى الكهف بحثًا عن الأمان، لكن تلك الفتحة لا تزال هناك، ويرى الضوء كلما مرّ بها. تدريجيًا، يختلس النظر إلى الخارج بشكل متكرر، ويخرج لمسافات أبعد وأبعد عن الفتحة. يبدأ في اشتهاء ذلك الضوء؛ ويجد أسبابًا لزيارته في كثير من الأحيان.
 
-This is what gender euphoria is like: brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria.
+في النهاية يدرك أنه لم يعد يرغب في العودة إلى الحفرة بعد الآن. هو مضطرٌ للعودة، لأن هناك تتواجد عائلته وأصدقاؤه، لكن هذا المكان الجديد أفضل بكثير، ويريد البقاء فيه. العودة إلى الحفرة تبدو أمراً خاطئاً؛ ويبدأ التواجد في الظلام طوال هذا الوقت في إحداث الألم.
+
+هذا هو بالضبط ما تبدو عليه النشوة الجندرية: ومضات خاطفة من ضوء قد يكون ساطعًا جدًا بحيث يصعب تحمله في البداية، ومربكًا جدًا بحيث يصعب فهمه، ولكن بمرور الوقت تعتاد عليه أكثر وتدرك أن هذا هو المكان الذي تنتمي إليه، ويصبح الظلام هو الانزعاج.
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Many trans people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage acting, drag, role playing games, video games; small little forays into a different gender than they have lived as. They find that it feels just a little bit more comfortable. They'll make up excuses for why ("If I'm gonna be looking at this character's ass, it might as well be a girl's ass."), they'll try to convince themselves it's all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they're role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being "you" starts to hurt. Eventually, the old you becomes the costume.
+<div dir="rtl" style="text-align: right;">
 
-This is the most fundamental reason why we as a community say "you do not need dysphoria to be trans", because black ink on a black canvas isn't visible without close examination and a lot of light.
+ليس لدى العديد من الأشخاص العابرين أي فكرة عن مقدار الألم الذي يعانونه حتى يجدوا لحظات صغيرة من الراحة. الكوسبلاي (Cosplay)، التمثيل المسرحي، فن الدراج (Drag)، ألعاب تقمص الأدوار، ألعاب الفيديو؛ كلها جولات استكشافية صغيرة في جندر مختلف عن الذي عاشوا به. يجدون أن الأمر يبدو مريحًا أكثر بقليل. سيختلقون الأعذار للسبب ("إذا كنت سأظل أنظر إلى مؤخرة هذه الشخصية، فمن الأفضل أن تكون مؤخرة فتاة")، وسيحاولون إقناع أنفسهم بأن الأمر كله مجرد تسلية، أو تعبير فني. قد يخبرون أنفسهم أن لحظات الفرح التي يشعرون بها عند الإشارة إليهم بضمير مختلف هي مجرد حماس لشيء جديد. لكن سرعان ما يجدون أنفسهم يبحثون عن أسباب لتجربة ذلك بشكل أكثر تكرارًا. شيئًا فشيئًا، يتقمصون شخصيات من جنس مختلف بشكل متزايد، ويصنعون المزيد من الأزياء، ويشترون المزيد من الملابس، ويؤدون العروض أكثر فأكثر. تجد نفسك ترغب في القيام بذلك طوال الوقت، لأنه ببساطة يمنحك شعورًا أفضل من حياتك الحقيقية، ويبدأ كونك "أنت" في إيلامك. وفي النهاية، تصبح شخصيتك القديمة هي الزي التنكري.
 
-Anything that can be a source of dysphoria has an equal and opposite euphoria.
+هذا هو السبب الأساسي وراء قولنا كمجتمع "لست بحاجة إلى الانزعاج (الديسفوريا) لتكون عابرًا"، لأن الحبر الأسود على لوحة قماشية سوداء لا يكون مرئيًا دون فحص دقيق والكثير من الضوء.
+
+أي شيء يمكن أن يكون مصدراً للانزعاج يمتلك نشوة مساوية ومعاكسة له.
+
+</div>
 
 {!{ <div class="print-break-before"></div> }!}
 
@@ -56,22 +70,28 @@ Anything that can be a source of dysphoria has an equal and opposite euphoria.
   '1228165767264256003'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-Examples:
+<div dir="rtl" style="text-align: right;">
 
-- Being gendered correctly
-- Being addressed by your chosen name
-- Wearing correctly-gendered clothing
-- Seeing and feeling changes in your body
-- Seeing yourself in the mirror (removal of depersonalization)
-- Socializing in a way that conforms with gendered expectations
-- Getting a haircut in a masculine / feminine / androgynous manner
-- Shaving your legs
-- NOT shaving your legs
-- Being included in something you wouldn't otherwise because of your assigned gender (e.g. bridal shower or bachelor party)
-- Feeling sexy / having sex in a way that aligns with your gender and sexuality.
+أمثلة:
 
-Even just being out in the world as yourself and being seen as yourself can be massively euphoric.
+- مخاطبتك بجندرك الصحيح
+- مناداتك باسمك المختار
+- ارتداء ملابس تتوافق مع جندرك الصحيح
+- رؤية والشعور بالتغيرات في جسدك
+- رؤية نفسك في المرآة (زوال تبدد الشخصية)
+- التواصل الاجتماعي بطريقة تتوافق مع التوقعات الجندرية
+- الحصول على قصة شعر بأسلوب ذكوري / أنثوي / أندروجيني
+- حلاقة شعر ساقيك
+- عدم حلاقة شعر ساقيك
+- إشراكك في نشاط لم تكن لتشارك فيه عادةً بسبب جندرك المحدد عند الولادة (مثل حفلة هدايا العروس أو حفلة توديع العزوبية)
+- الشعور بالجاذبية الجنسية / ممارسة الجنس بطريقة تتوافق مع جندرك وتوجهك الجنسي.
 
-**What euphoria is NOT** is a sexual high, turn-on, or fetish. Sometimes euphoria can trigger a sexual response, and there are many factors at play that cause that (feeling good about your body is a turn-on, for example), but it is not a source of sexual excitement. Trans people are not "getting off" on presenting or acting like their true selves.
+حتى مجرد وجودك في العالم بصفتك الحقيقة وأسلوبك الخاص في التعبير وأن يراك الآخرون على حقيقتك قد يكون سبب للشعور بالنشوة والبهجة والهائلة.
 
-That said, many people who have not yet realized they are trans may resort to fetishes and kinks to express their gender and/or relieve their dysphoria. They may maintain some of these kinks through transition. There is no shame in this; how they find sexual fulfillment is their own business. However, these things are *alongside* their gender. A trans person's sense of gender persists indefinitely; it does not go away when they go back to their daily lives.
+**ما لا تعنيه النشوة** هو أنها ليست انتشاءً جنسيًا، أو إثارة، أو ولعًا جنسيًا (Fetish). أحيانًا قد تحفز النشوة استجابة جنسية، وهناك العديد من العوامل المؤثرة التي تتسبب في ذلك (على سبيل المثال، الشعور بالرضا تجاه جسدك يُعد أمرًا مثيرًا)، لكنها في ذاتها ليست مصدرًا للإثارة الجنسية. الأشخاص العابرون لا "يستمتعون جنسياً" بالظهور أو التصرف كذواتهم الحقيقية.
+
+ومع ذلك، فإن العديد من الأشخاص الذين لم يدركوا بعد أنهم عابرون قد يلجأون إلى الولع الجنسي والممارسات الجنسية غير المألوفة (Kinks) للتعبير عن جندرهم و/أو التخفيف من انزعاجهم. وقد يحافظون على بعض هذه الممارسات خلال العبور الجندري. لا يوجد ما يعيب في ذلك؛ فالطريقة التي يجدون بها إشباع رغباتهم الجنسية هي شأنهم الخاص. ومع ذلك، فإن هذه الأشياء تتواجد *إلى جانب* جندرهم. إحساس الشخص العابر بجندره يستمر بشكل دائم؛ فهو لا يختفي عندما يعود إلى ممارسة حياته اليومية.
+
+لذا، وجبت التفرقة بين بعض الممارسات الجنسية التي تحدث في غرفة النوم، وبين العبور الجندري الذي يستمر مع الشخص طوال يومه؛ فالأمران ليس لهما علاقة ببعضهما. قد يتواجد أحدهما دون الآخر (وهذا هو الغالب)، وقد يتواجدان معًا، وفي جميع الأحوال فإن المسألة طبيعية تمامًا.
+
+</div>
