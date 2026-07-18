@@ -1,26 +1,31 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Existential Dysphoria"
-linkTitle: "Existential Dysphoria"
-description: "I don't regret the things I have done; I regret the things I didn't do when I had the chance."
+title: "طرق تجسد الانزعاج: الانزعاج الوجودي"
+linkTitle: "الانزعاج الوجودي"
+description: "لم أندم على ما فعلت، بل ندمي الحقيقي على ما تركته حين سنحت لي الفرصة."
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/presentational-dysphoria
-  prevCaption: Presentational Dysphoria
-  next: /en/managed-dysphoria
-  nextCaption: Managed Dysphoria
+  prev: /ar/presentational-dysphoria
+  prevCaption: الانزعاج المظهري
+  next: /ar/managed-dysphoria
+  nextCaption: السيطرة على الانزعاج
 ---
 
-# Existential Dysphoria
+<div dir="rtl" style="text-align: right;">
 
-When you grow up as the wrong assigned gender, you are going to miss out on a lot of things that should have been available to you if only people had known. Sleepovers, camping trips, girl/boy scouts, shopping trips, cheerleading or sports. Events that are co-ed may have very different feelings attached to them based on how you engage with them, like going to prom, religious ceremonies (such as having a bat mitzvah instead of a bar mitzvah), and even just the act of courtship. This dysphoria may also be biological in origin, such as a sorrow over having not given birth to or breastfed your children.
+# الانزعاج الوجودي
 
-These missed opportunities can manifest as feelings of loss and hurt. Furthermore, the memories of things you *did* have access to but wouldn't have otherwise, or events that were performed in the wrong gender, can also be a sour point, as these may have awkward attachments. Imagine having to be a groom at your wedding when you know you should have been a bride; growing up dreaming about your perfect wedding, and then playing the wrong role in it.
+عندما تكبر في ظل جندر محدد لك بشكل خاطئ، فمن المحتم أنك ستفوت الكثير من الأشياء التي كان ينبغي أن تكون متاحة لك لو أن الناس عرفوا حقيقتك فقط. حفلات المبيت، رحلات التخييم، فرق الكشافة للفتيات أو الفتيان، رحلات التسوق، فرق التشجيع الرياضي، أو الرياضة بشكل عام. الأحداث المختلطة قد ترتبط بمشاعر مختلفة تمامًا بناءً على كيفية تفاعلك معها، مثل الذهاب إلى الحفلة الراقصة المدرسية (Prom)، والاحتفالات الدينية، وحتى مجرد طقوس التعارف والتقرب العاطفي. قد يكون هذا الانزعاج أيضًا ذا منشأ بيولوجي، مثل الشعور بالحزن والأسى على عدم إنجاب أو إرضاع أطفالك طبيعيًا.
 
-Sometimes existential dysphoria can manifest existentially, hitting you with all the grief of the youth lost. All the dating, the teenage antics, the parties, even just having been able to be sexual with the correct parts while your body was young and you had no responsibilities. It is time that can never be gained back.
+يمكن أن تتجلى هذه الفرص الضائعة في شكل مشاعر من الفقدان والألم. علاوة على ذلك، فإن ذكريات الأشياء التي *أُتيحت* لك بالفعل (لكنها لم تكن لتتاح لك لولا الجندر الخطأ)، أو الأحداث التي تمت تأديتها بالجندر الخطأ، يمكن أن تكون أيضًا نقطة مريرة، حيث قد تحمل هذه الذكريات ارتباطات مزعجة ومربكة. تخيلي أن تضطري لأن تكوني "العريس" في حفل زفافك بينما تعلمين في قرارة نفسك أنه كان ينبغي أن تكوني "العروس"؛ أن تكبري وأنتِ تحلمين بحفل زفافك المثالي، ثم تلعبين الدور الخطأ تمامًا فيه.
 
-Many trans people attempt to recapture some of these lost events, hosting or attending queer proms, organizing sleepovers, performing vow renewals with their spouses, and engaging in common puberty rites of passage like having a mother figure help them shop for their first bra, or having a father figure teach them to shave. However, ultimately, existential dysphoria is something that can never be relieved. You can make new experiences to replace the ones you lost, but you can never turn back the clock.
+في بعض الأحيان، يمكن أن يتجلى الانزعاج الوجودي بشكل عميق، ليضربك بكل ثقل الحزن على فترة الشباب الضائعة. كل تلك المواعيد الغرامية، والمغامرات الطائشة للمراهقين، والحفلات، وحتى مجرد القدرة على التعبير عن حياتك الجنسية بالأعضاء الصحيحة بينما كان جسدك لا يزال يافعًا وخاليًا من المسؤوليات. إنه وقت مضى ولن يمكن استعادته أبدًا.
 
-This is one of many reasons why affirming trans youth is so important. Boys want to do common boy things, girls want to do common girl things, and non-binary children want to do whatever feels correct to them, and when they miss out they will not forget.
+يحاول الكثير من الأشخاص العابرين استعادة بعض هذه الأحداث المفقودة، من خلال استضافة أو حضور حفلات مدرسية (Proms) خاصة بمجتمع الكوير، أو تنظيم حفلات مبيت، أو تجديد عهود الزواج مع شركائهم (بما يطابق حقيقتهم)، أو الانخراط في طقوس العبور الشائعة لمرحلة البلوغ، مثل الاستعانة بشخصية أمومية لمساعدتهن في تسوق أول حمالة صدر، أو الاستعانة بشخصية أبوية لتعليمهم كيفية الحلاقة. ومع ذلك، في نهاية المطاف، الانزعاج الوجودي هو شيء لا يمكن تخفيف وطأته بالكامل أبدًا. يمكنك خلق تجارب جديدة لتحل محل تلك التي فقدتها، لكنك لن تستطيع أبدًا إعادة عقارب الساعة إلى الوراء.
+
+هذا واحد من أسباب عديدة تجعل دعم وتأكيد الهوية للشباب العابرين أمرًا في غاية الأهمية. فالأولاد يرغبون في القيام بالأشياء الشائعة للأولاد، والفتيات يرغبن في القيام بالأشياء الشائعة للفتيات، والأطفال غير الثنائيين يرغبون في القيام بأي شيء يبدو صحيحًا ومريحًا بالنسبة لهم، وعندما تفوتهم هذه التجارب، فإنهم لن ينسوها أبدًا.
+
+</div>

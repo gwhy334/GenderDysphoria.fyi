@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Presentational Dysphoria"
-linkTitle: "Presentational Dysphoria"
-description: "Hoodies and sweatpants never go out of style."
+title: "طرق تجسد الانزعاج: الانزعاج المظهري"
+linkTitle: "الانزعاج المظهري"
+description: "الهوديز والسويتبانتس لا تفقد رونقها أبدًا."
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/sexual-dysphoria
-  prevCaption: Sexual Dysphoria
-  next: /en/existential-dysphoria
-  nextCaption: Existential Dysphoria
+  prev: /ar/sexual-dysphoria
+  prevCaption: الانزعاج الجنسي
+  next: /ar/existential-dysphoria
+  nextCaption: الانزعاج الوجودي
 classes:
   - gdb
 tweets:
@@ -19,23 +20,27 @@ tweets:
   - https://twitter.com/DameKraft/status/1191555135756853249
 ---
 
-# Presentational Dysphoria
+<div dir="rtl" style="text-align: right;">
 
-Clothes. Hair. Makeup. Jewelry. Glasses. Piercings and other body modifications. Even personal hygiene can be a factor of presentation, such as the shaving of body hair or how you take care of your skin. All of these things are gendered in society, clothing and hair especially.
+# الانزعاج المظهري
 
-While the sexual revolution of the 1960s and the business fashion craze of the 80s did wonders for blurring the gap between masculine and feminine presentation (largely by normalizing masc fashion as androgynous), there are still enormous pressures to conform to traditional gender norms. Gender non-conforming dress is so instantly marked as queer that any time a woman wears a tailored suit she is marked as a lesbian, and a dad who [puts on an Elsa costume because his son wants to have a Frozen party](https://twitter.com/cbsnews/status/1088441623846023168?lang=en) is labeled as subversive and abusing his child.
+الملابس. الشعر. مساحيق التجميل. المجوهرات. النظارات. ثقوب الجسد (الپيرسينغ) وغيرها من التعديلات الجسدية. حتى النظافة الشخصية يمكن أن تكون عنصرًا من عناصر المظهر والتعبير الذاتي، مثل إزالة شعر الجسم أو طريقة العناية بالبشرة. كل هذه الأشياء تحمل طابعًا جندريًا في نظر المجتمع، وخاصة الملابس والشعر.
 
-Long hair on men has been seen as [an act of rocker rebellion](https://www.youtube.com/watch?v=3w7CrxLj36I) for decades, and men with long hair get discriminated against as being layabouts and bums. Short hair on women is often read as queer or butch (unless they're old, then it's expected), and women are often pressured to keep their hair long. Pierced ears on men became somewhat more normalized in the 90s, but are still seen as an act of rebellion, and some employers won't allow men to wear earrings. Makeup on men is so stigmatized by toxic masculinity that even men who *like* makeup feel pressured to avoid it.
+في حين أن الثورة الجنسية في الستينيات وصيحة الأزياء العملية (البدل الرسمية) في الثمانينيات قد أحدثت العجائب في تضييق الفجوة بين المظهر الذكوري والأنثوي (إلى حد كبير من خلال تطبيع الأزياء الذكورية وجعلها محايدة جندريًا يمكن للجميع ارتدائها)، إلا أنه لا تزال هناك ضغوط هائلة للامتثال للمعايير الجندرية التقليدية. فارتداء ملابس لا تتوافق مع الجندر يُصنف فورًا على أنه "كوير" (مغاير للمألوف)، لدرجة أنه في أي وقت ترتدي فيه امرأة بدلة رسمية مُفصلة، تُصنف فورًا على أنها مثلية، والأب الذي [يرتدي زي "إلسا" لأن ابنه يرغب في إقامة حفلة بطابع فيلم Frozen](https://twitter.com/cbsnews/status/1088441623846023168?lang=en) يُوصف بأنه مخرب ويسيء معاملة طفله.
 
-Like it or not, presentation is gendered, and it is extremely common for trans people to want to present themselves in the fashion of their true gender, and a desire to be free of the shackles of gendered presentation is common among all trans people, regardless of where they sit on the gender spectrum. For AMAB individuals they may manifest as a wish to incorporate more feminine elements; for AFABs it may manifest as a want for a more masculine appearance. This may come as a full push towards the opposite of their assigned gender, or a desire to seek a middle-ground in pursuit of androgyny. It may even simply be a wish to *not* present as your assigned gender.
+لعقود من الزمن، كان يُنظر إلى الشعر الطويل للرجال على أنه [فعل متمرد على طريقة مغني الروك](https://www.youtube.com/watch?v=3w7CrxLj36I)، ويتعرض الرجال ذوو الشعر الطويل للتمييز ويُنظر إليهم ككسالى أو متسكعين. وغالبًا ما يُفسر الشعر القصير لدى النساء على أنه علامة على الكويرية أو الاسترجال (إلا إذا كن كبيرات في السن، فحينها يصبح الأمر متوقعًا)، وغالبًا ما تتعرض النساء لضغوط للحفاظ على شعرهن طويلًا. أصبحت الأقراط للرجال مقبولة نوعًا ما في التسعينيات، لكنها لا تزال تُعتبر فعلًا متمردًا، وبعض أصحاب العمل لا يسمحون للرجال بارتداء الأقراط. أما المكياج للرجال فهو موصوم بشدة بسبب الذكورية السامة، لدرجة أن حتى الرجال الذين *يحبون* المكياج يشعرون بضغط هائل لتجنبه.
 
-**Not all transfems present feminine, not all transmascs present masculine, and not all non-binary people seek androgyny. Butch AMAB trans people are valid; femme AFAB trans people are valid. Presentation is not gender; gender is not presentation.**
+شئنا أم أبينا، المظهر له طابع جندري، ومن الشائع جدًا أن يرغب الأشخاص العابرون في التعبير عن أنفسهم بمظهر يعكس جندرهم الحقيقي. كما أن الرغبة في التحرر من قيود المظهر الجندري شائعة بين جميع الأشخاص العابرين، بغض النظر عن موقعهم على الطيف الجندري. بالنسبة للأشخاص (الذين حُددوا كذكور عند الولادة)، قد يتجلى ذلك في الرغبة بدمج المزيد من العناصر الأنثوية في مظهرهم؛ وبالنسبة للأشخاص (الذين حُددوا كإناث عند الولادة)، قد يظهر كرغبة في مظهر أكثر ذكورية. قد يأتي هذا كاندفاع كامل نحو النقيض لجندرهم المحدد عند الولادة، أو رغبة في البحث عن منطقة وسطى سعيًا نحو مظهر محايد جندريًا (Androgyny). بل وقد يكون الأمر ببساطة مجرد رغبة في *عدم* الظهور بمظهر جندرك المحدد عند الولادة.
 
-Presentational dysphoria typically appears early on in the form of a fascination with the styling of another gender, and a wish to be able to present as people of that gender do. That desire may be fulfilled somewhat by seeking out styling that is unisex, but typically that wish is self-gatekept by statements of "I'm not confident enough to attempt that." AMABs often run into issue here where this desire often gets trapped behind heteronormative expectations, causing an interest in feminine presentation to be misinterpreted as sexual desire.
+**ليس كل العابرات نحو الأنوثة يتبنين مظهرًا أنثويًا، وليس كل العابرين نحو الذكورة يتبنون مظهرًا ذكوريًا، كما أن ليس كل الأشخاص غير الثنائيين يسعون لمظهر محايد جندريًا (Androgyny). الأشخاص العابرون (الذين حُددوا كذكور عند الولادة) ذوو المظهر الخشن أو الاسترجالي (Butch) هويتهم مشروعة؛ والأشخاص العابرون (الذين حُددوا كإناث عند الولادة) ذوو المظهر الأنثوي (Femme) هويتهم مشروعة. المظهر ليس هو الجندر، والجندر ليس هو المظهر.**
 
-Post-transition presentational dysphoria is usually simply a case of high discomfort when attempting to present as one's assigned gender. It may not even be about how one looks, but just the way the clothing makes you feel. For the first year and a half of my own transition I could not bear to wear unisex t-shirts because they just made me feel more masculine. Even now I have to cut the collars out of them because the close neck makes me feel dysphoric.
+يظهر الانزعاج المظهري عادةً في وقت مبكر على شكل انبهار بأسلوب أزياء جندر آخر، ورغبة في التمكن من التعبير عن الذات بنفس الطريقة التي يظهر بها أشخاص ذلك الجندر. قد يتم إشباع هذه الرغبة إلى حد ما من خلال البحث عن ملابس تناسب كلا الجنسين (Unisex)، ولكن عادةً ما تُقمع هذه الأمنية وتُحجم ذاتيًا بعبارات مثل "لست أمتلك الثقة الكافية لمحاولة ذلك". غالبًا ما يصطدم الأشخاص (الذين حُددوا كذكور عند الولادة) بمشكلة هنا، حيث تُحتجز هذه الرغبة خلف قضبان التوقعات المجتمعية التي تفرض المغايرة الجنسية، مما يؤدي إلى إساءة تفسير الاهتمام بالمظهر الأنثوي على أنه رغبة جنسية.
 
-### Presentation's Effect on Physical Dysphoria.
+أما الانزعاج المظهري بعد العبور الجندري، فهو عادةً ما يكون ببساطة حالة من عدم الارتياح الشديد عند محاولة الظهور بمظهر الجندر المحدد عند الولادة. قد لا يتعلق الأمر حتى بالشكل الذي يبدو عليه المرء، بل بمجرد الشعور الذي تبعثه تلك الملابس في نفسه. خلال السنة والنصف الأولى من رحلة عبوري الخاصة، لم أكن أطيق ارتداء القمصان القطنية (التيشيرتات) المحايدة (Unisex) لأنها ببساطة كانت تجعلني أشعر بذكورة أكبر. وحتى الآن، أضطر إلى قص الياقات منها لأن فتحة الرقبة الضيقة تثير لدي مشاعر الانزعاج الجندري.
+
+### تأثير المظهر على الانزعاج الجسدي
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716435068100611'
@@ -44,25 +49,32 @@ Post-transition presentational dysphoria is usually simply a case of high discom
   '1215716438020849664'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-Clothing can also play a major role in the level of physical dysphoria a person experiences. Men's clothing is always cut very boxy, straight up and down on the vertical and very square in the horizontal. Women's clothing is cut for more curves, accentuating waistlines and hip shape. Men's pants feature a lower crotch to make room for external genitals, and no fitting for curves, where women's bottoms are the opposite. Women's clothing is often form fitting, where men's clothing is rarely form fitting at all. Men's clothing is often made of sturdier and thicker materials, meant to be worn as a single layer. Women's clothing is often made of thinner and stretchier materials, expected to be layered together.
+<div dir="rtl" style="text-align: right;">
 
-Because these structures are meant to fit the masculine or feminine forms, they tend to amplify the sensation of wrongness. A classic effect is the way that the difference between men's and women's jeans can have a radical effect on a trans person's comfort level. Unfortunately this works both ways, as even affirming clothing can reveal how your shape is a mismatch.
+يمكن أن تلعب الملابس أيضًا دورًا رئيسيًا في مستوى الانزعاج الجسدي الذي يعاني منه الشخص. دائمًا ما تُقص الملابس الرجالية بتصميم صندوقي، بخطوط مستقيمة من الأعلى للأسفل عموديًا، ومربعة جدًا أفقيًا. بينما تُفصل الملابس النسائية لتلائم المزيد من المنحنيات، مما يبرز خطوط الخصر وشكل الوركين. تتميز السراويل الرجالية بمنطقة حجر منخفضة لتوفير مساحة للأعضاء التناسلية الخارجية، ولا تحتوي على أي تفصيل يراعي المنحنيات، في حين أن السراويل النسائية تكون عكس ذلك تمامًا. غالبًا ما تكون الملابس النسائية ضيقة وتأخذ شكل الجسم (مُجسمة)، في حين نادراً ما تكون الملابس الرجالية كذلك. تُصنع الملابس الرجالية غالبًا من أقمشة أكثر متانة وسمكًا، ومُصممة لتُرتدى كطبقة واحدة. أما الملابس النسائية فغالبًا ما تُصنع من أقمشة أرق وأكثر مرونة، ويُتوقع أن تُرتدى في طبقات متعددة.
 
-I, myself, am very feminine in my preferred presentation, and I've had a longing to wear dresses from when I was just five years old. I abhorred wearing suits, hating the way they fit on my body, since they always tugged in ways that felt very incorrect for what my body needed. I refused to wear any denim for most of my life because men's jeans always felt so incorrect (women's jeans and leggings, however, feel amazing). Then as I entered into transition and began to present more female, my dysphoria struck again in the ways my body did not conform to what women's clothing was expecting (too much in the crotch, too wide and bulky in the shoulders, too large in the waist, not large enough in the chest). It wasn't until the second year that I had experienced enough change in my shape to where women's clothing was properly affirming of my shape.
+ولأن هذه التصميمات صُممت لتناسب الأجسام الذكورية أو الأنثوية، فإنها تميل إلى تضخيم الإحساس بالخطأ والغربة في الجسد. من الأمثلة الكلاسيكية على هذا التأثير هو كيف يمكن للاختلاف بين الجينز الرجالي والنسائي أن يؤثر بشكل جذري على مستوى راحة الشخص العابر. للأسف، يعمل هذا في كلا الاتجاهين؛ فحتى الملابس المؤكدة للجندر (التي تتوافق مع هوية الشخص) يمكن أن تكشف عن مدى عدم تطابق شكل جسده معها.
 
-What does this look like? Well, it looks a lot like other common body image issues: a tendency to avoid anything form fitting, leaning towards softer fabrics and baggier clothes. A classic gender dysphoria trope is the kid who wears nothing but sweatpants and hoodies. Clothes will be oversized in order to keep them from hugging the body. AFABs may prefer to wear compressing sports bras in order to minimize their chests, and avoid anything with a tight waistline.
+أنا نفسي أميل جدًا للأنوثة في مظهري المفضل، وكان لدي شوق لارتداء الفساتين منذ أن كنت في الخامسة من عمري. كنت أمقت ارتداء البدل الرسمية، وأكره الطريقة التي تبدو بها على جسدي، لأنها كانت دائمًا ما تضغط وتُشد بطرق بدت خاطئة تمامًا لما كان يحتاجه جسدي. رفضت ارتداء أي قماش جينز لمعظم حياتي لأن الجينز الرجالي كان دائمًا يشعرني بالخطأ الشديد (في المقابل، الجينز النسائي والسراويل الضيقة "الليغينغز" تمنحني شعورًا مذهلًا). ثم، عندما بدأت في مرحلة العبور الجندري وأصبحت أظهر بشكل أكثر أنوثة، ضربني الانزعاج الجندري مرة أخرى بسبب الطرق التي لم يتوافق بها جسدي مع ما تتطلبه الملابس النسائية (مساحة زائدة في منطقة الحجر، أكتاف عريضة وضخمة للغاية، خصر عريض جدًا، وصدر ليس كبيرًا بما يكفي). لم أتجاوز هذا الأمر حتى السنة الثانية حيث اختبرت تغييرًا كافيًا في شكل جسدي لدرجة أصبحت فيها الملابس النسائية تؤكد على حقيقتي بشكل صحيح وتلائم شكل جسمي.
+
+كيف يبدو هذا الأمر على أرض الواقع؟ حسنًا، إنه يشبه إلى حد كبير مشكلات صورة الجسد الشائعة الأخرى: ميل إلى تجنب أي ملابس تبرز شكل الجسم، والتوجه نحو الأقمشة الأكثر نعومة والملابس الفضفاضة. من الصور النمطية الكلاسيكية للانزعاج الجندري هو ذلك الطفل الذي لا يرتدي سوى البناطيل الرياضية والكنزات ذات القلنسوة (الهوديز). ستكون الملابس بمقاسات أكبر من اللازم (Oversized) لمنعها من الالتصاق بالجسم. قد يفضل الأشخاص (الذين حُددوا كإناث عند الولادة) ارتداء حمالات صدر رياضية ضاغطة لتقليل حجم صدورهم بصريًا، ويتجنبون أي ملابس تضيق عند خط الخصر.
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1191555135756853249'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-Internally it most often manifests as intense jealousy of the people you wish you could be: jealousy over an influencer's body shape, a strong desire for the outfit of a person on the street, and most especially envy of other trans people. This feeling often persists well into transition, because this sensation of wanting to be other people of your gender is actually completely natural, even for cis people.
+<div dir="rtl" style="text-align: right;">
 
+داخليًا، غالبًا ما يتجلى هذا الشعور في صورة غيرة شديدة من الأشخاص الذين تتمنى لو كنت مكانهم: الغيرة من شكل جسد أحد المؤثرين (الإنفلونسرز)، أو الرغبة العارمة في الحصول على نفس طقم الملابس الذي يرتديه شخص يمر في الشارع، وبشكل خاص، غبطة التمني (الغيرة الإيجابية) تجاه الأشخاص العابرين الآخرين. غالبًا ما يستمر هذا الشعور لفترة طويلة خلال رحلة العبور، لأن هذا الإحساس بالرغبة في أن تكون مثل أشخاص آخرين من نفس جندرك هو في الواقع أمر طبيعي تمامًا، حتى بالنسبة للأشخاص غير العابرين (المتوافقين جندريًا).
 
-### Presentation's Effect on Social Dysphoria.
+### تأثير المظهر على الانزعاج المجتمعي
 
-Presentation can be important for avoiding misgendering, especially early in transition. A lot of trans people feel a need to perform their gender in order to be accepted for who they are, leaning in to feminine or masculine presentation more than they actually would like in order to make up for their body and ensure that people gender them correctly. Those pursuing medical transition may find this need becomes less important as their bodies change and they become able to be gendered correctly without all of the performance.
+يمكن أن يكون المظهر مهمًا لتجنب الخطأ في تحديد الجندر (Misgendering)، خاصة في بداية رحلة العبور. يشعر الكثير من الأشخاص العابرين بالحاجة إلى "أداء" جندرهم (المبالغة في إبرازه) من أجل أن يتم قبولهم على حقيقتهم، فيميلون إلى المظهر الأنثوي أو الذكوري بدرجة أكبر مما يرغبون فيه فعليًا، وذلك لتعويض شكل أجسادهم وضمان أن يخاطبهم الناس بالجندر الصحيح. أولئك الذين يسلكون مسار العبور الطبي قد يجدون أن هذه الحاجة تصبح أقل أهمية مع تغير أجسادهم، حيث يصبحون قادرين على أن يُعرفوا بجندرهم الصحيح دون الحاجة إلى كل هذا الأداء المتكلف.
 
-Performative presentation was practically required prior to the reformation of WPATH in 2011; anyone who showed up to a doctors appointment without extreme feminine or masculine presentation risked be labeled a fake and losing their treatment under the Harry Benjamin Scale. Trans women actually would lose their estrogen simply for wearing jeans and a blouse instead of a dress, or for not putting on enough makeup. This is one of the reasons why [transmedicalist](https://en.wikipedia.org/wiki/Transmedicalism) ideology is so dangerous: it would see us returning to this system, labeling anyone who doesn't meet stereotypical views of femininity and masculinity as not actually transgender.
+كان هذا المظهر الاستعراضي مطلوبًا بشكل شبه أساسي قبل الإصلاحات التي أجرتها الجمعية العالمية المهنية لصحة العابرين جندريًا (WPATH) في عام 2011؛ فأي شخص كان يحضر لموعد طبي دون مظهر أنثوي أو ذكوري صارخ كان يخاطر بأن يُوصف بالمزيف ويُحرم من العلاج وفقًا لمقياس هاري بنجامين. في الواقع، كانت النساء العابرات يُحرمن من هرمون الإستروجين ببساطة لارتدائهن الجينز وبلوزة بدلاً من فستان، أو لعدم وضعهن ما يكفي من المكياج. هذا هو أحد الأسباب التي تجعل أيديولوجية [الطب النفسي الحصري للعابرين (Transmedicalism)](https://en.wikipedia.org/wiki/Transmedicalism) خطيرة للغاية: فهي تسعى لإعادتنا إلى هذا النظام، حيث يُصنف أي شخص لا يستوفي الرؤى النمطية للأنوثة والذكورة على أنه ليس شخصًا عابرًا حقيقيًا.
 
-Presentation is especially important among prepubescent children, as they lack any significant secondary sexual characteristics. Clothing and hair are the only ways we have to show the gender of a child, so much so that if a baby simply wears a pink shirt, strangers assume it is a girl. Even unisex clothing for kids is strongly gendered by way of colors and graphics. For trans children, it can be extremely distressing to be either forced to cut their hair or required to grow it out. Denying dresses to a trans girl or transfeminine non-binary child, or forcing them onto a trans boy or transmasculine non-binary child, can be debilitating to their morale.
+تبرز أهمية المظهر بشكل خاص بين الأطفال قبل سن البلوغ، نظرًا لافتقارهم إلى أي خصائص جنسية ثانوية واضحة. تُعد الملابس وقصات الشعر هي الطرق الوحيدة المتاحة لنا لإظهار جندر الطفل، لدرجة أنه إذا ارتدى طفل رضيع قميصًا ورديًا بكل بساطة، سيفترض الغرباء فورًا أنها فتاة. حتى الملابس المحايدة المخصصة للأطفال يتم إضفاء طابع جندري قوي عليها من خلال الألوان والرسومات. بالنسبة للأطفال العابرين، قد يكون من المؤلم والمزعج للغاية إجبارهم إما على قص شعرهم أو إرغامهم على إطالته. إن حرمان فتاة عابرة أو طفل غير ثنائي يميل للأنوثة من ارتداء الفساتين، أو إجبار فتى عابر أو طفل غير ثنائي يميل للذكورة على ارتدائها، يمكن أن يكون مدمرًا لمعنوياتهم ونفسيتهم.
+
+</div>

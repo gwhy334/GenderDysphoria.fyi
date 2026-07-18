@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "How Gender Dysphoria Manifests: Sexual Dysphoria"
-linkTitle: "Sexual Dysphoria"
-description: "Sometimes a cigar doesn't want to be smoked."
+title: "طرق تجسد الانزعاج: الانزعاج الجنسي"
+linkTitle: "الانزعاج الجنسي"
+description: "أحيانًا لا ترغب السيجارة في من يدخنها."
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/societal-dysphoria
-  prevCaption: Societal Dysphoria
-  next: /en/presentational-dysphoria
-  nextCaption: Presentational Dysphoria
+  prev: /ar/societal-dysphoria
+  prevCaption: الانزعاج المجتمعي
+  next: /ar/presentational-dysphoria
+  nextCaption: الانزعاج المظهري
 classes:
   - gdb
 tweets:
@@ -16,29 +17,55 @@ tweets:
 
 ---
 
-# Sexual Dysphoria
+<div dir="rtl" style="text-align: right;">
 
-Closely related to societal dysphoria is dysphoria centered around sexuality, sexual relationships, and the act of having sex. [Heteronormative](https://en.wikipedia.org/wiki/Heteronormativity) gender roles come loaded with the expectation that [AMABs will top and AFABs will bottom](https://en.wikipedia.org/wiki/Top,_bottom_and_versatile). These dynamics get reinforced by our popular media, by toxic masculinity, and especially by our pornography, even in *transgender* pornography. (The bulk of trans/cis pornography involves trans women topping, etc.) Deviations from these roles often result in shame, both from partners and from peers.
+# الانزعاج الجنسي
 
-Of course, this is not an absolute by any means, and many heterosexual cis couples do find ways out of these molds, finding a new dynamic in their relationship, or engaging in kinks to satisfy desires. Some couples find they aren't sexually compatible at all and seek other partners. However, there are many, many external pressures discouraging this kind of self-awareness and discovery, and breaking away from those demands can be extremely difficult — even traumatic. This is particularly true when there is a background of conservatism or religious virtuism.
+يرتبط الانزعاج المجتمعي ارتباطًا وثيقًا بالانزعاج المتمحور حول الحياة الجنسية، والعلاقات الحميمية، والممارسة الجنسية بحد ذاتها. تأتي معيارية الأدوار الجندرية المغايرة (Heteronormative التي تفترض أن الميل للجنس الآخر هو المعيار الطبيعي الوحيد) محملة بتوقعات صارمة بأن الأشخاص (الذين حُددوا كذكور عند الولادة) سيلعبون دور الطرف المُبادر (Top)، بينما سيلعب الأشخاص (الذين حُددوا كإناث عند الولادة) دور الطرف المتلقي (Bottom). تتعزز هذه الديناميكيات من خلال وسائل الإعلام الشعبية، والذكورية السامة، وبشكل خاص من خلال المواد الإباحية، حتى في تلك المواد التي تتضمن أشخاصًا *عابرين*. (حيث يتضمن الجزء الأكبر من هذه المواد إظهار النساء العابرات في دور الطرف المُسيطر، وما إلى ذلك). وغالبًا ما يؤدي الخروج عن هذه الأدوار المرسومة إلى الشعور بالعار، سواء من قِبل الشركاء أو الأقران.
 
-Cisgender gay relationships shirk this by virtue of necessity, opening the doors for individuals to explore what role leaves them more fulfilled. Some gay couples have an established dominant/submissive dynamic, and they enter into the relationship with that already understood. Others resolve it by switching up which partner is dominant. Yet, gay relationships can still get caught up in these kinds of expectations in regards to [butch/femme](https://en.wikipedia.org/wiki/Butch_and_femme), [bear](https://en.wikipedia.org/wiki/Bear_(gay_culture)), and [twink](https://en.wikipedia.org/wiki/Twink_(gay_slang)) dynamics.
+بالطبع، ليس هذا قانونًا مطلقًا بأي حال من الأحوال، حيث يجد العديد من الأزواج غير العابرين (المتوافقين جندريًا) ذوي الميول المغايرة طرقًا للهروب من هذه القوالب، ويبتكرون ديناميكيات جديدة في علاقاتهم، أو ينخرطون في ممارسات غير تقليدية لإشباع رغباتهم. يكتشف بعض الأزواج أنهم غير متوافقين جنسيًا على الإطلاق فيبحثون عن شركاء آخرين. ومع ذلك، هناك ضغوط خارجية هائلة تثبط هذا النوع من الوعي الذاتي والاستكشاف، وقد يكون التحرر من هذه المتطلبات المجتمعية أمرًا في غاية الصعوبة، بل وصادمًا نفسيًا. ويصدق هذا بشكل خاص في البيئات التي تتسم بخلفية محافظة أو توجه ديني متشدد.
 
-What does all this mean? Trans people who enter into perceptually heterosexual relationships pre-transition sometimes find themselves losing interest in sexual intercourse, as penetrative acts do not produce the fulfillment that they would expect. In extreme cases it can feel completely wrong and trigger panic. The sensations may feel pleasurable, but the experience is out of place, and the act itself feels forced.
+تتجاوز العلاقات المثلية بين الأشخاص المتوافقين جندريًا هذه القيود بحكم الضرورة، مما يفتح الأبواب أمام الأفراد لاستكشاف الدور الذي يمنحهم شعورًا أكبر بالرضا والإشباع. لدى بعض الأزواج المثليين ديناميكية ثابتة تقوم على التبادل بين السيطرة والخضوع، ويدخلون في العلاقة وهم متفهمون لذلك مسبقًا. بينما يحل آخرون الأمر بالتناوب على هذه الأدوار. ومع ذلك، يمكن أن تقع العلاقات المثلية أيضًا في فخ هذا النوع من التوقعات المتعلقة بالأدوار والأنماط الشكلية المتعارف عليها في ثقافتهم (مثل ديناميكيات التعبير الذكوري/الأنثوي [Butch/Femme]، أو التصنيفات المرتبطة بالبنية الجسدية والعمرية [مثل Bear و Twink]).
+
+ماذا يعني كل هذا؟ إن الأشخاص العابرين الذين يدخلون في علاقات تبدو ظاهريًا "مغايرة" (رجل وامرأة) قبل أن يبدؤوا مسار عبورهم الجندري، غالبًا ما يجدون أنفسهم يفقدون الاهتمام بالعلاقة الجنسية، حيث أن الممارسات التقليدية لا تمنحهم الإشباع العاطفي والجسدي الذي يُفترض بهم الشعور به. في الحالات القصوى، قد يبدو الأمر خاطئًا تمامًا ويثير نوبات من الذعر. قد تكون الأحاسيس الجسدية ممتعة، لكن التجربة ككل تبدو في غير محلها، ويبدو الفعل بحد ذاته متكلفًا ومفروضًا عليهم.
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
     '1137399651458519040'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-This can lead to one feeling less enthusiastic or even disinterested in sex, as half of what makes up sex drive is the mental context of the situation. Many trans people never even experience sex until adulthood, functionally operating as sex-averse due to how severely their dysphoria has shut down all sex drive. They may still perform for the sake of their partners, but not get as much enjoyment as they could, and even end up disconnecting from reality around them in order to accomplish the task.
+<div dir="rtl" style="text-align: right;">
 
-This dysphoria may be so significant that they find themselves taking a sexual identity that they don't actually connect with. It is not unheard of for a trans person to realize after coming out that they never actually felt a connection to the sexual orientation that they had identified with previously, but were instead using it as a way to feel less dysphoric in their sex lives.
+قد يؤدي هذا إلى شعور المرء بفتور أو حتى فقدان تام للاهتمام بالعلاقة الحميمة، حيث أن نصف ما يشكل الدافع الجنسي يعتمد بالأساس على السياق النفسي والذهني للموقف. فالعديد من الأشخاص العابرين لا يختبرون العلاقة الجنسية أبدًا حتى سن الرشد، ويعيشون فعليًا حالة من النفور الجنسي، وذلك لأن قسوة الانزعاج الجندري الذي يمرون به تؤدي إلى كبت دافعهم الجنسي تمامًا. قد يستمرون في أداء هذه الممارسة من أجل إرضاء شركائهم، لكن دون الحصول على القدر الذي يستحقونه من المتعة، بل وقد ينتهي بهم الأمر بالانفصال ذهنيًا عن الواقع المحيط بهم (التبدد) لمجرد التمكن من إتمام هذه المهمة.
 
-Some trans women, for example, identified as gay men pre-transition out of a desire to have a partner that treats them like women during sex, but find themselves to actually be lesbians once that demand is lifted. Others may attempt to live as gay men, but find that the role doesn't fulfill them because they know their partners see them as men.
+قد يكون هذا الانزعاج عميقًا لدرجة أنهم يجدون أنفسهم يتبنون هوية جنسية (توجهًا جنسيًا) لا يشعرون بأي ارتباط حقيقي بها. فليس من النادر أن يدرك الشخص العابر، بعد إفصاحه عن هويته الحقيقية، أنه لم يشعر يومًا بانتماء صادق للتوجه الجنسي الذي كان يعرّف نفسه به سابقًا، بل كان يتخذ منه مجرد مسكن لتخفيف وطأة الانزعاج في حياته الجنسية.
 
-# The Coercive Male Gaze
+على سبيل المثال، بعض النساء العابرات قد يعرّفن أنفسهن كرجال مثليين قبل بدء رحلة العبور، بدافع الرغبة الخفية في الحصول على شريك يعاملهن كنساء أثناء العلاقة، لكنهن يكتشفن أنهن في الواقع مثليات (ينجذبن للنساء) بمجرد أن يزول هذا الاحتياج النفسي للتعويض. وقد تحاول أخريات العيش كرجال مثليين، لكنهن يجدن أن هذا الدور يتركهن في حالة من الخواء العاطفي، لأنهن يدركن جيدًا أن شركاءهن يرونهن كرجال.
 
-æææ<div class="cw"><p><strong>Author's Note</strong>: This specific type of sexual dysphoria is difficult to explain in generalist terms, so I am going to take a departure here and write about this from my own personal experience. The following is presented from my perspective as a binary trans woman. As such, this may not be completely relatable to all trans people. My apologies.</p></div>æææ
+# النظرة الذكورية القهرية (The Coercive Male Gaze)
+
+æææ<div class="cw"><p><strong>ملاحظة الكاتب الأصلي</strong>: من الصعب شرح هذا النوع التحديد من الانزعاج الجنسي بعبارات عامة ومجردة، لذا سأخرج عن السياق المعتاد هنا وأتناول هذا الأمر من واقع تجربتي الشخصية البحتة. ما سأطرحه تاليًا يُقدم من منظوري كامرأة عابرة ثنائية (أي أصنف نفسي كامرأة حصريًا). وبناءً على ذلك، قد لا تتطابق هذه التجربة بالضرورة مع ما يمر به جميع الأشخاص العابرين، لذا أرجو المعذرة.</p></div>æææ
+
+هناك مقولة معروفة جدًا في أوساط النساء المثليات: "هل أريد أن أكون هي، أم أريد أن أكون معها؟"
+
+</div>
+
+{!{
+<div class="gutter" dir="rtl" style="text-align: right;"><blockquote>
+  <strong>الغبطة الجندرية (Gender Envy)</strong> - <em>اسم</em><br>
+  الغبطة الجندرية (أو التمني الجندري وأحيانًا يقال الحسد) هي شعور قوي ومفاجئ يجتاح الشخص عندما يرى شخصًا آخر (سواء كان شخصية حقيقية، أو حتى شخصية خيالية في فيلم أو لعبة) يمتلك سمات جسدية، أو أسلوب ملابس، أو تعبيرًا جندريًا، أو حتى نبرة صوت يتمنى بشدة أن يمتلكها لنفسه لتتطابق حقيقته الداخلية مع مظهره.
+</blockquote></div>
+}!}
+
+<div dir="rtl" style="text-align: right;">
+
+قد يكون من الصعب التفرقة بين الانجذاب الجنسي وبين "غبطة التمني" (أن تتمنى أن تكون مكان الشخص الآخر)، خاصة عندما تكونين مراهقة عابرة لم تفصحي عن هويتك بعد. يُبنى مجتمعنا بأسره على أساس المغايرة الجنسية (الانجذاب للجنس الآخر)؛ فهذا هو المعيار الثقافي الافتراضي ببساطة، لدرجة أن حتى الأطفال قبل سن البلوغ يُحاصرون بوابل من الرسائل حول الانجذاب بين الذكر والأنثى. ونتيجة لذلك، فإن أي اهتمام بجوانب حياة الجنس "الآخر" يُفسر على الفور تقريبًا بأنه انجذاب جنسي.
+
+
+وما هي نتيجة ذلك؟ عادةً... العار. غالبًا ما يستبطن الأطفال العابرون نظرتهم لأقرانهم بناءً على جندرهم الحقيقي، والمرء الطبيعي لا يُسلّع (يعامل كأداة) من يساويه. وبالتالي، يندفع الطفل لإخفاء هذه الاهتمامات رغبةً منه في ألا يُرى وهو يمارس هذا النوع من التسليع الجنسي. ويزداد الأمر تعقيدًا وقسوة إذا نشأ الطفل في بيئة ذات قواعد أخلاقية صارمة جدًا، كما هو الحال في التنشئة الدينية المحافظة.
+
+</div>
 
 {!{
 <div class="gutter flex">
@@ -46,26 +73,35 @@ Some trans women, for example, identified as gay men pre-transition out of a des
 </div>
 }!}
 
-There is a saying that is very well known in sapphic circles: "Do I want to be her, or be with her?"
+<div dir="rtl" style="text-align: right;">
 
-It can be hard to tell the difference between sexual attraction and envy, especially when you're a closeted trans teenager. Our entire society is built upon heterosexuality; it is simply the cultural default, to the point that even prepubescent children are barraged with messages about male to female attraction. Consequently, interest in aspects of the lives of the "opposite" sex is almost always immediately perceived as being sexual attraction.
+بنشأتي كمراهقة عابرة تعيش في "الخزانة" داخل أسرة مسيحية إنجيلية، كنت أعلم أنه إذا ضُبطت يومًا وأنا أنظر إلى النساء بطريقة تُعتبر جنسية، فسوف أُعاقب. وكنت أعلم أنني إذا ضُبطت يومًا وأنا ألمس أو أتفحص ملابس نسائية، فستنهال عليّ أسئلة محرجة جدًا لم أكن مستعدة للإجابة عليها. شكّل هذا مشكلة خطيرة جدًا بالنسبة لي، كشخص كان لديه شغف وانبهار شديد بالملابس النسائية، وخاصة الملابس الداخلية.
 
-What is the result of this? Usually... shame. Trans children often internalize their view of their peers based on their true gender, and one does not objectify their equals. Thus the child is motivated to hide those interests out of a desire to not be seen engaging in that kind of sexual objectification. This is even further compounded if the child has been raised in a setting with very strict moral codes, such as in a conservative religious upbringing.
+هناك مقطع من مسلسل الرسوم المتحركة "ذا سيمبسونز" (The Simpsons) [يخضع فيه شخصية "مو سيزلاك" لاختبار جهاز كشف الكذب](https://www.youtube.com/watch?v=iQGwrK_yDEg)، وفي نهاية الاختبار يعترف بأنه سيقضي ليلته في التحديق بشهوة في صور النساء في قسم الملابس الداخلية من كتالوج المبيعات. جوهر المشهد بأكمله، ومصدر الكوميديا فيه، هو العار الذي يُلقى على "مو" لانخراطه في هذا الفعل اليائس من التسليع الجنسي. لقد كبرت وأنا أعلم أن هذه هي الطريقة التي سيُنظر بها إليّ بسبب اهتمامي بالملابس النسائية.
 
-Growing up as a closeted trans teen in an evangelical Christian household, I knew that if I was ever caught looking at women in what was seen as a sexual manner, I would be punished. I knew if I was ever found handling women's apparel, there would be a lot of very awkward questions which I was not prepared to answer. This posed a very serious problem for me, as someone with a strong fascination with women's apparel, particularly lingerie.
+بدافع من العار والخوف، فعلت كل ما بوسعي لإخفاء هذا الشغف، لأنني ببساطة لم أستطع تحمل أن ينظر إليّ أحدهم كما يُنظر إلى المراهقين الذكور الذين يمارسون العادة السرية على أي مادة تقع عليها أيديهم. وما زاد الطين بلة وجعل هذا الخوف أسوأ، هو أنني *أنا نفسي كنت أعتقد* أن اهتمامي كان ذا طابع جنسي.
 
-There is [a Simpsons clip where Moe Szyslak is put on a lie detector test](https://www.youtube.com/watch?v=iQGwrK_yDEg), and by the end of the test he has confessed that he will be spending the night ogling the women in the intimates section of the Sears catalog. The entire crux of the scene, and the source of the comedy, is the shame that is cast on Moe for engaging in this desperate act of objectification. I grew up knowing that this is how I would be perceived for my interest in women's clothing.
+عندما تنظر إلى العالم عبر عدسة تأخذ شكل بطة، فإن كل شيء سيبدو لك كبطة بشكل أو بآخر. الإطار الوحيد الذي أُعطي لي لفهم اهتمامي بالنساء كان من خلال منظور الرغبة الجنسية، وبالتالي فإن كل اهتمام أنثوي كان لدي تم تشويهه ليتحول إلى رغبة جنسية. أمنيتي في أن أكون عروسًا تحولت إلى "فيتيش" (هوس جنسي) بالعرائس، ورغبتي في إنجاب طفل تشوهت لتصبح اهتمامًا بالمواد الإباحية المتعلقة بالحمل، وحاجتي العميقة لأن أكون فتاة تم توجيهها لتصبح هوسًا جنسيًا بالتحول الجسدي.
 
-Out of shame and fear, I did everything I could to hide this passion, because I simply could not bear for someone to view me like the teenage boys who masturbate to any material they get their hands on. What made this fear even worse was that I *also believed* that my interest was sexual.
+ولكن علاوة على كل ذلك، كنت أشعر *بالرعب* من أن يُلاحظني أحد وأنا أبدي اهتمامًا جنسيًا مشروعًا بالنساء الأخريات. كان لدي أصدقاء ذكور معروفون بتلصصهم المستمر وتحديقهم الأبله؛ وكان لدى أحد أصحاب العمل السابقين عادة سيئة تتمثل في التحديق الوقح بالنساء الجذابات عندما كنا نخرج لتناول الغداء، مما كان يجعلني أشعر بعدم ارتياح شديد لوجودي معه.
 
-When you see the world through a duck shaped lens, everything looks vaguely like a duck. The only framework I had been given to understand my interest in women was through sexual desire, and thus every feminine interest I had became warped into a sexual desire. My wish to be a bride morphed into a bridal kink, my desire to have a child warped into an interest in pregnancy porn, and my own need to be a girl was redirected into a transformation fetish.
+لم أكن أطيق أن أرتبط بتلك النظرة الذكورية. حتى في وجود أجمل النساء، كنت أتجنب مجرد النظر إليهن، لأنني لم أكن أريد أن يُنظر إليّ كنوع الأشخاص الذين يحدقون في النساء. لم أكن أريد أن أُرى ككائن مفترس.
 
-But on top of all of this, I was *terrified* to be seen expressing legitimate sexual interest in other women. I had male friends who were notorious rubberneckers and slack-jawed gawkers; one of my former employers had an awful habit of leering at attractive women when we were out to lunch, which made me very uncomfortable to be seen with him.
+هذه هي النظرة الذكورية القهرية في هذا السياق: [المغايرة الجنسية الإجبارية](https://en.wikipedia.org/wiki/Compulsory_heterosexuality) التي تُفرض قسرًا على النساء العابرات اللواتي لم يفصحن عن هوياتهن بعد، وذلك بفعل الأيديولوجيات المجتمعية التي تكرّس الانجذاب للجنس الآخر كمعيار طبيعي أوحد — وهو ما يخلق حالة من التنافر المعرفي تُولد شعورًا قاسيًا بالذنب والعار يحيط بتقدير المرء لزميلاته واهتماماته الخاصة بجندره.
 
-I could not stand to be associated with that male gaze. Even around the most beautiful women, I would avoid even looking at them, because I did not want to be seen as the kind of person that stares at women. I did not want to be seen as a predator.
+بمجرد أن تتخلصي من هذا الإطار الذكوري – بمجرد أن تتمكني من رؤية نفسك كامرأة وتتقبلي هذه الاهتمامات والملاحظات كأمور طبيعية ومشروعة – يتبخر هذا الشعور بالعار والذنب تمامًا. حتى عندما يكون هذا الاهتمام ذا طبيعة مثلية (بين النساء) ويتضمن رغبة جنسية حقيقية، فإنه لم يعد ملوثًا بتلك النظرة الاستهلاكية التي تُسلّع الآخر وتجرده من إنسانيته. أصبحتُ قادرة على إبداء إعجابي بأنوثة وجمال قريناتي من النساء دون الشعور بالخزي، ويمكنني مجاملتهن بحرية دون الخوف من أن يُنظر إليّ كشخص مريب أو أن تُساء تفسير نواياي.
 
-This is the coercive male gaze: [compulsory heterosexuality](https://en.wikipedia.org/wiki/Compulsory_heterosexuality) placed upon closeted trans women due to heteronormative ideologies — a cognitive dissonance that causes intense guilt and shame surrounding appreciation of one's peers and gendered interests.
+</div>
 
-Once you remove this male framework – once one is able to perceive themselves as female and accept these interests and observations as valid – that shame and guilt completely evaporates. Even when the interest is sapphic in nature and genuinely includes sexual desire, it is no longer tainted with this layer of objectification. I am able to appreciate the femininity and the beauty of my female peers without judgment, and I can compliment them without fearing being perceived as a creep or having my intentions misinterpreted.
+{!{
+<div class="gutter" dir="rtl" style="text-align: right;"><blockquote>
+  <strong>كوير (Queer)</strong> - <em>اسم</em><br>
+  "كوير" هو مصطلح شامل ومظلة لغوية يُستخدم للإشارة إلى أي شخص لا تتطابق هويته الجندرية أو توجهه الجنسي مع المعايير المجتمعية التقليدية؛ بمعنى أنه يضم كل من هم ليسوا "متوافقين جندريًا" (Cisgender) أو ليسوا "مغايرين جنسيًا" (Heterosexual).
+</blockquote></div>
+}!}
 
-It was a dysphoria I could not possibly have put into words until after it had finally been relieved. I was even more relieved as I began to integrate into queer women's spaces and came to realize that _women are exactly as thirsty as men are_; we're just (usually) much more respectful about it. It was a release of guilt that I didn't even know I was carrying.
+<div dir="rtl" style="text-align: right;">
+
+لقد كان انزعاجًا خفيًا لم أكن لأتمكن أبدًا من صياغته في كلمات إلا بعد أن تحررت منه أخيرًا. وازداد شعوري بالارتياح والسكينة عندما بدأت أنخرط في المساحات الخاصة بالنساء "الكويريات"، لأدرك حينها أن _النساء يمتلكن نفس القدر من الرغبات والتعطش الذي يمتلكه الرجال_؛ كل ما في الأمر هو أننا (في الغالب) نكون أكثر احترامًا ورقيًا في التعبير عن ذلك. لقد كان ذلك بمثابة التحرر المطلق من عبء ذنب لم أكن أدرك حتى أنني كنت أحمله على كاهلي طوال الوقت.
+
+</div>
