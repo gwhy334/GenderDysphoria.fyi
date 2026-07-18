@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Managed Dysphoria: Gender in Disguise"
-linkTitle: "Managed Dysphoria"
-description: "The ways we've coped."
+title: "السيطرة على الانزعاج: جندر في الخفاء"
+linkTitle: "السيطرة على الانزعاج"
+description: "طرق تأقلمنا مع الواقع."
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/existential-dysphoria
-  prevCaption: Existential Dysphoria
-  next: /en/impostor-syndrome
-  nextCaption: Impostor Syndrome
+  prev: /ar/existential-dysphoria
+  prevCaption: الانزعاج الوجودي
+  next: /ar/impostor-syndrome
+  nextCaption: متلازمة المحتال
 classes:
   - gdb
 tweets:
@@ -16,72 +17,80 @@ tweets:
   - '1215749725456125952'
 ---
 
-# Managed Dysphoria
+<div dir="rtl" style="text-align: right;">
 
-Growing up in the closet, even when you don't know you're in the closet, becomes an existence built on top of coping mechanisms intended to alleviate dysphoria. The following are ways a closeted trans person may find to alleviate the dysphoria they experience in their day to day lives:
+# السيطرة على الانزعاج
 
-- When a video game gives you the option of choosing your gender, you tend to choose differently than your assigned gender. This may be accompanied with excuses to defend that choice. "It defaulted to male and I didn't care." "I don't want to stare at a guy's butt for hours."
+إن النشأة داخل "الخزانة" (إخفاء الهوية)، حتى وإن لم تكن تدرك أنك بداخلها، تتحول إلى حياة مبنية بالكامل على آليات تكيف تُبتكر خصيصًا لتخفيف وطأة الانزعاج الجندري. وفيما يلي بعض الطرق التي قد يلجأ إليها الشخص العابر الذي لم يفصح عن هويته للتخفيف من الانزعاج الذي يواجهه في حياته اليومية:
 
-- A preference for literature and film with characters of your true gender, or with characters who break gender norms (_Mulan_, _Little Women_).
+-   عندما تمنحك إحدى ألعاب الفيديو خيار تحديد جندرك، فإنك تميل إلى اختيار جندر يختلف عن ذلك الذي حُدد لك عند الولادة. وقد يصاحب ذلك اختلاق أعذار لتبرير هذا الاختيار، مثل: "لقد كان الخيار الافتراضي ولم أكترث لتغييره"، أو "لا أريد التحديق في مؤخرة رجل لساعات أثناء اللعب".
 
-- Pornographic outlets which satisfy strong desires or feel more relatable, such as a draw towards gay/lesbian porn, bridal kink, or transformation sequences.
+-   الميل إلى الأدب والأفلام التي تتضمن شخصيات تنتمي لجندرك الحقيقي، أو شخصيات تكسر القوالب الجندرية النمطية (مثل قصة *مولان Mulan*، أو *نساء صغيرات Little Women*).
 
-- Crossdressing or performing drag.
+-   اللجوء إلى منافذ إباحية تشبع رغبات قوية أو تمنح شعورًا أكبر بالارتباط والتماهي، مثل الانجذاب نحو المواد الإباحية المثلية (للرجال أو النساء)، أو الهوس (الفيتيش) بالعرائس، أو مشاهد التحول الجسدي.
 
-- Finding excuses to cut hair short, or to grow it out.
+-   ارتداء ملابس الجندر الآخر (Crossdressing) أو الانخراط في فن الأداء الجندري (Drag).
 
-- Shaving of body hair, or a refusal to shave hair you're expected to.
+-   اختلاق الأعذار لقص الشعر قصيرًا، أو لإطالته.
 
-- Wearing loose and baggy clothing that hides the shape of your body.
+-   حلاقة وإزالة شعر الجسم، أو الرفض القاطع لإزالة الشعر الذي يُتوقع منك مجتمعيًا إزالته.
 
-- Avoiding social gatherings whenever possible, seeking isolation.
+-   ارتداء ملابس فضفاضة وواسعة جدًا (Baggy) لإخفاء معالم وتفاصيل جسدك.
 
-- Becoming intimately educated about some gender-associated topic, such as men's or women's clothing design.
+-   تجنب التجمعات الاجتماعية كلما أمكن ذلك، والميل الدائم للبحث عن العزلة.
 
-- Obsessively working out (AFABs).
+-   التثقف والتعمق بشكل مكثف في موضوع معين يرتبط عادةً بجندر ما، مثل تصميم الأزياء الرجالية أو النسائية.
 
-- Helping cis partners to shop in order to live vicariously through their presentation.
+-   ممارسة التمارين الرياضية وبناء العضلات بشكل مهووس (خاصة للأشخاص الذين حُددوا كإناث عند الولادة AFABs).
+
+-   مساعدة الشركاء العاطفيين المتوافقين جندريًا (غير العابرين) في التسوق واختيار الملابس، من أجل عيش التجربة وتخيلها بشكل غير مباشر من خلال مظهرهم.
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215746083487461379'
   '1215749725456125952'
 ] tweets=meta.tweets className="collapse" }}</div> }!}
 
-Because so much abuse is handed down onto gender non-conforming children, many trans people grow up learning to hide their natural personalities out of sheer necessity. Many trans people speak about having a phase of life where they attempted to "buy-in" on their assigned gender, performing masculinity or femininity to extremes in order to try to "fix" themselves. This leads to repression tendencies which may even superficially appear toxic, but are simply the results of trying to hide every scrap of their true selves.
+<div dir="rtl" style="text-align: right;">
 
-- Growing and meticulously grooming facial hair (the so-called "denial beard").
+نظرًا لأن الكثير من الإساءة والتعنيف يُوجه إلى الأطفال الذين لا تتطابق تصرفاتهم مع التوقعات الجندرية (غير المطابقين جندريًا)، فإن العديد من الأشخاص العابرين يكبرون وهم يتعلمون إخفاء شخصياتهم الطبيعية بدافع الضرورة المطلقة. يتحدث العديد من الأشخاص العابرين عن مرورهم بمرحلة في حياتهم حاولوا فيها "الرضوخ" أو "التبني الكامل" لجندرهم المحدد عند الولادة، مؤدين أدوار الذكورة أو الأنوثة إلى أقصى الحدود في محاولة "لإصلاح" أنفسهم. يؤدي هذا إلى ميول قمعية قد تبدو سطحيًا سامة، لكنها ببساطة نتيجة لمحاولة إخفاء كل ذرة من ذواتهم الحقيقية.
 
-- Taking up makeup artistry in order to perfect a high femme look.
+-   إطلاق شعر الوجه والعناية به بدقة شديدة (ما يُعرف بـ "لحية الإنكار").
 
-- Presenting extremely masculine or hyper feminine.
+-   احتراف فن المكياج من أجل إتقان مظهر أنثوي صارخ (High femme).
 
-- Avoiding any conversation about fashion for any gender. Dissociating whenever fashion conversations or activities occur.
+-   الظهور بمظهر ذكوري للغاية أو أنثوي مفرط.
 
-- Obsessively working out (AMABs).
+-   تجنب أي محادثة حول الأزياء والموضة لأي جندر. الانفصال عن الواقع (التبدد) كلما طرأت نقاشات أو أنشطة تتعلق بالأزياء.
 
-- Assuming a strongly stereotyped gender role in a relationship (e.g. the dutifully modest housewife).
+-   ممارسة التمارين الرياضية بهوس (بالنسبة للأشخاص الذين حُددوا كذكور عند الولادة AMABs).
 
-- Marrying and having kids in anticipation that it will "fix" what's wrong with you.
+-   تبني دور جندري نمطي بشدة في العلاقات (مثل: دور ربة المنزل المطيعة والمتواضعة).
 
-- Buying in to ultra-conservative attitudes towards gender and sexuality.
+-   الزواج وإنجاب الأطفال تحسبًا أو على أمل أن ذلك "سيصلح" ما بك من خلل.
 
-- Expressing homophobia and transphobia in self-defense to ward off suspicion.
+-   الاعتناق والتبني الكامل للمواقف شديدة المحافظة تجاه الجندر والحياة الجنسية.
 
-- Aggressively-passive engagement in anything connected to one's true gender.
+-   إظهار رهاب المثلية (هوموفوبيا) ورهاب العبور الجندري (ترانسفوبيا) كآلية دفاعية لدرء الشبهات.
+
+-   التفاعل بسلبية عدوانية (Aggressively-passive) مع أي شيء يرتبط بالجندر الحقيقي للمرء.
 
 
-Finally, another very common coping mechanism is to find means of escape or mental engagement in order to forget your own feelings.
+أخيرًا، هناك آلية تكيف أخرى شائعة جدًا تتمثل في إيجاد وسائل للهروب أو الانشغال الذهني من أجل التهرب من مشاعرك الخاصة ونسيانها.
 
-- Intensely investing large amounts of time into hobbies.
+-   استثمار كميات كبيرة من الوقت بكثافة في الهوايات.
 
-- Long hours spent at work.
+-   قضاء ساعات طويلة جدًا في العمل.
 
-- Chain-binging movies, TV shows, or books.
+-   المشاهدة أو القراءة المتواصلة وبشراهة (Bingeing) للأفلام، أو البرامج التلفزيونية، أو الكتب.
 
-- Spending all idle time playing video games or on social media.
+-   قضاء كل وقت الفراغ في لعب ألعاب الفيديو أو تصفح وسائل التواصل الاجتماعي.
 
-- Obsessively cleaning one's living space.
+-   التنظيف المهووس لمكان المعيشة.
 
-- Sleeping. Lots and lots of sleeping.
+-   النوم. الكثير والكثير من النوم.
 
-- Drug and alcohol use.
+-   تعاطي المخدرات والكحول.
+
+</div>
