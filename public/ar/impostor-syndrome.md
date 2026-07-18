@@ -1,14 +1,15 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Impostor Syndrome, but make it Trans"
-linkTitle: "Impostor Syndrome"
-description: "Am I really trans?"
+title: "متلازمة المحتال، في سياق العبور"
+linkTitle: "متلازمة المحتال"
+description: "هل أنا حقًا عابر/ة"
 preBody: '_disclaimer'
+lang: ar
 siblings:
-  prev: /en/managed-dysphoria
-  prevCaption: Managed Dysphoria
-  next: /en/am-i-trans
-  nextCaption: Am I Trans?
+  prev: /ar/managed-dysphoria
+  prevCaption: السيطرة على الانزعاج
+  next: /ar/am-i-trans
+  nextCaption: هل أنا عابر/ة؟
 classes:
   - gdb
 tweets:
@@ -22,33 +23,45 @@ tweets:
   - '1153300374133981186'
 ---
 
-# Impostor Syndrome
+<div dir="rtl" style="text-align: right;">
+
+# متلازمة المحتال
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1219963582063968258'
 ] tweets=meta.tweets className="hide-reply" }}</div> }!}
 
-> [Impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (also known as impostor phenomenon, impostorism, fraud syndrome, or the impostor experience) is a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a "fraud".
+<div dir="rtl" style="text-align: right;">
 
-Society in general is very good about making trans people doubt themselves. We receive tons and tons of subliminal messages through out our lives saying that being trans isn't normal and that anyone who is has to be exceptionally special. Cis media's obsession with the "born in the wrong body" narrative has led to a lot of false information being internalized by trans youth. Many, *many* trans kids grow up thinking they aren't actually trans because they don't *know* that they are a different gender but simply *wish* they were. Many non-binary children grow up knowing something is wrong, but not believing they're trans because they don't feel like a binary trans person.
+> [متلازمة المحتال (Impostor syndrome)](https://en.wikipedia.org/wiki/Impostor_syndrome) (والتي تُعرف أيضًا بظاهرة المحتال، أو متلازمة الاحتيال، أو تجربة المحتال) هي نمط نفسي يشكك فيه الفرد في إنجازاته ويعاني من خوف داخلي مستمر من أن يُفتضح أمره كشخص "مزيف" أو "محتال".
 
-On top of this, messages saying that trans people hate their bodies or hate their genitalia have polluted the awareness landscape, so that many people who either do not experience physical dysphoria (or simply think theirs isn't very strong) go around believing they aren't "trans enough".
+يبرع المجتمع بشكل عام في جعل الأشخاص العابرين يشكون في أنفسهم. نتلقى أطنانًا وأطنانًا من الرسائل المبطنة طوال حياتنا تخبرنا أن العبور الجندري ليس أمرًا طبيعيًا، وأن أي شخص يمر به يجب أن يكون استثنائيًا ومميزًا للغاية. أدى هوس وسائل الإعلام التي يهيمن عليها الأشخاص المتوافقون جندريًا (Cis media) بسردية "وُلد في الجسد الخطأ" إلى استبطان الشباب العابرين للكثير من المعلومات المغلوطة. يكبر العديد، بل *العديد* من الأطفال العابرين وهم يعتقدون أنهم ليسوا عابرين حقًا لأنهم لا *يعرفون* (على وجه اليقين) أنهم ينتمون لجندر مختلف، بل ببساطة *يتمنون* لو كانوا كذلك. ويكبر العديد من الأطفال غير الثنائيين وهم يعلمون أن هناك خطبًا ما في داخلهم، لكنهم لا يعتقدون أنهم عابرون لأنهم لا يشعرون بأنهم أشخاص عابرون ثنائيون (أي ذكورًا أو إناثًا بشكل حصري).
 
-***[YES, YOU ARE TRANS ENOUGH](https://us.jkp.com/products/yes-you-are-trans-enough)***
+علاوة على ذلك، فإن الرسائل التي تدعي أن الأشخاص العابرين يكرهون أجسادهم أو يكرهون أعضاءهم التناسلية قد لوثت مشهد الوعي العام، لدرجة أن العديد من الأشخاص الذين إما لا يعانون من انزعاج جسدي (أو يعتقدون ببساطة أن انزعاجهم ليس قويًا بما فيه الكفاية) يعيشون حياتهم وهم يعتقدون أنهم "ليسوا عابرين بما فيه الكفاية".
+
+***[بلى، أنت عابر بما فيه الكفاية](https://us.jkp.com/products/yes-you-are-trans-enough)***
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1221970265862811650'
 ] tweets=meta.tweets className="" }}</div> }!}
 
-On top of this, the constant messaging from transphobic media that trans people are not actually their true genders and are simply trying to trick people into believing otherwise gets internalized like a virus. This creates a lot of self doubt about the authenticity of one's gender, especially in the face of so many gender stereotypes. Seeing oneself fail to meet those stereotypes can make it very easy to convince yourself that you do not live up to your own gender (note: cis men and women get this too, far too often).
+<div dir="rtl" style="text-align: right;">
 
-Furthermore, due to a history of transphobic abuse, many trans people suffer from damaged self-esteems, and often already have difficulty with self-doubt. Gender dysphoria also causes depression, which further contributes to and reinforces those doubts. This all leads into a massive cluster of self-invalidation that can lead someone to struggle over and over again to accept their own gender identity.
+علاوة على ذلك، فإن الرسائل المستمرة من وسائل الإعلام المعادية للعابرين (ترانسفوبيك) التي تدعي أن الأشخاص العابرين لا ينتمون في الواقع إلى جندرهم الحقيقي وأنهم يحاولون ببساطة خداع الناس للاعتقاد بخلاف ذلك، يتم استبطانها داخل العقل وكأنها فيروس. يخلق هذا الكثير من الشك الذاتي حول أصالة جندر المرء، خاصة في مواجهة هذا الكم الهائل من القوالب الجندرية النمطية. فرؤية المرء لنفسه يفشل في تلبية تلك القوالب النمطية يمكن أن تجعل من السهل جدًا إقناع نفسه بأنه لا يرقى لمستوى جندره (ملاحظة: الرجال والنساء المتوافقون جندريًا يتعرضون لهذا أيضًا، وبشكل متكرر للغاية).
 
-But here's the thing... only trans people are worried about if they are actually transgender! A cisgender person does not have this obsession with their identity: they think about it, they process it, they move on. If you keep returning to these thoughts over and over again, this is your brain telling you that you took a wrong turn.
+بالإضافة إلى ذلك، وبسبب تاريخ من الإساءة والتعنيف المعادي للعابرين، يعاني العديد من الأشخاص العابرين من تضرر في تقديرهم لذواتهم، وغالبًا ما يواجهون بالفعل صعوبة مع الشك الذاتي. كما يتسبب الانزعاج الجندري في الاكتئاب، مما يساهم بشكل أكبر في تعزيز تلك الشكوك وتعميقها. يؤدي كل هذا إلى كتلة ضخمة من إبطال ورفض الذات التي يمكن أن تدفع الشخص للمعاناة مرارًا وتكرارًا من أجل تقبل هويته الجندرية.
 
-The world is *full* of influences put in place to fill us with doubt and keep us from breaking outside of the established social order. These are some of the systems and ideologies that seek to invalidate trans people and keep us from self-actualizing.
+ولكن إليك حقيقة الأمر... فقط الأشخاص العابرون هم من يقلقون بشأن ما إذا كانوا عابرين حقًا! فالشخص المتوافق جندريًا (Cisgender) لا يعاني من هذا الهوس بهويته: قد يفكر في الأمر، يعالجه في ذهنه، ثم يمضي قدمًا. إذا كنت تعود إلى هذه الأفكار مرارًا وتكرارًا، فهذا عقلك يخبرك أنك سلكت الاتجاه الخاطئ.
 
-### Autogynephilia
+العالم *مليء* بالمؤثرات التي وُضعت خصيصًا لملئنا بالشكوك ومنعنا من التمرد على النظام الاجتماعي الراسخ. هذه بعض الأنظمة والأيديولوجيات التي تسعى إلى طمس هويات الأشخاص العابرين وإعاقتنا عن تحقيق ذواتنا.
+
+### الأوتوجينيفيليا (الاشتهاء الذاتي للأنوثة)
+
+</div>
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1153300365355307008'
@@ -59,56 +72,60 @@ The world is *full* of influences put in place to fill us with doubt and keep us
   '1153300374133981186'
 ] tweets=meta.tweets className="oneblock" }}</div> }!}
 
-This pattern was strongly reinforced during the late 1980s when the autogynephelia (AGP) theory of Ray Blanchard gained a lot of traction as trans awareness was just starting to escalate. AGP is a pseudo-scientific explanation intended to "explain" the source of trans women's identities using [paraphilias](https://en.wikipedia.org/wiki/Paraphilia). Blanchard separated trans women according to if they were attracted to men or to women, while simultaneously invalidating their womanhood. His work completely ignored transgender men, and he dismisses non-binary identities outright.
+<div dir="rtl" style="text-align: right;">
 
-Autogynephelia attests that straight trans women are actually just gay men who seek a feminine appearance to draw desire from straight men, and that trans lesbians are actually straight men who have become so obsessed with their desire for women that they wish to become a woman in order to gain sexual gratification from themselves.
+تعزز هذا النمط بقوة خلال أواخر الثمانينيات عندما اكتسبت نظرية الاشتهاء الذاتي للأنوثة (الأوتوجينيفيليا - AGP) التي طرحها راي بلانشارد زخمًا كبيرًا في وقت كان فيه الوعي بقضايا العابرين جندريًا في بداية تصاعده. الأوتوجينيفيليا هي تفسير علمي زائف يهدف إلى "شرح" مصدر هويات النساء العابرات باستخدام [البارافيليا أو الانحرافات الجنسية](https://en.wikipedia.org/wiki/Paraphilia). قسّم بلانشارد النساء العابرات بناءً على ما إذا كن ينجذبن إلى الرجال أم إلى النساء، وفي الوقت نفسه كان يسلب منهن أنوثتهن ويبطلها. تجاهل عمله تمامًا الرجال العابرين، ورفض الهويات غير الثنائية (Non-binary) رفضًا قاطعًا.
 
-Blanchard's theory largely hinged on the way that presenting feminine often resulted in sexual arousal within newly transitioning women. You see, most of his study subjects were patients who were trying to seek hormone therapy for the first time, and as such were still very new to presenting female.
+تزعم نظرية الأوتوجينيفيليا أن النساء العابرات المغايرات (اللواتي ينجذبن للرجال) لسن في الواقع سوى رجال مثليين يسعون للحصول على مظهر أنثوي لجذب رغبة الرجال المغايرين، وأن النساء العابرات المثليات (اللواتي ينجذبن للنساء) لسن سوى رجال مغايرين أصبحوا مهووسين برغبتهم في النساء لدرجة أنهم يتمنون أن يصبحوا نساءً من أجل الحصول على إشباع جنسي من أنفسهم.
 
-Yes, it boggles the mind, but this was actually considered a valid theory of psychology for years. It even appeared in college textbooks. Blanchard's research studies did not meet scientific rigor, and his data was found to be extremely flawed (he manipulated his patients, and simply just threw out any data that didn't fit his hypothesis). A lot of his theories are based in misogynistic views of womanhood, and the man never actually involved any cisgender women in his study to function as a control group. You can read more about how flawed the theory is in Julia Serano's excellent essay [The Case Against Autogynephilia](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf).
+ارتكزت نظرية بلانشارد إلى حد كبير على فكرة أن الظهور بمظهر أنثوي غالبًا ما يؤدي إلى إثارة جنسية لدى النساء اللواتي بدأن لتوهن رحلة العبور. والسر في ذلك هو أن معظم الخاضعين لدراسته كانوا من المرضى الذين يحاولون السعي للحصول على العلاج الهرموني للمرة الأولى، وبالتالي كانوا لا يزالون حديثي العهد بالظهور كامرأة.
 
-AGP had been thoroughly dismissed by modern psychology by the late 2000s, but the damage has been done. In the public's eye, trans women were all perverted fetishists. Media portrayals of trans women mirrored this attitude, further spreading negative imagery into the public consciousness.
+نعم، إنه أمر يفوق استيعاب العقل، لكن هذه النظرية كانت تُعتبر في الواقع نظرية صالحة ومعتمدة في علم النفس لسنوات. بل إنها ظهرت في الكتب المنهجية الجامعية. لم تستوفِ دراسات بلانشارد البحثية معايير الدقة العلمية، وتبيّن أن بياناته كانت معيبة للغاية (فقد تلاعب بمرضاه، واكتفى ببساطة بالتخلص من أي بيانات لم تتناسب مع فرضيته). استند الكثير من نظرياته إلى آراء كارهة للنساء حول معنى الأنوثة، كما أن الرجل لم يقم أبدًا بإشراك أي نساء متوافقات جندريًا (Cisgender) في دراسته ليعملن كمجموعة ضابطة (Control group). يمكنك قراءة المزيد حول مدى زيف وعوار هذه النظرية في المقال الممتاز الذي كتبته جوليا سيرانو بعنوان [قضية ضد الأوتوجينيفيليا](https://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf).
 
-Transfeminine individuals then internalize these messages, and come to the conclusion that they are not actually transgender — just fetishists. It happened to me, and it's happened to nearly every millennial trans woman I know who figured themselves out as a teen.
+تم دحض ورفض الأوتوجينيفيليا (AGP) تمامًا من قبل علم النفس الحديث بحلول أواخر العقد الأول من القرن الحادي والعشرين، ولكن الضرر كان قد وقع بالفعل. في نظر الجمهور، كانت النساء العابرات جميعهن مجرد مهووسات جنسيًا ومنحرفات. وعكست الصور الإعلامية للنساء العابرات هذا الموقف، مما زاد من نشر الصور السلبية في الوعي العام.
 
-You are not a fetishist. The feeling you get from thinking of yourself as a woman is gender euphoria.
+ثم يقوم الأفراد العابرون نحو الأنوثة (Transfeminine) باستبطان هذه الرسائل، ويصلون إلى استنتاج مفاده أنهم ليسوا في الواقع عابرين جندريًا — بل مجرد أشخاص لديهم هوس جنسي (Fetishists). لقد حدث ذلك لي، وحدث تقريبًا لكل امرأة عابرة أعرفها من جيل الألفية ممن اكتشفن حقيقتهن في سن المراهقة.
 
-### Patriarchal Oppression
+أنتِ لستِ مهووسة جنسيًا. الشعور الذي يعتريكِ عندما تفكرين في نفسك كامرأة هو نشوة جندرية (Gender euphoria).
 
-A common source of invalidation for AFABs is the conflation of gender with the systemic oppression of women, particularly among non-medically-transitioning non-binary people. The message of "oh you just don't want to be a woman because of how women are treated" is far too often heard, and it can deeply infest your subconscious to the point of self-doubt.  But this doesn't make much sense, because if you're AFAB and not a woman, that makes you transgender, and, on average, society treats transgender folks worse than women. So transitioning to escape systemic oppression is a dumb concept (and I personally have never met a trans person who has done this).
+### القمع الأبوي (البطريركي)
 
-Radical feminism's messaging of abandoning female gender roles can also make parsing your own feelings harder. "Am I actually non-binary, or am I just a feminist?" "Am I actually a man, or am I just a very butch lesbian?". For this, I encourage you to talk to cis woman feminists, especially lesbians. They'll complain about systems of oppression and the patriarchy, but the problems are all external, and they *want to be women*. Even very butch lesbians want to be women, just in a different way from mainstream femininity.
+أحد المصادر الشائعة لإبطال هويات الأشخاص الذين حُددوا كإناث عند الولادة (AFABs) هو الخلط بين الجندر والقمع المنهجي الممارس ضد النساء، خاصة بين الأشخاص غير الثنائيين الذين لا يخضعون لعبور طبي. رسالة "أوه، أنت فقط لا تريدين أن تكوني امرأة بسبب الطريقة التي تُعامل بها النساء" تتردد كثيرًا جدًا، ويمكن أن تتغلغل بعمق في عقلك الباطن لدرجة تدفعك للشك في ذاتك. لكن هذا لا يبدو منطقيًا، لأنك إذا كنت شخصًا حُدد كأنثى عند الولادة ولست امرأة، فهذا يجعلك شخصًا عابرًا، وفي المتوسط، يعامل المجتمع الأشخاص العابرين بطريقة أسوأ من معاملته للنساء. لذا، فإن العبور الجندري هربًا من القمع المنهجي هو مفهوم غبي (وشخصيًا، لم ألتقِ أبدًا بشخص عابر قام بذلك).
 
-Then you have the problem of people believing that to be non-binary is to be androgynous, and to be androgynous is to be less feminine. Feminine enbies are valid! It is okay if you do not want to remove your breasts. It is okay if you enjoy your curves. It is okay if you do not mind being called "she" and "her". That does not make you any less transgender.
+رسائل النسوية الراديكالية حول التخلي عن الأدوار الجندرية الأنثوية يمكن أن تجعل من تحليل مشاعرك الخاصة أمرًا أكثر صعوبة. "هل أنا حقًا شخص غير ثنائي، أم أنني مجرد نسوية؟" "هل أنا حقًا رجل، أم أنني مجرد مثلية ذات مظهر استرجالي للغاية (Butch)؟". لحل هذا التساؤل، أشجعك على التحدث إلى نساء نسويات متوافقات جندريًا (Cisgender)، وخاصة المثليات منهن. سيشتكين لك من أنظمة القمع والبطريركية، لكن كل المشاكل هي مشاكل خارجية، وهن *يرغبن في أن يكنّ نساءً*. حتى المثليات ذوات المظهر الاسترجالي جدًا يردن أن يكن نساءً، ولكن بطريقة مختلفة عن الأنوثة السائدة.
 
-If you feel like you are not a binary woman, then you are not a binary woman. Cis women do not experience that detachment.
+ثم تواجه مشكلة اعتقاد الناس بأن تكون غير ثنائي يعني أن تكون محايدًا جندريًا (Androgynous) في مظهرك، وأن تكون محايدًا جندريًا يعني أن تكون أقل أنوثة. الأشخاص غير الثنائيين ذوو الميول الأنثوية (Feminine enbies) هويتهم مشروعة! لا بأس إذا كنت لا ترغبين في إزالة ثدييكِ. لا بأس إذا كنتِ تستمتعين بمنحنيات جسدك. لا بأس إذا كنتِ لا تمانعين أن تتم مناداتك بضمائر المؤنث "هي" و"ها". هذا لا يقلل من كونك عابرة جندريًا بأي شكل من الأشكال.
 
-### Toxic Masculinity
+إذا كنتِ تشعرين أنكِ لست امرأة ثنائية (Binary woman)، فأنت لست امرأة ثنائية. النساء المتوافقات جندريًا (Cis women) لا يختبرن هذا الشعور بالانفصال عن جندرهن.
 
-Male-assigned kids grow up positively drenched in messaging of what it is to "be a man". There are so few examples of positive masculinity in popular media, and AMAB masculine enbies are also so commonly erased in trans representation that being a genderqueer male can feel very lonely. AMAB enbies are often either grouped in with gay cis men or treated like trans women.
+### الذكورية السامة
 
-You can just be genderqueer! Your identity is valid!
+يكبر الأطفال (الذين حُددوا كذكور عند الولادة) وهم غارقون تمامًا في الرسائل التي تملي عليهم ما يعنيه أن "تكون رجلاً". هناك أمثلة قليلة جدًا على الذكورية الإيجابية في وسائل الإعلام الشعبية، كما أن الأشخاص غير الثنائيين ذوي المظهر الذكوري (AMAB) يتم طمس وجودهم بشكل شائع جدًا في تمثيل الأشخاص العابرين، لدرجة أن كونك ذكرًا كويريًا (Genderqueer male) يمكن أن يشعرك بالوحدة الشديدة. غالبًا ما يتم تجميع الأشخاص غير الثنائيين (AMAB) إما مع الرجال المثليين المتوافقين جندريًا أو يتم التعامل معهم على أنهم نساء عابرات.
 
-### Transmedicalism
+يمكنك ببساطة أن تكون كويريًا (Genderqueer)! هويتك مشروعة!
 
-This one hits *everybody*. Transmedicalism (aka Truetrans) is a transgender ideology derived from the Harry Benjamin scale (ranks 5 and 6). It seeks to reinforce the pre-WPATH rules, requiring intense physical dysphoria, demanding medical transition, and often invalidating all non-binary identities. At its core, transmedicalism is a supremacist concept, elevating binary trans people above the needs of any other gender identity, and is a push back against the expansion of the transgender identity. They wish for more gatekeeping than we have today, rail against enbies using the transgender label, and would prefer to see fewer people receive treatment for their gender dysphoria.
+### الطب النفسي الحصري للعابرين (Transmedicalism)
 
-To put it succinctly, many transmedicalists hate that the newer generation "has it so easy," despite the fact that many of their ranks are part of that generation. This ideology started among disgruntled trans elders, but has since spread to other binary individuals, particularly among young trans men.
+هذا المفهوم يضر بـ *الجميع*. الطب النفسي الحصري للعابرين (ويُعرف أيضًا بـ "العابرين الحقيقيين" Truetrans) هو أيديولوجية بين العابرين مستمدة من مقياس هاري بنجامين (الدرجتين 5 و6). يسعى هذا التوجه إلى تعزيز القواعد التي سبقت الجمعية العالمية المهنية لصحة العابرين جندريًا (WPATH)، حيث يشترط وجود انزعاج جسدي شديد، ويطالب بالعبور الطبي، وغالبًا ما يبطل جميع الهويات غير الثنائية. في جوهره، يعتبر هذا المفهوم مفهومًا استعلائيًا، حيث يرفع من شأن الأشخاص العابرين الثنائيين فوق احتياجات أي هوية جندرية أخرى، ويمثل تراجعًا ومقاومة لتوسيع مظلة الهوية العابرة. إنهم يرغبون في فرض المزيد من القيود والوصاية (Gatekeeping) أكثر مما لدينا اليوم، ويهاجمون بشدة استخدام الأشخاص غير الثنائيين لمسمى "عابر جندريًا"، ويفضلون رؤية عدد أقل من الأشخاص يتلقون العلاج لانزعاجهم الجندري.
 
-If a trans person's first exposure to transness is a transmedicalist, this can severely set back their own self-acceptance and push them even further into the closet. Transmeds are well known to actually tell people "No, you are not trans."
+وباختصار، يكره العديد من مؤيدي هذا التوجه أن الجيل الأحدث "يحصل على الأمور بسهولة"، على الرغم من حقيقة أن العديد من صفوفهم هم جزء من هذا الجيل بالذات. بدأت هذه الأيديولوجية بين كبار السن الساخطين من العابرين، لكنها انتشرت منذ ذلك الحين إلى أفراد ثنائيين آخرين، خاصة بين الشباب العابرين.
 
-**Do not believe these lies.** They are bully tactics explicitly designed to gaslight and dismiss people's pain for self-gratification.
+إذا كان أول تعرض للشخص العابر لمفهوم العبور من خلال شخص يؤمن بهذا التوجه الطبي الحصري، فقد يعيق ذلك بشدة تقبله لذاته ويدفعه أكثر إلى الاختباء في "الخزانة". يُعرف مؤيدو هذا التوجه جيدًا بإخبارهم للناس في وجوههم: "لا، أنت لست عابرًا".
 
-There are related hurtful concepts a trans person can internalize, revolving around seeing transition as a list of required actions. One such idea is a belief that a person shouldn't expect being gendered correctly or even complain about misgendering as long as they haven't changed their gender marker. In other words, legally conditioned pronoun respect, or translegalism. Not only can changing gender marker be a complicated, prolonged process, not only can some people not afford to out themselves by pursuing it, but most countries wouldn't even allow a gender marker outside of the gender binary. Translegalism convinces a person that they deserve misgendering because of their ID.
+**لا تصدق هذه الأكاذيب.** إنها تكتيكات تنمر مصممة خصيصًا للتلاعب النفسي (Gaslighting) وتجاهل ألم الناس من أجل الإرضاء الذاتي.
 
-### Trans-Exclusionary Reactionary Feminism / Gender Critical Movement / Gender Essentialism
+هناك مفاهيم مؤذية ذات صلة يمكن للشخص العابر أن يستبطنها، وتدور حول رؤية العبور على أنه قائمة من الإجراءات المطلوبة. إحدى هذه الأفكار هي الاعتقاد بأنه لا ينبغي للشخص أن يتوقع أن يتم التحدث إليه بجندره الصحيح أو حتى أن يشتكي من الخطأ في تحديد جندره (Misgendering) طالما أنه لم يغير علامة الجندر (في أوراقه الرسمية). وبعبارة أخرى، احترام الضمائر المشروط قانونيًا، أو ما يسمى بـ "القانونية العابرة" (Translegalism). لا يقتصر الأمر على أن تغيير علامة الجندر يمكن أن يكون عملية معقدة وطويلة، ولا يقتصر على أن بعض الأشخاص لا يستطيعون تحمل تكلفة الإفصاح عن هويتهم من خلال متابعة هذا الإجراء، بل إن معظم البلدان لا تسمح حتى بوضع علامة جندرية خارج الثنائية الجندرية (ذكر/أنثى). تقنع هذه النظرة القانونية (Translegalism) الشخص بأنه يستحق الخطأ في تحديد جندره بسبب بطاقة هويته.
 
-[Gender Essentialism](https://en.wikipedia.org/wiki/Gender_essentialism) is the belief that there are innate attributes to a person's existence that are derived based on what sex organs the person is born with. TERF and GC ideology was born out of the lesbian separatist movement of second wave feminism and fully denies the existence of transgender biology and non-binary identities. The movement has been largely overtaken by right-wing reactionaries, racists, and homophobes, and is now being bolstered by evangelical Christian organizations.
+### النسوية الرجعية الإقصائية للعابرين (TERF) / الحركة الناقدة للجندر / الجوهرية الجندرية
 
-These people will stop at nothing to invalidate your existence. Do not give them the time of day.
+[الجوهرية الجندرية (Gender Essentialism)](https://en.wikipedia.org/wiki/Gender_essentialism) هي الاعتقاد بأن هناك سمات فطرية لوجود الشخص تُستمد بناءً على الأعضاء الجنسية التي يولد بها. ولدت أيديولوجية (TERF) والنسوية الناقدة للجندر (GC) من رحم الحركة الانفصالية للمثليات في الموجة الثانية من النسوية، وهي تنكر تمامًا وجود بيولوجيا العابرين جندريًا والهويات غير الثنائية. لقد سيطر الرجعيون اليمينيون والعنصريون ورهابيو المثلية إلى حد كبير على هذه الحركة، ويتم دعمها الآن من قبل المنظمات المسيحية الإنجيلية.
 
-### Gender Abolitionism / Postgenderism
+هؤلاء الأشخاص لن يتوقفوا عند أي حد لإبطال وجودك ومحوه. لا تعرهم أي اهتمام أو وقت.
 
-[Postgenderism](https://en.wikipedia.org/wiki/Postgenderism) is a [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) philosophy originating in radical feminism which states that gender causes more harm than good, and seeks to eradicate it from our society. Old-school TERFs latched on to GA as reasoning for why trans people should not exist. This trans-exclusionary faction of gender abolitionism believes that all gender is a construct and that anyone who feels strongly connected to a binary gender is either nefariously propagating gender stereotypes or ignorantly following systemic indoctrination. They do not believe in the existence of gender dysphoria, and will attempt to invalidate those who experience it.
+### إبطال الجندر / ما بعد الجندرية
 
-Note, this is NOT about trans people who identify as postgender or gender abolitionism as a whole. This is specifically about TERF abuse of the concepts.
+[ما بعد الجندرية (Postgenderism)](https://en.wikipedia.org/wiki/Postgenderism) هي فلسفة [عابرة للإنسانية (Transhumanist)](https://en.wikipedia.org/wiki/Transhumanism) تنشأ من النسوية الراديكالية والتي تنص على أن الجندر يسبب ضررًا أكثر من نفعه، وتسعى إلى استئصاله من مجتمعنا. تشبثت النسويات الإقصائيات (TERFs) من الحرس القديم بفكرة إبطال الجندر (GA) كمبرر لعدم أحقية الأشخاص العابرين في الوجود. يعتقد هذا الفصيل الإقصائي للعابرين من حركة إبطال الجندر أن كل جندر هو مجرد بناء اجتماعي، وأن أي شخص يشعر بارتباط قوي بجندر ثنائي هو إما ينشر قوالب جندرية نمطية بشكل خبيث أو يتبع التلقين المنهجي بجهل. إنهم لا يؤمنون بوجود الانزعاج الجندري، وسيحاولون إبطال هوية أولئك الذين يختبرونه.
+
+ملاحظة: هذا *لا* يتعلق بالأشخاص العابرين الذين يعرّفون أنفسهم بأنهم ينتمون لما بعد الجندرية أو حركة إبطال الجندر ككل. بل يتعلق هذا التوضيح تحديدًا باستغلال وإساءة استخدام النسويات الإقصائيات (TERFs) لهذه المفاهيم.
+
+</div>

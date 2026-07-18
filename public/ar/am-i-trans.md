@@ -1,64 +1,85 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Am I Trans?"
-linkTitle: "Am I Trans?"
-description: "A Roadmap To Figuring Out The Toughest Question"
+title: "هل أنا عابر/ة؟"
+linkTitle: "هل أنا عابر/ة؟"
+description: "طريق إلى الإجابة على أصعب سؤال"
 siblings:
-  prev: /en/impostor-syndrome
-  prevCaption: Impostor Syndrome
-  next: /en/diagnoses
-  nextCaption: Clinical Diagnoses
+  prev: /ar/impostor-syndrome
+  prevCaption: متلازمة المحتال
+  next: /ar/diagnoses
+  nextCaption: التشخيص الطبي
 classes:
   - gdb
 preBody: '_disclaimer'
+lang: ar
 ---
 
-æææ<div class="cw"><p><strong>Curator's Note</strong>: The following page comes from <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">a fantastic post written by Cassie LaBelle</a> and has been reshared with permission. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">You can read more of her writing on Medium.</a></div>æææ
+<div dir="rtl" style="text-align: right;">
 
-# Am I Trans?
+æææ<div class="cw"><p><strong>ملاحظة المحرر</strong>: تأتي الصفحة التالية من <a href="https://aninjusticemag.com/am-i-trans-a-roadmap-to-figuring-out-the-toughest-question-7bb0e809a32d" target="_blank" rel="noopener">منشور رائع كتبته كاسي لابيل (Cassie LaBelle)</a> وتمت إعادة مشاركتها بإذن منها. <a href="https://cassielabelle.medium.com/" target="_blank" rel="noopener">يمكنك قراءة المزيد من كتاباتها على منصة Medium.</a></div>æææ
 
-Long before I started questioning my gender, I had this idle fantasy where one of my best lady friends would walk up to me and say, “Give it up. You’re not fooling anyone.”
+# هل أنا عابر/ة؟
 
-If you’d confronted me about this fantasy at the time, I couldn’t have told you what, exactly, I meant by “you’re not fooling anyone.” Deep down I knew that it was probably related to gender, but my lips wouldn’t have been able to form those words. All I knew was that I was pretending to be someone I was not, in some vague, passive, and ephemeral way.
+قبل وقت طويل من بدئي في التشكيك في هويتي الجندرية، كان لدي خيال عابر حيث تقترب مني إحدى أقرب صديقاتي وتقول لي: "استسلم. أنت لا تخدع أحداً".
 
-Once I self-accepted as a trans woman and started the long process of coming out, all I wanted was for someone to tell me that they already knew. “I’m so happy you figured it out,” I wanted them to gush. “I’ve known the truth for years. It was so obvious. I don’t know how anyone could have ever thought that you were a boy. I’m so happy that you’ll finally get to live as your true self now.”
+لو أنك واجهتني بهذا الخيال في ذلك الوقت، لما استطعت أن أخبرك عما عنيته بالضبط بعبارة "أنت لا تخدع أحداً". في أعماقي كنت أعلم أن الأمر ربما يتعلق بالجندر، لكن شفتي لم تكونا قادرتين على نطق تلك الكلمات. كل ما كنت أعرفه هو أنني كنت أتظاهر بأنني شخص لست إياه، بطريقة غامضة وسلبية وعابرة.
 
-Nobody ever said this to me, though. My coming-out process was successful, and most of my friends were supportive, but I never got the external validation that I craved. My friends and family accepted me as trans because I told them I was trans. They hadn’t noticed that I’d spent the past two decades wearing the ill-fitting costume of a man who barely existed.
+
+بمجرد أن تقبلت نفسي كامرأة عابرة وبدأت العملية الطويلة للإفصاح عن هويتي، كان كل ما أريده هو أن يخبرني أحدهم أنه كان يعرف ذلك بالفعل. أردت منهم أن يندفعوا قائلين: "أنا سعيد جدًا لأنكِ اكتشفتِ ذلك. لقد عرفت الحقيقة منذ سنوات. كان الأمر واضحًا للغاية. لا أعرف كيف يمكن لأي شخص أن يعتقد يومًا أنك كنت صبيًا. أنا سعيد جدًا لأنك ستتمكنين أخيرًا من العيش كحقيقتك الآن".
+
+ومع ذلك، لم يقل لي أحد هذا الكلام على الإطلاق. لقد كانت عملية إفصاحي عن هويتي ناجحة، وكان معظم أصدقائي داعمين، لكنني لم أحصل أبدًا على التأكيد الخارجي الذي كنت أتوق إليه. لقد تقبلني أصدقائي وعائلتي كامرأة عابرة لأنني أخبرتهم أنني كذلك. لم يلاحظوا أنني قضيت العقدين الماضيين أرتدي زيًا لا يناسبني لرجل بالكاد كان له وجود.
+
 
 ---
 
-My good friend Lily coined the phrase **“Egg Prime Directive”** to describe the fact that trans people have an unspoken agreement not to tell people who are questioning their gender whether or not they are trans.
+</div>
 
-When someone is just told they are trans, that opens ground for denial; it activates defense mechanisms built by internalized transphobia, and it has a high probability of pushing them further into the closet, if not making them outright transphobic. Even when it doesn’t, it leaves ground for their own subconscious to reject their dysphoria, claiming that they were just manipulated or deceived.
-The much more effective strategy is to talk about your own experiences with dysphoria so that they see the common grounds and come to their own conclusion about their gender. The code doesn’t forbid helping them to explore their gender; it forbids assigning a gender to them.
-Or, to put it more succinctly, no one can be told what the Matrix is. You have to see it for yourself.
+{!{
+<div class="gutter" dir="rtl" style="text-align: right;"><blockquote>
+  <strong>Egg</strong><br>
+  في هذا السياق الخاص بمجتمع العابرين جندريًا، مصطلح "البيضة" (Egg) هو مصطلح دارج يُطلق على الشخص العابر الذي لم يدرك حقيقة هويته الجندرية أو لم يتقبلها بعد.
 
-I’m sure there are some trans people out there who don’t follow the Egg Prime Directive, but I haven’t met them. It’s one of the only things that seems to unify the whole trans community, myself included. Even though I wanted my own external validation more than anything, I now see that true acceptance could have only come from within. The only person who can tell you that you are trans is yourself.
+  وعندما يصل هذا الشخص أخيرًا إلى مرحلة الإدراك والتقبل الذاتي لحقيقته، يُوصف ذلك مجازيًا بأن البيضة قد "فقست" (Hatched).
+</blockquote></div>
+}!}
 
-The paradox is that most closeted trans people are absolutely terrible at trusting their inner voice. When you spend your whole life with a nagging disconnect between how the world sees you and how you see yourself, it becomes easier to rely on other people to tell you “who you really are.” Even if you know deep down that all the people in your life are missing some fundamental fact about your identity, it’s nearly impossible to avoid listening to others over oneself.
+<div dir="rtl" style="text-align: right;">
 
-My goal today, then, is to give you some of the information and mental framing that helped me self-accept. I can’t tell you whether or not you are transgender, but I can point you down a path that you might be able to travel down yourself. I can’t provide the answers, but I can try to give you the right questions.
+صاغت صديقتي العزيزة ليلي مصطلح **"التوجيه الأساسي للبيضة"** (Egg Prime Directive) لوصف حقيقة أن الأشخاص العابرين لديهم اتفاق غير معلن بألا يخبروا الأشخاص الذين يتساءلون عن هويتهم الجندرية ما إذا كانوا عابرين أم لا.
+
+عندما يُقال لشخص ما ببساطة أنه عابر، فإن ذلك يفتح الباب أمام الإنكار؛ فهو يُنشّط آليات الدفاع التي بناها رهاب العبور الجندري المستبطن (Internalized transphobia)، وهناك احتمال كبير أن يدفعهم ذلك للتقوقع أكثر داخل "الخزانة" (إخفاء هويتهم)، إن لم يجعلهم كارهين ومعادين للعابرين بشكل صريح. وحتى عندما لا يحدث ذلك، فإنه يترك مجالًا لعقلهم الباطن لرفض انزعاجهم الجندري، مدعين أنهم تعرضوا للتلاعب أو الخداع ليس إلا. الاستراتيجية الأكثر فعالية بكثير هي التحدث عن تجاربك الخاصة مع الانزعاج الجندري حتى يروا القواسم المشتركة ويصلوا بأنفسهم إلى استنتاجهم الخاص حول جندرهم. لا يمنع هذا "القانون" مساعدتهم في استكشاف جندرهم؛ بل يمنع تحديد جندر بالنيابة عنهم. أو بعبارة أوجز، لا يمكن إخبار أحد بماهية "الماتريكس" (المصفوفة). عليك أن تراها بنفسك.
+
+أنا متأكدة أن هناك بعض الأشخاص العابرين الذين لا يتبعون "التوجيه الأساسي للبيضة"، لكنني لم ألتقِ بهم قط. إنه أحد الأشياء القليلة التي تبدو وكأنها توحد مجتمع العابرين بأسره، وأنا منهم. على الرغم من أنني كنت أريد الحصول على التأكيد الخارجي لنفسي أكثر من أي شيء آخر، إلا أنني أرى الآن أن التقبل الحقيقي لم يكن ليأتي إلا من الداخل. الشخص الوحيد الذي يمكنه إخبارك بأنك عابر هو أنت نفسك.
+
+المفارقة هي أن معظم الأشخاص العابرين الذين لم يفصحوا عن هويتهم سيئون للغاية في الثقة بصوتهم الداخلي. عندما تقضي حياتك كلها مع انفصال مزعج ومستمر بين كيف يراك العالم وكيف ترى نفسك، يصبح من الأسهل الاعتماد على أشخاص آخرين ليخبروك "من أنت حقًا". حتى لو كنت تعلم في قرارة نفسك أن جميع الأشخاص في حياتك يغفلون حقيقة أساسية حول هويتك، فمن شبه المستحيل تجنب الاستماع للآخرين بدلاً من الاستماع لنفسك.
+
+لذا، هدفي اليوم هو أن أقدم لك بعض المعلومات والأطر الذهنية التي ساعدتني على التقبل الذاتي. لا يمكنني إخبارك ما إذا كنت شخصًا عابرًا جندريًا أم لا، لكنني أستطيع توجيهك نحو طريق قد تتمكن من السير فيه بنفسك. لا يمكنني تقديم الإجابات، لكن يمكنني محاولة إعطائك الأسئلة الصحيحة.
+
+</div>
 
 æææ
-<div class="gutter flex flex-end">
+<div class="gutter flex ">
   <div class="card">
-    <div class="card-header"><strong>Why do we need The Egg Prime Directive?</strong></div>
+    <div class="card-header"><strong>لماذا نحتاج إلى التوجيه الأساسي للبيضة؟</strong></div>
     <div class="card-body">
 æææ
 
-It is never safe to simply tell someone that they are transgender when they haven't asked themselves, even when you are 100% certain that they are. You can educate them on gender dysphoria and you can show them parallels between their feelings and your feelings, but you *cannot* simply say to a person, "You are transgender".
+<div dir="rtl" style="text-align: right;">
 
-Why? Because most of the time they won't believe you.
+ليس من الآمن أبدًا أن تخبر شخصًا ما ببساطة أنه عابر جندريًا عندما لا يكون قد سأل نفسه، حتى وإن كنت متأكدًا بنسبة 100٪ من أنه كذلك. يمكنك تثقيفه حول الانزعاج الجندري ويمكنك أن تُظهر له أوجه التشابه بين مشاعره ومشاعرك، لكنك *لا تستطيع* ببساطة أن تقول لشخص ما: "أنت عابر جندريًا".
 
-Internalized transphobia has indoctrinated us all to believe that it's impossible that we are trans, or that being trans is something negative and reviled. Pressures from within a person's family or from their upbringing can make it extremely hard to accept themselves.
+لماذا؟ لأنهم في معظم الأحيان لن يصدقوك.
 
-Trying to tell someone who isn't already questioning that you think they're transgender triggers a self-defense mechanism; their subconscious actively tries to reject the statement, and there is a high probability that the suggestion will not only push them further into the closet, but can even make them hostile towards you for making it. Many transphobes show clear evidence of fighting their own struggles with gender, and there is no shortage of trans people who [have a history of being transphobic](https://twippedtronic.tumblr.com/post/661595258598113280/interview-with-an-ex-radfem) out of self-preservation.
+لقد لقننا رهاب العبور الجندري المستبطن (Internalized transphobia) جميعًا الاعتقاد بأنه من المستحيل أن نكون عابرين، أو أن كوننا عابرين هو شيء سلبي ومكروه. الضغوط من داخل عائلة الشخص أو من نشأته يمكن أن تجعل تقبله لنفسه أمرًا في غاية الصعوبة.
 
-Even when the person accepts your declaration, the fact that you told them instead of letting them discover it themselves leaves an opening for their own self-conscious to instill doubt about their dysphoria and believe that the idea was suggestive, or that they were manipulated into believing they were trans. The only safe pathway forward for someone to learn they are trans is to realize it on their own.
+إن محاولة إخبار شخص لم يبدأ بعد في التشكيك (في هويته) بأنك تعتقد أنه عابر جندريًا تؤدي إلى تفعيل آلية دفاع عن النفس؛ فيحاول عقله الباطن بنشاط رفض هذا التصريح، وهناك احتمال كبير أن هذا الاقتراح لن يدفعه أكثر إلى داخل "الخزانة" (إخفاء هويته) فحسب، بل قد يجعله معاديًا لك لطرحك إياه. يُظهر العديد من المعادين للعابرين أدلة واضحة على محاربتهم لصراعاتهم الخاصة مع الجندر، ولا يوجد ندرة في الأشخاص العابرين الذين [لديهم تاريخ من رهاب العبور الجندري](https://twippedtronic.tumblr.com/post/661595258598113280/interview-with-an-ex-radfem) بدافع الحفاظ على الذات.
 
-Finally, the entire purpose of being trans is self-assignment and self-actualization. Telling a person that they are trans is surely as coercive an assignment as what was done when they were born. If you want to help them figure themselves out, tell them about your life, tell them how dysphoria works, send them to this site, and give them ways to see how what they experience isn't something that cis people live with.
+وحتى عندما يتقبل الشخص إعلانك، فإن حقيقة أنك أخبرته بدلاً من تركه يكتشف الأمر بنفسه تترك مجالاً لعقله الباطن لزرع الشكوك حول انزعاجه الجندري، والاعتقاد بأن الفكرة كانت مجرد إيحاء، أو أنه تم التلاعب به للاعتقاد بأنه عابر. المسار الآمن الوحيد للمضي قدمًا لشخص ما ليعرف أنه عابر هو أن يدرك ذلك بنفسه.
 
-Unless, of course, they ask you if you think they're trans... then the prime directive no longer applies.
+أخيرًا، الهدف الكامل من كونك عابرًا هو التحديد الذاتي (للهوية) وتحقيق الذات. إن إخبار شخص ما بأنه عابر هو بالتأكيد تحديد قسري تمامًا كالذي فُرض عليه عند ولادته. إذا كنت ترغب في مساعدته على اكتشاف نفسه، فحدثه عن حياتك، واشرح له كيف يعمل الانزعاج الجندري، وأرسله إلى هذا الموقع، وامنحه طرقًا ليرى كيف أن ما يمر به ليس شيئًا يعيشه الأشخاص المتوافقون جندريًا (Cisgender).
+
+إلا إذا سألك، بالطبع، عما إذا كنت تعتقد أنه عابر... فحينها لا يعود التوجيه الأساسي (Prime Directive) قابلاً للتطبيق.
+</div>
 
 æææ
     </div>
@@ -66,158 +87,162 @@ Unless, of course, they ask you if you think they're trans... then the prime dir
 </div>
 æææ
 
-As always, please understand that I have no professional training in gender therapy. I am simply writing this from my own amateur research and personal experiences — mostly my own journey and conversations I’ve had with other trans women and gender questioners. Keep in mind that I am coming at this from the perspective of a fairly binary trans lady who transitioned in her early thirties, which means that I am still blind to a lot of the trans experience. Things are different for trans-masculine and non-binary people, as well as for many other trans women. This is not meant to be a universal expert guide — it’s just the best I can give you right now.
+<div dir="rtl" style="text-align: right;">
 
-### Consider That Most Cis People Don’t Think About Their Gender Very Much
+كما هو الحال دائمًا، يُرجى تفهم أنه ليس لدي أي تدريب مهني في العلاج النفسي الجندري. أنا أكتب هذا ببساطة من خلال بحثي الخاص كهاوية وتجاربي الشخصية — في الغالب رحلتي الخاصة والمحادثات التي أجريتها مع نساء عابرات أخريات وأشخاص يتساءلون عن جندرهم. ضعوا في اعتباركم أنني أتناول هذا الموضوع من منظور امرأة عابرة ثنائية (تنتمي لثنائية الذكر/الأنثى) إلى حد ما، بدأت رحلة عبورها في أوائل الثلاثينيات من عمرها، مما يعني أنني لا أزال غير مطلعة على الكثير من تجارب العبور. تختلف الأمور بالنسبة للأشخاص العابرين نحو الذكورة والأشخاص غير الثنائيين، وكذلك للعديد من النساء العابرات الأخريات. لا يُقصد بهذا أن يكون دليلاً شاملاً من خبير — إنه ببساطة أفضل ما يمكنني تقديمه لك الآن.
 
-If you’re already at the stage where you are questioning your gender — even if that just means looking up “Am I Trans?” and then slamming your laptop shut before you get a search result — congratulations, you’ve already thought about your gender more than most cis people will in their entire lifetimes.
+### ضع في اعتبارك أن معظم الأشخاص المتوافقين جندريًا لا يفكرون في جندرهم كثيرًا
 
-I’ve asked many of my cis friends if they’ve ever seriously thought about their gender identity, and nine times out of ten they have not. Cis people don’t constantly wonder what it would be like to be a girl. They haven’t had daydreams about how nice it would be if they woke up in a different body. Their hearts don’t race when they think about body-swap movies. Some of them may have imagined what it would be like to be in a body with a gender other than their assigned gender at birth, but those thought experiments have been brief and purely intellectual.
+إذا كنت بالفعل في المرحلة التي تتساءل فيها عن هويتك الجندرية — حتى لو كان ذلك يعني مجرد البحث عن "هل أنا عابر؟" ثم إغلاق حاسوبك المحمول بقوة قبل أن تظهر لك نتيجة البحث — فتهانينا، لقد فكرت بالفعل في جندرك أكثر مما سيفعل معظم الأشخاص المتوافقين جندريًا (Cisgender) في حياتهم بأكملها.
 
-There’s no *energy* there. Not for them. If you feel a weird kind of *energy* when you think about gender, that probably means something.
+لقد سألت العديد من أصدقائي المتوافقين جندريًا عما إذا كانوا قد فكروا بجدية في هويتهم الجندرية، وفي تسع مرات من أصل عشر، كانت الإجابة بالنفي. الأشخاص المتوافقين جندريًا لا يتساءلون باستمرار عما سيكون عليه الحال لو كانوا فتيات. ليس لديهم أحلام يقظة حول كم سيكون رائعًا لو استيقظوا في جسد مختلف. ولا تتسارع نبضات قلوبهم عندما يفكرون في أفلام تبادل الأجساد. قد يكون بعضهم قد تخيل كيف سيكون الحال لو كان في جسد بجندر مختلف عن جندره المحدد عند الولادة، لكن هذه التجارب الفكرية كانت قصيرة وفكرية بحتة.
 
-### Consider That Most Cis People Actively Like Being The Gender They Were Assigned At Birth
+لا توجد *طاقة* أو شغف هناك. ليس بالنسبة لهم. إذا شعرت بنوع غريب من *الطاقة* عندما تفكر في الجندر، فمن المحتمل أن هذا يعني شيئًا ما.
 
-This was hard for me to believe at first, but cis people actually enjoy their gender! Cis men like being men, and cis women like being women. They don’t secretly wish they had been born a member of the “opposite” gender or a genderless being or anything else, really. As we’ve already established, they don’t think about their gender much at all.
+### ضع في اعتبارك أن معظم الأشخاص المتوافقين جندريًا يحبون فعليًا انتماءهم للجندر الذي حُدد لهم عند الولادة
 
-There are complications here, of course. Plenty of cis men find toxic masculinity stifling and awful, choosing to actively reject the problematic social aspects of their gender. Plenty of women are deeply frustrated by misogyny, the patriarchy, and the tyranny of classical gender roles. “Enjoying being a man” does not necessarily mean loving having to bottle up your emotions in all non-NFL situations, and “enjoying being a woman” rarely means that you love getting belittled by your male co-workers or being constantly asked, “So, when are you getting married?”
+كان من الصعب علي تصديق هذا في البداية، لكن الأشخاص المتوافقين جندريًا يستمتعون بالفعل بجندرهم! الرجال (المتوافقون جندريًا) يحبون كونهم رجالاً، والنساء (المتوافقات جندريًا) يحببن كونهن نساءً. إنهم لا يتمنون سرًا لو أنهم ولدوا كأفراد من الجندر "الآخر" أو ككائنات بلا جندر أو أي شيء آخر، في الحقيقة. وكما أثبتنا سابقًا، فهم لا يفكرون في جندرهم كثيرًا على الإطلاق.
 
-Once you cut through all of that, though? Cis people still enjoy their genders. They might wish that certain aspects of how their gender is performed in society were different, but they would still choose to keep their assigned genders if swapping were on the table. Unfortunately, a lot of closeted trans people hear cis people complaining about the frustrating and problematic aspects of their gender and assume that everybody has the same low-grade dislike for their gender that they do.
+هناك تعقيدات هنا بالطبع. فالعديد من الرجال المتوافقين جندريًا يجدون الذكورية السامة خانقة ومروعة، ويختارون الرفض النشط للجوانب الاجتماعية الإشكالية لجندرهم. والعديد من النساء يشعرن بإحباط عميق بسبب كراهية النساء (الميسوجينية)، والنظام الأبوي (البطريركية)، وطغيان الأدوار الجندرية الكلاسيكية. "الاستمتاع بكونك رجلاً" لا يعني بالضرورة أن تحب الاضطرار إلى كتمان مشاعرك في جميع المواقف (باستثناء مباريات كرة القدم الأمريكية، كمثال)، و"الاستمتاع بكونك امرأة" نادرًا ما يعني أنك تحبين التعرض للتقليل من شأنك من قبل زملائك الذكور في العمل أو أن تُسألي باستمرار، "إذن، متى ستتزوجين؟"
 
-Closeted trans people also assume that “I don’t hate being a man” is the same thing as “I enjoy being a man.” I can’t tell you how many of these questioning ladies tell me some variation of “I can’t be trans because I don’t hate being a man,” and then go on to describe countless little things they dislike about being seen as male, as if their gender were a pair of wet socks that they could never quite find a way to take off.
+ولكن بمجرد أن تتجاوز كل ذلك؟ الأشخاص المتوافقون جندريًا لا يزالون يستمتعون بجندرهم. قد يتمنون لو كانت بعض جوانب كيفية ممارسة جندرهم في المجتمع مختلفة، لكنهم سيظلون يختارون الاحتفاظ بجندرهم المحدد عند الولادة إذا كان خيار التبديل مطروحًا على الطاولة. للأسف، يسمع الكثير من الأشخاص العابرين الذين يختبئون في "الخزانة" الأشخاص المتوافقين جندريًا وهم يشتكون من الجوانب المحبطة والمزعجة لجندرهم، فيفترضون أن الجميع يشعرون بنفس الكراهية الخفيفة لجندرهم تمامًا كما يفعلون هم.
 
-You might be surprised to hear that I didn’t actively hate being seen as a man before I came out to myself, either. Being seen as a guy wasn’t a constant source of misery for me. It just… was who I was, apparently, so I learned to just kind of live with it. A lot of people believe that you can only be trans if you feel actively hurt by being seen as a man, but that particular feeling won’t usually arrive until after you’ve started to transition and you finally know who you truly are. Before self-acceptance, your relationship with your assigned gender at birth is likely to feel a lot more like disconnection than distress.
+يفترض الأشخاص العابرون غير المفصحين عن هويتهم أيضًا أن عبارة "أنا لا أكره كوني رجلاً" هي نفسها "أنا أستمتع بكوني رجلاً". لا أستطيع أن أخبركم بعدد النساء اللواتي يتساءلن (عن هويتهن) ويخبرنني بصيغة ما من عبارة "لا يمكنني أن أكون عابرة لأنني لا أكره كوني رجلاً"، ثم يمضين في وصف عدد لا يحصى من الأشياء الصغيرة التي يكرهنها بشأن رؤيتهن كذكور، وكأن جندرهن كان عبارة عن زوج من الجوارب المبللة التي لم يتمكنّ أبدًا من إيجاد طريقة لخلعها.
 
-I also can’t tell you how many times I’ve heard closeted trans women say something like, “well, I don’t hate being a man, and men have lots of institutional privilege. I don’t think I’d choose to be a woman, even if I could, because I wouldn’t want to give up my male privilege.” Male privilege is a real thing, of course, but it isn’t a reward that men get for having to endure the eternal discomfort of being men. Men enjoy being men, and they would still enjoy being men without their social privileges. If the only thing you like about masculinity is male privilege, that probably means something.
+قد تتفاجأ عندما تسمع أنني لم أكره فعليًا أن يُنظر إليّ كرجل قبل أن أفصح عن هويتي لنفسي أيضًا. لم يكن النظر إليّ كرجل مصدرًا دائمًا للبؤس بالنسبة لي. لقد كان... هو من أنا عليه، كما يبدو، لذلك تعلمت التعايش معه نوعًا ما. يعتقد الكثير من الناس أنه لا يمكنك أن تكون شخصًا عابرًا إلا إذا شعرت بالأذى الفعلي بسبب النظر إليك كرجل، لكن هذا الشعور بالذات لن يصل عادةً إلا بعد أن تبدأ رحلة العبور وتعرف أخيرًا من أنت حقًا. قبل التقبل الذاتي، من المرجح أن تبدو علاقتك بجندرك المحدد عند الولادة أشبه بانفصال وعدم ارتباط أكثر من كونها حالة من الكرب (الضيق الشديد).
 
-### Consider That Gender Dysphoria Looks Different For Trans Women Who Haven’t Self-Accepted Yet
+كما لا أستطيع أن أخبركم بعدد المرات التي سمعت فيها نساءً عابرات لم يفصحن عن هويتهن يقلن شيئًا مثل، "حسنًا، أنا لا أكره كوني رجلاً، والرجال يتمتعون بالكثير من الامتيازات المؤسسية. لا أعتقد أنني سأختار أن أكون امرأة، حتى لو استطعت ذلك، لأنني لن أرغب في التخلي عن امتيازي الذكوري". الامتياز الذكوري شيء حقيقي بالطبع، لكنه ليس مكافأة يحصل عليها الرجال لاضطرارهم إلى تحمل الانزعاج الأبدي لكونهم رجالاً. الرجال يستمتعون بكونهم رجالاً، وسيظلون يستمتعون بذلك حتى بدون امتيازاتهم الاجتماعية. إذا كان الشيء الوحيد الذي يعجبك في الذكورة هو الامتياز الذكوري، فمن المحتمل أن هذا يعني شيئًا ما.
 
-For years, I thought that I couldn’t be trans because I didn’t experience gender dysphoria. I was dead wrong.
+### ضع في اعتبارك أن الانزعاج الجندري يبدو مختلفًا لدى النساء العابرات اللواتي لم يتقبلن أنفسهن بعد
 
-One thing that kept me from realizing that I was experiencing dysphoria was the same reason that fish don’t know they’re swimming in water — it’s just what my life had always been like, so I thought being dysphoric all the time was normal human behavior. I knew that I was kind of sad and more than a little odd, and I knew that my experiences with masculinity were at least slightly gender non-conforming, but I was dealing with the pain of dysphoria every single day without having any idea what was actually going on. No matter how bad I felt, I could always come up with a good enough explanation that had nothing to do with gender.
+لسنوات طويلة، كنت أعتقد أنه لا يمكنني أن أكون عابرة لأنني لم أكن أختبر انزعاجًا جندريًا (جندر ديسفوريا). لكنني كنت مخطئة تمامًا.
 
-The other problem is that gender dysphoria manifests differently in pre-acceptance trans women than it does in post-acceptance trans women. I always thought that gender dysphoria was the distress that you get from looking in the mirror and seeing a boy starting back at you instead of a girl, but that wasn’t a feeling I actually had until I started transitioning. You can’t get distressed about not seeing a girl in the mirror until after you’ve realized you’re a girl!
+أحد الأشياء التي منعتني من إدراك أنني كنت أعيش حالة من الانزعاج هو نفس السبب الذي يجعل السمك لا يدرك أنه يسبح في الماء — لقد كانت هذه هي طبيعة حياتي دائمًا، لذلك ظننت أن الشعور بالانزعاج طوال الوقت هو سلوك بشري طبيعي. كنت أعلم أنني حزينة نوعًا ما وغريبة الأطوار بأكثر من مجرد قليل، وكنت أعلم أن تجاربي مع الذكورة كانت على الأقل غير مطابقة للجندر قليلاً، لكنني كنت أتعامل مع ألم الانزعاج كل يوم دون أن يكون لدي أدنى فكرة عما كان يحدث بالفعل. ومهما كان شعوري سيئًا، كنت دائمًا أجد تفسيرًا مقنعًا بما فيه الكفاية لا علاقة له بالجندر على الإطلاق.
 
-Before that, dysphoria manifests in dozens of other, much subtler ways. [I wrote about my experience with pre-acceptance dysphoria here, in what has become my most popular essay ever.](https://cassielabelle.medium.com/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85) I highly recommend reading it in full if you are questioning your gender.
+المشكلة الأخرى هي أن الانزعاج الجندري يتجلى بشكل مختلف لدى النساء العابرات في مرحلة ما قبل التقبل الذاتي مقارنة بمرحلة ما بعد التقبل. كنت أظن دائمًا أن الانزعاج الجندري هو ذلك الضيق الشديد الذي يصيبك عندما تنظر في المرآة لترى صبيًا يحدق فيك بدلاً من فتاة، لكن هذا لم يكن شعورًا عشته بالفعل إلا بعد أن بدأت رحلة العبور. لا يمكنك أن تشعر بالضيق لعدم رؤية فتاة في المرآة إلا بعد أن تدرك أولاً أنك فتاة!
 
-### Consider The Null HypotheCis
+قبل ذلك، يظهر الانزعاج في عشرات الطرق الأخرى الأكثر دقة وخفاءً. [لقد كتبت عن تجربتي مع انزعاج ما قبل التقبل هنا، في المقال الذي أصبح الأكثر رواجًا وقراءة لي على الإطلاق.](https://cassielabelle.medium.com/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85) وأوصي بشدة بقراءته كاملاً إذا كنت تتساءل عن جندرك.
 
-In mathematics, a [null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis) is something that is generally assumed to be true until it is proven false. It’s a default assumption, like “innocent until proven guilty.” If you’re going to convict someone of a murder, for example, circumstantial evidence just won’t do. You generally need overwhelming physical proof, or a confession, or some other obvious sign of guilt.
+### ضع في اعتبارك "فرضية العدم للتوافق الجندري" (The Null HypotheCis)
 
-[This excellent article by Natalie Reed](https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/) argues that being cisgender (not trans) is treated as a null hypothesis by our society. We are all assumed to be our assigned gender at birth, and we feel as if we need overwhelming evidence to prove our transness. Otherwise, we continue to assume that we are cis.
+في الرياضيات، [فرضية العدم (Null hypothesis)](https://en.wikipedia.org/wiki/Null_hypothesis) هي شيء يُفترض عمومًا صحته حتى يثبت العكس. إنه الافتراض الافتراضي، تمامًا مثل قاعدة "المتهم بريء حتى تثبت إدانته". إذا كنت تريد إدانة شخص ما بجريمة قتل، على سبيل المثال، فإن الأدلة الظرفية لن تكفي؛ تحتاج عادةً إلى دليل مادي قاطع، أو اعتراف، أو أي علامة واضحة أخرى على الذنب.
 
-This makes sense in the grand scheme of things, because there are probably more cis people in the world than trans people. As we discussed earlier, however, most people who are comfortable with their gender identity aren’t doing this kind of questioning. If you’ve arrived at this stage of self-discovery, there’s a fairly high chance that you aren’t completely cis.
+يُجادل [هذا المقال الممتاز بقلم ناتالي ريد (Natalie Reed)](https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/) بأن كون المرء متوافقًا جندريًا (Cisgender - أي ليس عابرًا) يُعامل كفرضية عدم في مجتمعنا. يُفترض بنا جميعًا أننا نتبع الجندر المحدد لنا عند الولادة، ونشعر وكأننا بحاجة إلى أدلة دامغة لإثبات عبورنا الجندري. وخلاف ذلك، نستمر في افتراض أننا متوافقون جندريًا (Cis).
 
-The Null HypotheCis poses a simple and effective question: once you take your finger off the scale, how likely is it that you are trans? If you give the twin hypotheses of “I am cis” and “I am trans” equal weight, and you stop demanding that transness carry the full burden of proof, what feels right to you? If you start looking for proof of cis-ness the same way you look for proof of trans-ness, the whole illusion can sometimes come tumbling down.
+هذا يبدو منطقيًا في السياق العام، لأن هناك على الأرجح أشخاصًا متوافقين جندريًا في العالم أكثر من الأشخاص العابران. ولكن، وكما ناقشنا سابقًا، فإن معظم الأشخاص المرتاحين لهويتهم الجندرية لا يطرحون هذا النوع من الأسئلة من الأساس. فإذا كنت قد وصلت إلى هذه المرحلة من اكتشاف الذات، فهناك احتمال كبير إلى حد ما بأنك لست متوافقًا جندريًا بالكامل.
 
-### Consider That If You Want To Be A Girl/Boy, Then You Are Already A Girl/Boy
+تطرح "فرضية العدم للتوافق الجندري" سؤالاً بسيطًا وفعالاً: بمجرد أن ترفع إصبعك عن كفة الميزان، ما مدى احتمالية أن تكون عابرًا؟ إذا أعطيت الفرضيتين التوأمين "أنا متوافق جندريًا" و"أنا عابر جندريًا" وزنًا متساويًا، وتوقفت عن المطالبة بأن يحمل العبور الجندري عبء الإثبات كاملاً، فما الذي تبدو صحته أقرب إليك؟ إذا بدأت في البحث عن دليل على كونك متوافقًا جندريًا بنفس الطريقة التي تبحث بها عن دليل على كونك عابرًا، فقد ينهار هذا الوهم بأكمله أحيانًا أمام عينيك.
 
-It really is that simple. Men want to be men, and women want to be women. If you want to be a man, then you‘re a man. If you want to be a woman, then you’re a woman. If you don’t want to be either, or you want to be both, or you want to be a woman sometimes and a man other times, then you’re probably some flavor of genderfluid or non-binary.
+### ضع في اعتبارك أنك إذا كنت تريد أن تكون فتاة/فتى، فأنت بالفعل فتاة/فتى
 
-“But you can’t just… do that!” I hear you say. But you absolutely can just do that. In fact, this is basically the one and only question you really have to answer for yourself. If you want to be a girl and you’ve always thought of yourself as a guy, then you will probably be happier living as a girl. It’s at least worth taking some steps to see if transitioning will bring you happiness, right?
+الأمر حقًا بهذه البساطة. الرجال يريدون أن يكونوا رجالاً، والنساء يردن أن يكنّ نساءً. إذا كنت تريد أن تكون رجلاً، فأنت رجل. وإذا كنتِ تريدين أن تكوني امرأة، فأنتِ امرأة. إذا كنت لا ترغب في أن تكون أيًا منهما، أو ترغب في أن تكون كليهما، أو ترغب في أن تكون امرأة في بعض الأحيان ورجلاً في أحيان أخرى، فمن المحتمل أنك تنتمي إلى طيف ما من مرونة الجندر (Genderfluid) أو غير الثنائية (Non-binary).
 
-### Consider That Doubting Yourself Does Not Invalidate Your Possible Trans-ness
+"لكن لا يمكنك ببساطة... أن تفعل ذلك!" أسمعك تقول هذا. لكنك تستطيع فعل ذلك بكل تأكيد. في الواقع، هذا هو السؤال الأول والوحيد الذي يجب عليك حقًا أن تجيب عليه بنفسك. إذا كنت تريدين أن تكوني فتاة وكنتِ دائمًا تعتقدين أنك شاب، فمن المحتمل أن تكوني أكثر سعادة بالعيش كفتاة. الأمر يستحق على الأقل اتخاذ بعض الخطوات لمعرفة ما إذا كان العبور الجندري سيجلب لك السعادة، أليس كذلك؟
+ss
+### ضع في اعتبارك أن التشكيك في ذاتك لا يُبطل احتمالية كونك عابرًا
 
-For years — decades, even — I “knew” that I wasn’t trans because “real” trans people are supposed to have an unshakable certainty in their own identity. I internalized this fictional image of a young trans woman demanding that everyone treat her like the woman she is, defiant in the face of oppression.
+لسنوات – بل لعقود – كنت "أعرف" أنني لست عابرة لأن الأشخاص العابرين "الحقيقيين" يُفترض أن يكون لديهم يقين لا يتزعزع في هويتهم الخاصة. لقد استبطنت هذه الصورة الخيالية لامرأة عابرة شابة تطالب الجميع بمعاملتها كالمرأة التي هي عليها، متحدية وصامدة في وجه القمع.
 
-This is what being trans was like, I thought; bravery, courage, and absolute unwavering certainty in your identity. That wasn’t me, so I couldn’t be trans!
+اعتقدت أن هذا هو ما يعنيه أن تكون عابرًا؛ الشجاعة، والجرأة، واليقين المطلق الذي لا يتزعزع في هويتك. لم أكن أنا كذلك، لذا لا يمكنني أن أكون عابرة!
 
-As it turns out, very few actual trans people feel this way before transition. Instead, we nearly all start out our journeys awash in self-doubt. That unwavering certainty does usually come, in time, but it can take months or years of self-acceptance as well as (in my case, at least) further validation in the form of hormone therapy and social transition.
+كما اتضح، قلة قليلة جدًا من الأشخاص العابرين الفعليين يشعرون بهذه الطريقة قبل العبور. وبدلاً من ذلك، نبدأ جميعنا تقريبًا رحلاتنا ونحن غارقون في الشك الذاتي. عادة ما يأتي هذا اليقين الذي لا يتزعزع بمرور الوقت، لكنه قد يستغرق شهورًا أو سنوات من التقبل الذاتي، بالإضافة إلى (في حالتي على الأقل) المزيد من التأكيد في شكل العلاج الهرموني والعبور الاجتماعي.
 
-But at the start, we nearly all feel like our gender is a confusing mess. We feel like we can’t possibly be trans enough to claim a queer identity, and we definitely don’t feel trans enough to transition. We worry that we are making the wrong decision, that we are overreacting, that stepping outside of our little cocoon of self-preservation is liable to be the biggest mistake we could ever make in our life.
+ولكن في البداية، نشعر جميعنا تقريبًا وكأن جندرنا عبارة عن فوضى مربكة. نشعر أنه من المستحيل أن نكون عابرين بما يكفي لادعاء هوية كويرية، ومن المؤكد أننا لا نشعر بأننا عابرون بما يكفي للقيام بالعبور الجندري. نقلق من أننا نتخذ القرار الخاطئ، وأننا نبالغ في رد فعلنا، وأن الخروج من شرنقتنا الصغيرة للحفاظ على الذات يُحتمل أن يكون أكبر خطأ يمكن أن نرتكبه في حياتنا على الإطلاق.
 
-If you feel all of this stuff, you’re in good company. My therapist even jokes that asking “am I trans enough?” is so common that it’s practically a symptom of being trans. You cannot figure out your gender identity without questioning it, and self-doubt is a normal part of that process.
+إذا كنت تشعر بكل هذه الأشياء، فأنت لست وحدك (أنت في صحبة جيدة). حتى أن معالجتي النفسية تمازحني قائلة إن سؤال "هل أنا عابر بما فيه الكفاية؟" شائع جدًا لدرجة أنه يُعد من الناحية العملية عَرَضًا من أعراض كونك عابرًا. لا يمكنك اكتشاف هويتك الجندرية دون التشكيك فيها، والشك الذاتي هو جزء طبيعي من تلك العملية.
 
-### Consider That Your Trans Journey Might Not Fit The Accepted, Popular Narrative
+### ضع في اعتبارك أن رحلة عبورك قد لا تتوافق مع السردية الشائعة والمقبولة
 
-Popular culture has basically decided that there’s only one transfeminine story worth telling. It’s the story of a young trans girl who figures out her identity at a very young age. Even in childhood, she gravitates toward dolls and tea parties. She tries on her older sister’s dresses and begs her mom to buy her make-up and jewelry. She basically always looks like a girl, too — feminine facial features, short stature, thin and androgynous. If she doesn’t transition in childhood or adolescence, then she’ll still somehow make it to adulthood still looking more or less like a woman. She crossdresses all the time, and might even be a drag queen. She is also probably attracted to men, and might have worked a spell as a sex worker.
+لقد قررت الثقافة الشعبية بشكل أساسي أن هناك قصة واحدة فقط للعابرات نحو الأنوثة تستحق أن تُروى. إنها قصة فتاة عابرة صغيرة تكتشف هويتها في سن مبكرة جدًا. حتى في مرحلة الطفولة، تميل نحو الدمى وحفلات الشاي. وتقوم بتجربة فساتين شقيقتها الكبرى وتتوسل لوالدتها لتشتري لها المكياج والمجوهرات. وهي تبدو دائمًا كفتاة أيضًا — بملامح وجه أنثوية، وقامة قصيرة، ونحيفة ومحايدة جندريًا (Androgynous). وإذا لم تقم بالعبور الجندري في طفولتها أو مراهقتها، فإنها ستصل بطريقة ما إلى مرحلة البلوغ وهي لا تزال تبدو كامرأة إلى حد ما. إنها ترتدي ملابس النساء طوال الوقت، وربما تكون حتى فنانة أداء جندري (Drag queen). ومن المحتمل أيضًا أنها تنجذب إلى الرجال، وربما تكون قد عملت لفترة في مجال العمل الجنسي.
 
-This is a valid and common trans narrative. I know many girls who have experienced some or all of these tropes. There’s a reason why this story is told over and over again, after all.
+هذه سردية عابرة صحيحة وشائعة. أعرف العديد من الفتيات اللواتي مررن ببعض أو كل هذه الأنماط المألوفة (Tropes). هناك سبب وراء سرد هذه القصة مرارًا وتكرارًا في نهاية المطاف.
 
-That said, the vast majority of trans women I know are nothing like this. Many of them had classically male childhoods, complete with toy cars, video games, and NERF guns. Many of them never cross-dressed at all, and felt somewhat repulsed by drag culture. Many of them grew up with large bodies, broad shoulders, and bushy beards. Many of them aren’t attracted to men at all, while others are bi or pansexual. Many of them did not begin seriously questioning their gender until their late twenties or early thirties. Many have no “signs” of being trans in their past. They simply spent their entire lives accepting that they were men, and that was that. Until it wasn’t.
+ومع ذلك، فإن الغالبية العظمى من النساء العابرات اللواتي أعرفهن لا يشبهن هذا الوصف على الإطلاق. العديد منهن عشن طفولة ذكورية كلاسيكية، مليئة بسيارات الألعاب، وألعاب الفيديو، ومسدسات نيرف (NERF guns). العديد منهن لم يرتدين ملابس الجندر الآخر على الإطلاق، وشعرن بنوع من النفور تجاه ثقافة الأداء الجندري (Drag culture). العديد منهن كبرن بأجسام ضخمة، وأكتاف عريضة، ولحى كثيفة. العديد منهن لا ينجذبن للرجال على الإطلاق، بينما أخريات مزدوجات الميل (Bisexual) أو شاملات الميل الجنسي (Pansexual). العديد منهن لم يبدأن في التشكيك الجاد في جندرهن حتى أواخر العشرينيات أو أوائل الثلاثينيات من العمر. والعديد منهن ليس لديهن أي "علامات" في ماضيهن تدل على كونهن عابرات. لقد قضين ببساطة حياتهن بأكملها في تقبل كونهن رجالاً، وانتهى الأمر عند هذا الحد. حتى لم يعد الأمر كذلك.
 
-This is a common trans narrative, but nobody really talks about it. Trans women like this — like me — have only really started to open up about our stories in the past few years. Before that? The only story you heard was the one I chronicled above. That’s why that trans narrative seems “right” and this one seems “wrong.”
+هذه سردية شائعة للعبور، لكن لا أحد يتحدث عنها حقًا. النساء العابرات من هذا القبيل — مثلي — بدأن للتو في الانفتاح حول قصصنا في السنوات القليلة الماضية فقط. قبل ذلك؟ القصة الوحيدة التي كنت تسمعها هي تلك التي سردتها أعلاه. ولهذا السبب تبدو تلك السردية العابرة "صحيحة" وهذه تبدو "خاطئة".
 
-But girls like us are incredibly common. [This scientific study from 2003](https://web.archive.org/web/20220222143959/http://www.avitale.com/developmentalreview.htm) (warning for dated language if you read it) chronicles the observations of a researcher who spent decades working with trans women. In her experience, there are three distinct groups of trans women, two of which follow the “I’ve always known” path I chronicled above, and one of which does not. According to her, “Group Three” trans women have classically male childhoods, tend not to show the normal signs of being trans, and tend to come out later in life. While some of them cross-dress, many do not, choosing to deal with their dysphoria in more subtle and internal ways. I can’t tell you how validated I felt reading that paper during my questioning phase, realizing that there were so many other trans women out there just like me.
+لكن الفتيات اللواتي يشبهننا شائعات بشكل لا يصدق. تسجل [هذه الدراسة العلمية من عام 2003](https://web.archive.org/web/20220222143959/http://www.avitale.com/developmentalreview.htm) (تحذير من اللغة القديمة المستخدمة إذا قرأتها) ملاحظات باحثة أمضت عقودًا في العمل مع النساء العابرات. من واقع خبرتها، هناك ثلاث مجموعات متميزة من النساء العابرات، تتبع مجموعتان منهما مسار "لقد كنت أعرف دائمًا" الذي سردته أعلاه، بينما لا تتبع المجموعة الثالثة هذا المسار. وفقًا لها، تعيش النساء العابرات في "المجموعة الثالثة" طفولة ذكورية كلاسيكية، ويمِلن إلى عدم إظهار العلامات المعتادة لكونهن عابرات، ويمِلن إلى الإفصاح عن هويتهن في وقت لاحق من الحياة. وبينما تقوم بعضهن بارتداء ملابس الجندر الآخر (Cross-dress)، فإن الكثيرات منهن لا يفعلن ذلك، ويخترن التعامل مع انزعاجهن (الديسفوريا) بطرق أكثر خفية وداخلية. لا أستطيع أن أصف لك مدى التأييد والمشروعية الذي شعرت به عند قراءة تلك الورقة البحثية خلال مرحلة التشكيك الخاصة بي، وإدراكي أن هناك الكثير من النساء العابرات الأخريات مثلي تمامًا.
 
-I also believe that more trans women like us are coming out now because there’s so much more representation and so many more resources. In 1991, 2001, even 2011, the path to transition was much more difficult, and most people didn’t know any openly trans people. In this world, the only people who chose to transition were those for whom not doing so was just about impossible.
+أعتقد أيضًا أن المزيد من النساء العابرات مثلنا يفصحن عن هويتهن الآن بسبب وجود تمثيل أكثر بكثير وموارد أكثر بكثير. في أعوام 1991، 2001، وحتى 2011، كان مسار العبور أكثر صعوبة بكثير، ومعظم الناس لم يكونوا يعرفون أي أشخاص عابرين يفصحون عن هويتهم بشكل علني. في هذا العالم، كان الأشخاص الوحيدون الذين اختاروا العبور هم أولئك الذين كان عدم القيام بذلك بالنسبة لهم أمرًا شبه مستحيل.
 
-It isn’t just easier to question your gender here in 2021; it’s easier to gain access to trans communities, hormones, and other crucial resources. If I’d been born thirty years earlier, I might not have transitioned at all. If I’d been born thirty years later, I’d probably have transitioned as a teenager. Don’t worry about whether or not you’ve “always known” if this is the first time you’ve ever had the freedom and resources to truly ask yourself this question.
+لا يقتصر الأمر على أن التشكيك في جندرك أصبح أسهل هنا في عام 2021؛ بل أصبح من الأسهل الوصول إلى مجتمعات العابرين، والهرمونات، وغيرها من الموارد الحاسمة. لو كنت قد ولدت قبل ذلك بثلاثين عامًا، لربما لم أقم بالعبور على الإطلاق. ولو كنت قد ولدت بعد ذلك بثلاثين عامًا، لربما قمت بالعبور كفتاة مراهقة. لا تقلق بشأن ما إذا كنت "تعرف دائمًا" أم لا إذا كانت هذه هي المرة الأولى التي تتمتع فيها بالحرية والموارد لتسأل نفسك هذا السؤال بصدق.
 
-### Consider That The Things Keeping You From Self-Acceptance Might Have Nothing To Do With Your Identity
+### ضع في اعتبارك أن الأشياء التي تمنعك من التقبل الذاتي قد لا يكون لها علاقة بهويتك
 
-Whenever I’m talking to a questioning trans woman, the conversation eventually turns to the obstacles that she might face if she chooses to transition. “I worry that I’m too tall/large/hairy/ugly to transition” is a pretty common fear. “I worry that my family will disown me/my partner will leave me” is another worry I hear a lot. Other girls are really worried about their career, education, or college situation. Many fear that they simply can’t handle the medical bills for HRT or trans surgeries.
+كلما تحدثت إلى امرأة عابرة في مرحلة التشكيك، يتحول الحديث في النهاية إلى العقبات التي قد تواجهها إذا اختارت العبور. "أخشى أنني أطول/أضخم/أكثر شعرًا/أقبح من أن أقوم بالعبور" هو خوف شائع جدًا. "أخشى أن تتبرأ مني عائلتي/يتركني شريكي" هو قلق آخر أسمعه كثيرًا. فتيات أخريات قلقات حقًا بشأن مسيرتهن المهنية، أو تعليمهن، أو وضعهن الجامعي. يخشى الكثيرون أنهن ببساطة لا يستطعن تحمل الفواتير الطبية للعلاج بالهرمونات البديلة (HRT) أو العمليات الجراحية الخاصة بالعبور.
 
-Everyone — everyone — doubts that they have the fortitude to deal with socially transitioning. Coming out to friends, wearing women’s clothing, dealing with transphobia… it’s a terrifying mess, especially for closeted trans women, who usually feel pretty short on resilience as it is. The whole thing can seem chronically overwhelming.
+الجميع — بلا استثناء — يشكون في أنهم يمتلكون الثبات الكافي للتعامل مع العبور الاجتماعي. الإفصاح عن هويتك للأصدقاء، وارتداء ملابس النساء، والتعامل مع رهاب العبور الجندري (الترانسفوبيا)... إنها فوضى مرعبة، خاصة بالنسبة للنساء العابرات في "الخزانة"، اللواتي يشعرن عادة بنقص شديد في الصلابة النفسية كما هو الحال. يمكن أن يبدو الأمر برمته مربكًا ومرهقًا بشكل مزمن.
 
-These fears often manifest in the form of self-gatekeeping. “I’m afraid that I will never be a pretty girl” turns into “I can’t be trans, because what if I’m not pretty enough after I transition?” This seems somewhat silly in a vacuum, but pre-acceptance trans girls will sometimes do anything to convince themselves that they aren’t actually trans. I definitely thought that I wasn’t trans because I simply couldn’t imagine actually taking HRT and dressing like a woman every day. That was something that brave people did, not people like me, so I couldn’t be trans!
+تتجلى هذه المخاوف غالبًا في شكل فرض قيود ووصاية على الذات (Self-gatekeeping). فكرة "أخشى أنني لن أكون أبدًا فتاة جميلة" تتحول إلى "لا يمكنني أن أكون عابرة، لأنه ماذا لو لم أكن جميلة بما فيه الكفاية بعد العبور؟" يبدو هذا سخيفًا نوعًا ما في المطلق، لكن الفتيات العابرات في مرحلة ما قبل التقبل يفعلن أحيانًا أي شيء لإقناع أنفسهن بأنهن لسن عابرات في الواقع. لقد اعتقدت بالتأكيد أنني لست عابرة لأنني ببساطة لم أستطع تخيل أنني أتناول العلاج الهرموني (HRT) فعليًا وأرتدي ملابس النساء كل يوم. كان هذا شيئًا يفعله الأشخاص الشجعان، وليس أشخاصًا مثلي، لذلك لا يمكنني أن أكون عابرة!
 
-Why do we do this to ourselves? I think it’s all about self-protection. We know that transition is incredibly difficult, and so we will try literally everything else in the world before we’re even willing to start facing the “am I trans?” question. We develop really strong self-protective voices that push back hard against the truth because then we don’t have to worry about the terror of what comes next.
+لماذا نفعل هذا بأنفسنا؟ أعتقد أن الأمر كله يتعلق بحماية الذات. نحن نعلم أن العبور صعب للغاية، ولذا سنحاول حرفيًا تجربة كل شيء آخر في العالم قبل أن نكون مستعدين حتى لبدء مواجهة سؤال "هل أنا عابر؟". نُطور أصواتًا قوية جدًا لحماية الذات تقاوم الحقيقة بشراسة لأننا حينها لن نضطر للقلق بشأن رعب ما سيأتي بعد ذلك.
 
-Here’s the thing, though: even if you are trans, you don’t actually have to do anything about it. While I highly recommend transitioning, it’s definitely possible to self-accept and then just… do nothing. Keep your name, your pronouns, your life as it is. Or you can just change a few things, and enjoy those little pings of gender euphoria where you can.
+ولكن إليك حقيقة الأمر: حتى لو كنت عابرًا، فليس عليك فعل أي شيء حيال ذلك فعليًا. على الرغم من أنني أوصي بشدة بالعبور، إلا أنه من الممكن بالتأكيد أن تتقبل ذاتك ثم... لا تفعل شيئًا ببساطة. احتفظ باسمك، وضمائرك، وحياتك كما هي. أو يمكنك فقط تغيير بعض الأشياء، والاستمتاع بتلك اللحظات الصغيرة من النشوة الجندرية (Gender euphoria) حيثما استطعت.
 
-The important thing to remember is that the truth of your identity is separate from all of the hopes and fears you have about transitioning. If you’re a girl on the inside, it doesn’t matter what you look like. It doesn’t matter what your family thinks of you. It doesn’t matter whether or not you have the means or even the desire to medically transition. Identity is a mental and spiritual thing, separate from all of this. If you’re a girl, you’re a girl.
+الشيء المهم الذي يجب تذكره هو أن حقيقة هويتك منفصلة عن كل الآمال والمخاوف التي لديك بشأن العبور. إذا كنتِ فتاة من الداخل، فلا يهم كيف تبدين. لا يهم رأي عائلتك فيكِ. لا يهم ما إذا كانت لديك الوسائل أو حتى الرغبة للقيام بعبور طبي أم لا. الهوية هي مسألة عقلية وروحية، منفصلة عن كل هذا. إذا كنتِ فتاة، فأنتِ فتاة.
 
-So start there. Figure out who you ARE, regardless of what you do about it.
+لذا ابدأ من هناك. اكتشف من *أنت*، بغض النظر عما ستفعله حيال ذلك.
 
-Whenever I talk to a questioning trans woman who is stuck on this stuff, I always try to factor out these social factors as best I can. I’ll ask hypothetical questions like this:
+كلما تحدثت إلى امرأة عابرة تتساءل وعالقة في هذه الأمور، أحاول دائمًا استبعاد هذه العوامل الاجتماعية قدر الإمكان. سأطرح أسئلة افتراضية كهذه:
 
-You are given a magical button that will permanently swap your gender, giving you an “opposite-gendered” body that is equivalent to your own in age, fitness, and attractiveness. If you press the button, everybody in your life will have always known you as a girl. They will accept you immediately. You will not lose your partner, your job, or your family. Do you press it?
+أُعطيت زرًا سحريًا سيبدل جندرك بشكل دائم، ويمنحك جسدًا من "الجندر الآخر" مكافئًا لجسدك في العمر واللياقة والجاذبية. إذا ضغطت على الزر، فإن كل شخص في حياتك سيعرفك دائمًا كفتاة. سيتقبلونك على الفور. لن تفقد شريكك، أو وظيفتك، أو عائلتك. هل تضغط عليه؟
 
-Cis people would not even consider pressing this button, by the way. If you know deep down that you’d press it but are still afraid to self-accept as trans, then your sticking point probably has more to do with your fear of transitioning than it does with your true identity.
+بالمناسبة، الأشخاص المتوافقون جندريًا (Cis people) لن يفكروا حتى في الضغط على هذا الزر. إذا كنت تعلم في قرارة نفسك أنك ستضغط عليه ولكنك لا تزال خائفًا من التقبل الذاتي كشخص عابر، فمن المحتمل أن نقطة توقفك تتعلق بخوفك من رحلة العبور أكثر من ارتباطها بهويتك الحقيقية.
 
-### Consider That It’s Rarely “Just A Fetish.”
+### ضع في اعتبارك أنه نادرًا ما يكون "مجرد هوس جنسي (Fetish)".
 
-I cannot tell you how many trans people — including me — began exploring their gender feelings in the realm of sexual fantasy.
+لا أستطيع أن أخبرك بعدد الأشخاص العابرين — بمن فيهم أنا — الذين بدأوا في استكشاف مشاعرهم الجندرية في عالم الخيال الجنسي.
 
-There are many different ways for this to manifest: gender-play with partners, enjoying transformation-related drawings, reading stories about boys who are turned into girls, or role-playing gender transformation fantasies with partners on online forums or messaging apps. There’s so much of this stuff out there, and a lot of the people who enjoy it are closeted trans women like I was.
+هناك العديد من الطرق المختلفة لتجلي ذلك: اللعب الجندري (Gender-play) مع الشركاء، أو الاستمتاع بالرسومات المتعلقة بالتحول، أو قراءة قصص عن أولاد يتحولون إلى فتيات، أو لعب أدوار خيالات التحول الجندري مع شركاء على المنتديات الإلكترونية أو تطبيقات المراسلة. يوجد الكثير من هذه الأشياء، والعديد من الأشخاص الذين يستمتعون بها هن نساء عابرات لم يفصحن عن هويتهن كما كنت أنا.
 
-This makes a lot of sense when you think about it. Sex is one of the few realms of human experience where it’s safe to explore gender without having to face larger questions about identity. It’s extremely possible to separate these two things in your head for years and years and years. You’re just a man who occasionally likes to fantasize about being turned into a woman. That doesn’t mean you’re trans!
+هذا يبدو منطقيًا جدًا عندما تفكر فيه. الجنس هو أحد مجالات التجربة الإنسانية القليلة التي يكون من الآمن فيها استكشاف الجندر دون الاضطرار إلى مواجهة أسئلة أكبر حول الهوية. من الممكن جدًا فصل هذين الأمرين في رأسك لسنوات وسنوات وسنوات. أنت مجرد رجل يحب أحيانًا أن يتخيل أنه تحول إلى امرأة. هذا لا يعني أنك عابر!
 
-Unfortunately, exploring gender this way can actually make self-acceptance harder for many trans women. While I found this sort of sexual exploration absolutely necessary in my pre-self-acceptance days, it also meant that I was able to write off my intrusive gender thoughts or daydreams as “just a fetish.” I treated them as something hidden and shameful instead of something to investigate further.
+للأسف، استكشاف الجندر بهذه الطريقة يمكن أن يجعل التقبل الذاتي في الواقع أصعب بالنسبة للعديد من النساء العابرات. في حين أنني وجدت هذا النوع من الاستكشاف الجنسي ضروريًا تمامًا في أيام ما قبل التقبل الذاتي، إلا أن ذلك عنى أيضًا أنه كان بإمكاني تجاهل أفكاري أو أحلام يقظتي الجندرية الملحة باعتبارها "مجرد هوس جنسي". لقد تعاملت معها كشيء خفي ومخزٍ بدلاً من كونها شيئًا يستحق المزيد من البحث والاستكشاف.
 
-This issue is further complicated by the term “autogynephilia,” a bogus transphobic “theory” posited by a crank psychologist named Ray Blanchard. Autogynephilia posits that many people who self-identify as trans women aren’t actually women at all, but are instead creepy men who are turned on by the idea of being a woman or having a vagina. According to Blanchard, their entire transition is just an elaborate fetish game that they’re forcing the world to participate in.
+تزداد هذه المشكلة تعقيدًا بسبب مصطلح "الأوتوجينيفيليا (الاشتهاء الذاتي للأنوثة)"، وهو "نظرية" زائفة معادية للعابرين طرحها طبيب نفسي مدعٍ يُدعى راي بلانشارد. تفترض الأوتوجينيفيليا أن العديد من الأشخاص الذين يُعرّفون أنفسهم كنساء عابرات لسن نساءً على الإطلاق، بل هم رجال غريبو الأطوار تُثيرهم فكرة كونهم نساء أو امتلاكهم لمهبل. ووفقًا لبلانشارد، فإن عبورهم الجندري بأكمله هو مجرد لعبة هوس جنسي معقدة يجبرون العالم على المشاركة فيها.
 
-I want to be clear, here: autogynephilia is bullshit. [It has been discredited by actual scientists and researchers many, many times.](https://juliaserano.medium.com/making-sense-of-autogynephilia-debates-73d9051e88d3) The entire point of this theory, as far as I can tell, was to try and get cis people to start viewing trans women as male sex predators. Thankfully, most cis people don’t feel this way, and most of them haven’t heard of Blanchard or autogynephilia at all.
+أريد أن أكون واضحة هنا: الأوتوجينيفيليا هراء تام. [لقد دحضها علماء وباحثون حقيقيون مرات عديدة جدًا.](https://juliaserano.medium.com/making-sense-of-autogynephilia-debates-73d9051e88d3) الهدف الأساسي من هذه النظرية، على حد علمي، كان محاولة جعل الأشخاص المتوافقين جندريًا يبدأون في النظر إلى النساء العابرات كحيوانات مفترسة جنسيًا من الذكور. لحسن الحظ، معظم الأشخاص المتوافقين جندريًا لا يشعرون بهذه الطريقة، ومعظمهم لم يسمعوا عن بلانشارد أو الأوتوجينيفيليا على الإطلاق.
 
-Unfortunately, a lot of closeted trans women come across this stuff as they’re questioning and think, “oh, do I just have autogynephilia? Maybe I’m not actually trans.” This is doubly true for trans women who have spent a lot of time expressing their gender feelings in sexual spaces, especially if they feel sexually aroused by the idea of becoming a woman.
+للأسف، تصادف الكثير من النساء العابرات اللواتي لم يفصحن عن هويتهن هذه الأشياء أثناء مرحلة التشكيك ويفكرن، "أوه، هل أعاني فقط من الأوتوجينيفيليا؟ ربما لست عابرة حقًا". هذا ينطبق بشكل مضاعف على النساء العابرات اللواتي قضين الكثير من الوقت في التعبير عن مشاعرهن الجندرية في المساحات الجنسية، خاصة إذا كن يشعرن بالإثارة الجنسية تجاه فكرة التحول إلى امرأة.
 
-While this feeling of arousal is too complex to fully unpack in this tiny section of a much longer essay, I will say that this feeling is really common early on but it tends to fade as your transition progresses. Some of it has to do with the fact that if you tie gender euphoria to sexual arousal for long enough, one will express partially as the other. Some of it also has to do with the fact that being seen as your true gender, or experiencing sexual pleasure as your true gender, feels fucking terrific. Either way, it’s not “just a fetish” if your feelings go deeper than pure sexual arousal.
+في حين أن هذا الشعور بالإثارة معقد للغاية بحيث لا يمكن تفكيكه بالكامل في هذا الجزء الصغير من مقال أطول بكثير، إلا أنني سأقول إن هذا الشعور شائع جدًا في البداية ولكنه يميل إلى التلاشي مع تقدم مسار عبورك. جزء من ذلك يتعلق بحقيقة أنه إذا ربطت النشوة الجندرية (Gender euphoria) بالإثارة الجنسية لفترة طويلة بما فيه الكفاية، فإن أحدهما سيعبر عن نفسه جزئيًا كأنه الآخر. وجزء من ذلك يتعلق أيضًا بحقيقة أن أن يُنظر إليكِ بجندرك الحقيقي، أو أن تختبري المتعة الجنسية بجندرك الحقيقي، هو شعور رائع بشكل لا يُصدق. في كلتا الحالتين، الأمر ليس "مجرد هوس جنسي" إذا كانت مشاعرك أعمق من مجرد الإثارة الجنسية البحتة.
 
-### Consider The Broad Umbrella of Trans Identities
+### ضع في اعتبارك المظلة الواسعة لهويات العابرين جندريًا
 
-If you haven’t spent a lot of time in a community with openly queer people, you might not have fully internalized just how many different ways there are to both experience and express your gender.
+إذا لم تكن قد أمضيت الكثير من الوقت في مجتمع يضم أشخاصًا كويريين مفصحين عن هويتهم، فربما لم تستوعب بالكامل عدد الطرق المختلفة التي يمكنك من خلالها اختبار جندرك والتعبير عنه.
 
-The wider world makes it seem like the “man” box and the “woman” box are two entirely different things with a massive gulf of emptiness between them, but that’s not really true. There are a roughly infinite number of ways to express gender, both inside and outside those boxes, and your gender might be somewhere in that undefined space. I am a fairly binary trans woman, and I like being inside the girl box, but my conception of gender as well as how I choose to express it are often entirely different from other people who are also in the girl box.
+يجعل العالم الأوسع الأمر يبدو وكأن صندوق "الرجل" وصندوق "المرأة" هما شيئان مختلفان تمامًا وبينهما فجوة هائلة من الفراغ، لكن هذا ليس صحيحًا في الواقع. هناك عدد لا حصر له تقريبًا من الطرق للتعبير عن الجندر، سواء داخل تلك الصناديق أو خارجها، وقد يكون جندرك في مكان ما في تلك المساحة غير المحددة. أنا امرأة عابرة ثنائية إلى حد ما، وأحب أن أكون داخل صندوق "الفتاة"، لكن تصوري عن الجندر وكذلك الطريقة التي أختار التعبير بها عنه غالبًا ما يكونان مختلفين تمامًا عن الأشخاص الآخرين الموجودين أيضًا في صندوق الفتيات.
 
-There is no right way to be trans. Some trans people change their presentation but don’t change their pronouns. Some trans people change their name and pronouns but don’t change their presentation. Some trans people are okay living as their assigned gender at birth as long as they know who they are on the inside.
+لا توجد طريقة صحيحة (أو واحدة) لتكون عابرًا. يغير بعض الأشخاص العابرين مظهرهم الخارجي لكنهم لا يغيرون ضمائرهم. ويغير بعض الأشخاص العابرين أسماءهم وضمائرهم لكنهم لا يغيرون مظهرهم الخارجي. وبعض الأشخاص العابرين لا يمانعون في العيش بجندرهم المحدد عند الولادة طالما أنهم يعرفون من هم حقًا في الداخل.
 
-Many trans people don’t opt for gender affirming surgeries or hormones. Many trans people use a different name and different pronouns depending on how they’d like to be seen in a given situation. Many trans people simply forge a relationship to gender that is slightly askew from cisnormativity, plant their flag, and call it a day.
+لا يختار العديد من الأشخاص العابرين إجراء العمليات الجراحية أو تناول الهرمونات المؤكدة للجندر. ويستخدم العديد من الأشخاص العابرين اسمًا مختلفًا وضمائر مختلفة بناءً على كيفية رغبتهم في أن يُنظر إليهم في موقف معين. العديد من الأشخاص العابرين يبنون ببساطة علاقة مع الجندر تنحرف قليلاً عن المعيارية المتوافقة جندريًا (Cisnormativity)، ويركزون رايتهم هناك، ويكتفون بذلك.
 
-Many trans people set out to transition one way, and ultimately realize that their identity better matches with something that they couldn’t have even begun to see when their process started.
+يبدأ العديد من الأشخاص العابرين رحلة العبور بطريقة معينة، ويدركون في النهاية أن هويتهم تتطابق بشكل أفضل مع شيء لم يكونوا قادرين حتى على رؤيته أو تخيله عندما بدأت عمليتهم.
 
-All of this is valid, and my goal by including all this stuff here is to take the pressure off. It’s harder to accept yourself as trans if you feel like self-acceptance is going to come with a whole new set of impossible expectations. In truth, one of the great joys of being trans is realizing that you are actually free from all of these narrow ideas about what gender can and cannot be.
+كل هذا مشروع وهويات صحيحة، وهدفي من تضمين كل هذه الأشياء هنا هو تخفيف الضغط عنك. من الصعب أن تتقبل نفسك كشخص عابر إذا كنت تشعر أن التقبل الذاتي سيأتي مع مجموعة جديدة كاملة من التوقعات المستحيلة. في الحقيقة، من أعظم مباهج كونك عابرًا هو إدراك أنك في الواقع حر من كل هذه الأفكار الضيقة حول ما يمكن وما لا يمكن أن يكون عليه الجندر.
 
-No matter what you decide about your gender, the important thing is to be true to yourself. This sounds cheesy, but giving yourself permission to be honest about what does and does not bring you joy in terms of gender and gender presentation can be an explicitly radical act. This journey might lead you toward more comfort in your assigned gender at birth, or toward some sort of non-binary or gender-fluid identity, or perhaps you will come join me over here in the girl box (we have cupcakes!).
+بغض النظر عما تقرره بشأن جندرك، فالأمر المهم هو أن تكون صادقًا مع نفسك. قد يبدو هذا مبتذلًا، لكن منح نفسك الإذن لتكون صريحًا بشأن ما يجلب لك السعادة وما لا يجلبها فيما يتعلق بالجندر والتعبير الجندري يمكن أن يكون فعلًا جذريًا وثوريًا بامتياز. قد تقودك هذه الرحلة نحو شعور أكبر بالراحة في جندرك المحدد عند الولادة، أو نحو نوع من الهوية غير الثنائية أو المرنة جندريًا (Gender-fluid)، أو ربما ستأتي لتنضم إليّ هنا في صندوق الفتيات (لدينا كعك الكب كيك!).
 
-Whatever you choose, do it because it helps you feel more like yourself.
+مهما كان اختيارك، افعله لأنه يساعدك على الشعور بأنك تشبه نفسك الحقيقية بشكل أكبر.
 
-### Consider That Transition Is Less About Discovering A Single Metaphysical Truth And More About Doing What Makes You Happy
+### ضع في اعتبارك أن العبور الجندري لا يتعلق باكتشاف حقيقة ميتافيزيقية واحدة بقدر ما يتعلق بفعل ما يجعلك سعيدًا
 
-One sticking point I come across a lot when I talk to questioning trans women is that they’ve paralyzed themselves with fear and are unwilling to act until they’ve solved the equation at the center of themselves and completely and fully accepted that they are, without a doubt, 100% trans.
+إحدى نقاط التوقف التي أصادفها كثيرًا عندما أتحدث إلى نساء عابرات في مرحلة التشكيك هي أنهن قد أصبن أنفسهن بالشلل بسبب الخوف، وغير مستعدات للتصرف حتى يقمن بحل المعادلة في صميم ذواتهن ويتقبلن بشكل كامل وتام أنهن، بلا أدنى شك، عابرات بنسبة 100٪.
 
-Unfortunately, this is pretty much impossible to do, especially before you’ve taken any actions toward affirming your gender. There’s no blood test or brain scan that can confirm trans-ness, so you will never have unequivocal proof. I can’t tell you how many girls have messaged me weeks or months into their self-acceptance and said things like, “hey, so I actually had a good day today presenting as male. Does that mean that I’m not actually trans?”
+لسوء الحظ، هذا الأمر شبه مستحيل الحدوث، خاصة قبل أن تتخذ أي خطوات نحو تأكيد جندرك. لا يوجد فحص دم أو تصوير للدماغ يمكنه تأكيد كونك عابرًا، لذلك لن يكون لديك أبدًا دليل قاطع لا يقبل اللبس. لا أستطيع أن أخبرك بعدد الفتيات اللواتي راسلنني بعد أسابيع أو أشهر من تقبلهن لذواتهن وقلن أشياء مثل، "مهلاً، لقد حظيت اليوم بيوم جيد في الواقع وأنا أظهر كرجل. هل يعني هذا أنني لست عابرة حقًا؟"
 
-(To answer: nope! I’ve had plenty of good days in boy-mode. I’m still a girl.)
+(للإجابة: كلا! لقد أمضيت الكثير من الأيام الجيدة في "وضع الصبي/الرجل". ولا أزال فتاة.)
 
-To that end, it’s worth keeping in mind that you are not a puzzle to be solved. You do not have to perform an exact taxonomic classification of your own gender. You’re just a human with your own complex set of needs, desires, dreams, goals, fears, triggers, and a whole mess of everything else. You are a contradictory, complex, illogical being who contains vast multitudes.
+ولتحقيق هذه الغاية، يجدر بك أن تضع في اعتبارك أنك لست لغزًا يجب حله. لست مضطرًا لإجراء تصنيف دقيق ومنهجي لجندرك الخاص. أنت مجرد إنسان ولديك مجموعة معقدة من الاحتياجات، والرغبات، والأحلام، والأهداف، والمخاوف، والمحفزات، وفوضى عارمة من كل شيء آخر. أنت كائن متناقض، ومعقد، وغير منطقي، وتحتوي بداخلك على عوالم متعددة.
 
-This is kind of scary, but hopefully it’s also somewhat freeing. There’s no “proper” timeline to your transition. No list of things that you absolutely have to do. You can keep your name, or change it. You can get gender confirmation surgery, or you can keep what you’ve got. You can wear dresses every day, or you can leave them all for me. Some trans ladies have been dressing like women since they were old enough to buy clothes, but I didn’t once wear a full femme outfit until I was already three months into HRT. There are no rules. They were all made up by people who have been dead for hundreds of years.
+هذا مخيف نوعًا ما، ولكنه نأمل أن يكون محررًا إلى حد ما أيضًا. لا يوجد جدول زمني "صحيح" لرحلة عبورك. ولا توجد قائمة بالأشياء التي يتوجب عليك القيام بها مطلقًا. يمكنك الاحتفاظ باسمك، أو تغييره. يمكنك الخضوع لجراحة تأكيد الجندر، أو يمكنك الاحتفاظ بما لديك. يمكنك ارتداء الفساتين كل يوم، أو يمكنك تركها جميعًا لي. بعض السيدات العابرات كن يرتدين ملابس النساء منذ أن أصبحن في سن تسمح لهن بشراء الملابس، لكنني لم أرتدِ زيًا أنثويًا كاملاً ولو لمرة واحدة إلا بعد أن مضت ثلاثة أشهر على بدء العلاج الهرموني (HRT). لا توجد قواعد. لقد اختلقها جميعًا أشخاص ماتوا منذ مئات السنين.
 
-You also don’t have to commit to anything right away. Transition isn’t one giant leap into the abyss — it’s a series of small, willing steps. All of the early steps are easily reversible, and you never have to do anything that you don’t think will help make your life better. If you keep your eyes on your feet, you’ll cross the chasm before you know it.
+لست مضطرًا أيضًا للالتزام بأي شيء على الفور. العبور الجندري ليس قفزة عملاقة واحدة في الهاوية — بل هو سلسلة من الخطوات الصغيرة الطوعية. جميع الخطوات المبكرة يمكن التراجع عنها بسهولة، ولست مضطرًا أبدًا للقيام بأي شيء لا تعتقد أنه سيساعد في جعل حياتك أفضل. إذا أبقيت عينيك على موضع قدميك، فسوف تعبر الهاوية قبل أن تدرك ذلك.
 
-I like to recommend that people who are questioning their gender pick one or two small things and try them out instead of being stuck in their head all day, waiting for more evidence to present itself. Shave your arms, your legs, or your chest. Get some nail polish. Buy a piece of female clothing. Make an “alt” account on social media with a female name and she/her pronouns and engage with the digital world as a girl. Tell a trusted friend or two that you are questioning your gender, and ask them to call you by a different name/pronouns in private to see how it feels. Even the first few months of HRT are easily reversed, if you want to see how your mind works on estrogen.
+أحب أن أنصح الأشخاص الذين يتساءلون عن جندرهم باختيار شيء أو شيئين صغيرين وتجربتهما بدلاً من البقاء عالقين في أفكارهم طوال اليوم، في انتظار ظهور المزيد من الأدلة. قم بحلاقة شعر ذراعيك، أو ساقيك، أو صدرك. ضع بعض طلاء الأظافر. اشترِ قطعة ملابس نسائية. أنشئ حسابًا "بديلاً" (Alt) على وسائل التواصل الاجتماعي باسم أنثوي وضمائر هي/ها (she/her) وتفاعل مع العالم الرقمي كفتاة. أخبر صديقًا موثوقًا أو اثنين أنك تتساءل عن جندرك، واطلب منهما مناداتك باسم/ضمائر مختلفة على انفراد لترى كيف تشعر حيال ذلك. حتى الأشهر القليلة الأولى من العلاج الهرموني (HRT) يمكن التراجع عنها بسهولة، إذا كنت ترغب في رؤية كيف يعمل عقلك في وجود الإستروجين.
 
-While some of these steps are probably going to make you feel overwhelmed — heck, you might feel overwhelmed just thinking about them — you might also feel a few pings of absolute bliss somewhere in the process. Little moments of “oh, oh, OH, I like this, this feels good!!”
+في حين أن بعض هذه الخطوات من المحتمل أن تجعلك تشعر بالارتباك والإرهاق — يا إلهي، قد تشعر بالارتباك بمجرد التفكير فيها — إلا أنك قد تشعر أيضًا ببعض اللحظات الخاطفة من النعيم المطلق في مكان ما أثناء هذه العملية. لحظات صغيرة من "أوه، أوه، أوه، أنا أحب هذا، هذا شعور رائع!!"
 
-That’s gender euphoria, and it’s a sign that you’re proceeding in the right direction. If you follow those feelings, wherever they take you, I guarantee you it will lead to so much happiness and joy.
+هذه هي النشوة الجندرية (Gender euphoria)، وهي علامة على أنك تسير في الاتجاه الصحيح. إذا اتبعت تلك المشاعر، أينما أخذتك، أضمن لك أنها ستؤدي إلى الكثير من السعادة والفرح.
+
+</div>
